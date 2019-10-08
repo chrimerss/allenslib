@@ -32,3 +32,9 @@ neglected inhydrological practice, based on the assumption that it has little in
 the total recorded rainfall depth.We have demonstrated that, since the error increases with
 rainfall intensity, the assumption is not acceptablefor the assessment of design rainfall in
 urban-scale applications.
+
+[Simplified method to eorreet rainfall measurements from tipping bucket rain gauges](https://ascelibrary.org/doi/pdf/10.1061/40583%28275%2972)
+
+Tipping bucket rain gauges are commonly used in rainfall measurement campaigns. The main
+disadvantage of these devices is that they underestimate rainfall volumes at the higher rainfall
+intensities, due to the loss of water during the tipping action of the device. 

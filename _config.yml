@@ -18,7 +18,8 @@ email: li1995@ou.edu
 description: >- # this means to ignore newlines until "baseurl:"
   basic website of literatures, useful and convenient for reading and recap!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "chrimerss.github.io/PersonalLib.com'
 # twitter_username: jekyllrb
 github_username:  chrimerss
 

@@ -4,6 +4,7 @@
 
 layout: home
 title: Home
+nav_order: 1
 ---
 
 Here is a personal library for literatures!

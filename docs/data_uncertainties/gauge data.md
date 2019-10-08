@@ -2,7 +2,7 @@
 layout: default
 title: gauge
 parent: Data Uncertainties
-nav_order: 2
+nav_order: 1
 ---
 
 # Gauge Measurement Errors

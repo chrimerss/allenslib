@@ -8,3 +8,16 @@ nav_order: 3
 __Hong, Y., et al. (2006). "Uncertainty quantification of satellite precipitation estimation and Monte Carlo assessment of the error propagation into hydrologic response." Water Resources Research 42(8).__
 	
 Author compared satellite data from PERSIANN-CCS, and NCEP stage IV radar data as reference from temperal, and spatial scale. From the analysis, satellite errors (RMSE) is mitigated as aggreated space and time, but the percentage of error (normalized) indicated that satellite tends to have larger relative error in lower range of rainfall intensity. What's more, author evaluated the error propogation by a hydrologic simulation, and offered an uncertainty estimation.
+
+__Guo, H., et al. (2016). "Early assessment of Integrated Multi-satellite Retrievals for Global Precipitation Measurement over China." Atmospheric Research 176-177: 121-133.__
+
+The author evaluated IMERG PrecipUncal and PrecipCal, found that calibrated precipitation improved the accuracy dramatically, while both Uncal and Cal suffer from light precipitation and winter, overestimating in these range in China.
+
+__Sharifi, E., et al. (2016). "Assessment of GPM-IMERG and Other Precipitation Products against Gauge Data under Different Topographic and Climatic Conditions in Iran: Preliminary Results." Remote Sensing 8(2).__
+
+Author compared IMERG final product with TMPA-3B42 and ECMWF, found that Overall, in daily scale the results reveal that all three products lead to underestimation but IMERG performs better than other products and underestimates precipitation slightly in all four regions. Good results were obtained with rainfall amounts greater than 15 mm/day during rainy periods or in humid regions. 
+
+__Prakash, S., et al. (2016). "From TRMM to GPM: How well can heavy rainfall be detected from space?" Advances in Water Resources 88: 1-7.__
+
+Author showed an improvement if IMERG data compared to TMPA data in detecting extreme rainfall events in India. Even though the TMPA data showed a larger probability of detection of heavy rainfall events most parts of the country, it showed a large false alarm ratio and a relatively small critical success index.
+

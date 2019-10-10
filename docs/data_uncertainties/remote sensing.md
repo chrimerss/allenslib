@@ -21,3 +21,6 @@ __Prakash, S., et al. (2016). "From TRMM to GPM: How well can heavy rainfall be 
 
 Author showed an improvement if IMERG data compared to TMPA data in detecting extreme rainfall events in India. Even though the TMPA data showed a larger probability of detection of heavy rainfall events most parts of the country, it showed a large false alarm ratio and a relatively small critical success index.
 
+[__A global map of uncertainties in satellite‐based precipitation measurements__](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2010GL046008)
+
+Author intercompared different products but all derived from TRMM, 3B42, 3B42RT, CMORPH, GSMaP, PERSIANN, NRL. The uncertainties are relatively small (40–60%) over the oceans, especially in the tropics, and over southern South America. There are large uncertainties (100–140%) over high latitudes (poleward of 40° latitude), especially during the cold season.

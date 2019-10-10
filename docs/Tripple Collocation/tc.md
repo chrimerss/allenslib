@@ -18,5 +18,10 @@ It compared multiple satellite products from SM2RAIN, and illustrated it can fac
 
 The author evaluated the performance of multiple satellites and global gauge products, validated TC method in southern region of China to prove the applicability. And eventually they applied TC in gauge-free regions e.g. Tibet to show which product is more reliable.
 
+__Stoffelen, A. (1998). "Toward the true near-surface wind speed: Error modeling and calibration using triple collocation." Journal of Geophysical Research: Oceans 103(C4): 7755-7766.__
 
-	
+First TC method applied to estimate surface wind speed. Linear transformation of random error.
+
+__Gentemann, C. L. (2014). "Three way validation of MODIS and AMSR-E sea surface temperatures." Journal of Geophysical Research: Oceans 119: 2583-2598.__
+
+TC method applied to sea surface temperatures

@@ -70,14 +70,15 @@ Provide information in classify precipitation type
 The gridded gauge data set called mountain mapper is a quality controlled, spatial representative data from PRISM over the US.
 Integration with radar
 Bias were calculated from mountain mapper product and gauge, followed by inversed-distance interpolation.
-Products
-Raw reflectivity – 2min/~1km
-Quality index – 2min
-Precipitation type – 2min
-Radar based QPE – 2min, 1h, 3h, 6h, 12h, 24h
-Gauge based QPE – 1 (3, 6, 12, 24) h
-Local gauge bias corrected QPE – 1 (3, 6, 12, 24) h
-gauge-and-precipitation-clima¬tology-merged QPE. 48 (72) h
+
+Products   
+Raw reflectivity – 2min/~1km   
+Quality index – 2min   
+Precipitation type – 2min   
+Radar based QPE – 2min, 1h, 3h, 6h, 12h, 24h   
+Gauge based QPE – 1 (3, 6, 12, 24) h   
+Local gauge bias corrected QPE – 1 (3, 6, 12, 24) h   
+gauge-and-precipitation-clima¬tology-merged QPE. 48 (72) h    
 
 
 Challenges

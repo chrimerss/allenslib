@@ -25,3 +25,7 @@ First TC method applied to estimate surface wind speed. Linear transformation of
 __Gentemann, C. L. (2014). "Three way validation of MODIS and AMSR-E sea surface temperatures." Journal of Geophysical Research: Oceans 119: 2583-2598.__
 
 TC method applied to sea surface temperatures
+
+__Alemohammad, S. H., et al. (2015). "Characterization of precipitation product errors across the United States using multiplicative triple collocation." Hydrology and Earth System Sciences 19(8): 3489-3503.__
+
+The author validated the appropriateness of MTC to ATC in rainfall error estimation, and transformed logarithmic error back to linear domain by Tayler expansion.

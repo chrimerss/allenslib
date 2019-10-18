@@ -28,3 +28,9 @@ Author intercompared different products but all derived from TRMM, 3B42, 3B42RT,
 [__A TenYear Tropical Rainfall Climatology Based on a Composite of TRMM Products__](https://www.jstage.jst.go.jp/article/jmsj/87A/0/87A_0_281/_pdf/-char/en)
 
 Author analyzed three composite products derived from TRMM, and used climatological statistics to estimate the uncertainties.
+
+__O, S., et al. (2017). "Evaluation of GPM IMERG Early, Late, and Final rainfall estimates using WegenerNet gauge data in southeastern Austria." Hydrology and Earth System Sciences 21(12): 6559-6572.__
+
+1. IMERG underestimates at high rain intensity, and overestimates at low rain intensity.  
+2. IMERG-L only provides marginal benefits for IMERG-E.  
+3, IMERG-F outperforms than early and late products.   

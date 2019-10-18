@@ -20,3 +20,7 @@ In another application example, (Cecinati, Moreno-Ródenas, Rico-Ramirez, ten Ve
 __Fattoruso, G., Longobardi, A., Pizzuti, A., Molinara, M., Marocco, C., De Vito, S., . . . Di Francia, G. (2017). Evaluation and design of a rain gauge network using a statistical optimization method in a severe hydro-geological hazard prone area.__
 
 (Fattoruso et al., 2017) formularized two objective functions, first to maximize the prediction accuracy, and second to minimize the cost due to maintenance, i.e. the minimum gauge number. The author also incorporated a time-dependent scaling factor in evaluating estimation variance. To solve for two optimization problem, the author utilized enumerative search algorithm and stop iteration when reaching pareto optimal.
+
+__GPCP__
+
+global gauge data product: https://www.esrl.noaa.gov/psd/data/gridded/data.gpcc.html

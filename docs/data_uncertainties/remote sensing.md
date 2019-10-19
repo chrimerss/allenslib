@@ -33,4 +33,4 @@ __O, S., et al. (2017). "Evaluation of GPM IMERG Early, Late, and Final rainfall
 
 1. IMERG underestimates at high rain intensity, and overestimates at low rain intensity.  
 2. IMERG-L only provides marginal benefits for IMERG-E.  
-3, IMERG-F outperforms than early and late products.   
+3. IMERG-F outperforms than early and late products.   

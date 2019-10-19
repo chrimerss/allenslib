@@ -9,10 +9,12 @@ __MRMS__
 
 __Zhang, J., et al. (2016). "Multi-Radar Multi-Sensor (MRMS) Quantitative Precipitation Estimation: Initial Operating Capabilities." Bulletin of the American Meteorological Society 97(4): 621-638.__
 
-Measurements
+__Measurements__
+
 1)	MRMS radar data
 MRMS network is comprised of 146 S-band (dual polarization) radar (typically frequency ranges from 2-4 Ghz, and wavelength 7.5-15 cm) and 30 C-band (single polarization) radar (typically frequency ranges from 4-8 Ghz, and wavelength 3.8-7.5 cm).
-Quality control
+Quality control . 
+
     1.	Separation between hydrometeor and non-hydrometeor:
     
         a.	Correlation coefficient filter
@@ -39,7 +41,7 @@ Quality control
         
     5.	Quality index is provided by taking blockage and vertical distance of bin into account
     
-Mosaic
+__Mosaic__   
 Pixel point precipitation measurements are weighted by both relative distance from neighboring radar and also vertical distance of radar bin after fitting into an exponential function. The philosophy is trying to minimize false echo by relying more on low datum radar.
 Precipitation type
 Fall into 7 categories by classification algorithm (decision tree)
@@ -62,16 +64,19 @@ Integration with radar
     
     
 3)	NWP model data
+
 Numerical weather prediction data are integrated in mrms to provide information on type of precipitation (surface temp./wet bulb temp.), suitability for producing precipitation (relative humidity, wind field etc.)
 Integration with radar
 Provide information in classify precipitation type
 
 4)	Precipitation climatology data
+
 The gridded gauge data set called mountain mapper is a quality controlled, spatial representative data from PRISM over the US.
 Integration with radar
 Bias were calculated from mountain mapper product and gauge, followed by inversed-distance interpolation.
 
-Products   
+__Products__
+
 Raw reflectivity – 2min/~1km   
 Quality index – 2min   
 Precipitation type – 2min   
@@ -81,7 +86,7 @@ Local gauge bias corrected QPE – 1 (3, 6, 12, 24) h
 gauge-and-precipitation-clima¬tology-merged QPE. 48 (72) h    
 
 
-Challenges
+__Challenges__   
 1)	Blockage and orographic enhanced precipitation remain unsolved.
 2)	Vertical variability of reflectivity
 3)	Uncertainty remained for frozen precipitation due to lack of in situ monitoring measurements.

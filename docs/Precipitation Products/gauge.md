@@ -24,3 +24,8 @@ __Fattoruso, G., Longobardi, A., Pizzuti, A., Molinara, M., Marocco, C., De Vito
 __GPCP__
 
 global gauge data product: https://www.esrl.noaa.gov/psd/data/gridded/data.gpcc.html
+
+__A. Becker, P. F., A. Meyer-Christoffer, B. Rudolf, K. Schamm, U. Schneider, and M. Ziese (2013). "A description of the global land-surface precipitation data products of the Global Precipitation Climatology Centre with sample applications including centennial (trend) analysis from 1901–present." Earth System Science Data 5: 71-99.__
+
+Full descrption of GPCC data set, including climatological calibration, interpolation, quality control and different version variations.
+

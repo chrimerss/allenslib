@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Flash Flood
-permalink: /flashflood/
+title: Extreme Events
+permalink: /extreme/
 has_children: true
 nav_order: 5
 ---

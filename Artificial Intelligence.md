@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Uncertainties
+title: Artificial Intelligence
 permalink: /AI/
 has_children: true
 nav_order: 6

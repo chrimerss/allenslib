@@ -18,3 +18,11 @@ __Ombadi, M., et al. (2018). "Developing Intensity-Duration-Frequency (IDF) Curv
 In this paper, the author tried to develop IDF curve through 3 steps: 1. bias adjustment, 2. Point-to-Area transformation, 3. develop IDF curve with IR satellite data PERSIANN-CDR. The results are compared with NOAA Atlas 14.
 
 The adjustment of bias is related to altitude because the author found the bias is increasing with elevation for IR satellite precipitation products.
+
+__Maddox, R. A. Chappell, C. F. and Hoxit, L. R. (1979). "Synoptic and Meso-$\alpha$ Scale Aspects of Flash Flood Events." Foucs on Forecasting.__
+
+Author analyzed synoptic and mesoscale flash flood occuring in the US from 1973 to 77. He found that places frequently having flash flooding share the same features:
+  1. Heavy rains were produced by convective storms. (from W to E, convective storms are more dominant)
+  2. Surface dewpoint temperatures were very high.
+  3. Large moisture contents were present through a deep trpospheric layer.
+  4. Vertical wind share was weak to moderate through the cloud depth.

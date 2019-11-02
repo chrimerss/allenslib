@@ -15,3 +15,9 @@ In the post processing step, the author utilized:
   3. Gaussian smoothing
   
 which derived from [Kaggle competition](http://blog.kaggle.com/2017/05/09/dstl-satellite-imagery-competition-3rd-place-winners-interview-vladimir-sergey/) (3rd place) 
+
+# Deep Learning in general
+
+[What Do We Understand About Convolutional Networks?](https://arxiv.org/pdf/1803.08834.pdf)
+
+94 pages overview of Convolutional Nerual Network: from technologies to research scope.

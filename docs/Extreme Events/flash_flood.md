@@ -25,4 +25,12 @@ Author analyzed synoptic and mesoscale flash flood occuring in the US from 1973 
   1. Heavy rains were produced by convective storms. (from W to E, convective storms are more dominant)
   2. Surface dewpoint temperatures were very high.
   3. Large moisture contents were present through a deep trpospheric layer.
-  4. Vertical wind share was weak to moderate through the cloud depth.
+  4. Vertical wind shear was weak to moderate through the cloud depth.
+
+__Dowswell III, C. A., H.E. Brooks, R.A. Maddox (1996). "Flash Flood Forecasting: An Ingredients-Based Methodology." Weather and Forecast(11): 560-581.__
+
+Key ingredients that affect flash floods:
+  1. The heaviest precipitation occurs where the rainfall rate is highest for longest time.
+  2. precipitation efficiency is important: the ratio of the mass of water falling as precipitation to the influx of water vapor loss into the cloud.
+  3. Heavy rain rates are most often occur with deep convection - the atmosphere must be conditionally unstable and significant lift must occur to lift the airmass through the level of free convection (LFC).
+  4. The heavy precipitation must remain quasi-stationary.

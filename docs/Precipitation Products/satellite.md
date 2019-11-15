@@ -13,6 +13,16 @@ Author in detail described difference between early product and final product (u
  with refered to gauge ground truth data for six extremely heavy precipitation events. The results indicated that IMERG final product
  can capture the spatial partterns of storm. with gauge calibrated is underestimated comapred to without gauge calibration over rainfall core. 
  
+__Skofronick-Jackson, G., et al. (2017). "The Global Precipitation Measurement (Gpm) Mission for Science and Society." Bull Am Meteorol Soc 98(8): 1679-1695.__
+
+This paper provides an overview about GPM and its auxiliary products (IMERG). It mentioned some constraints about GPM core constellation. 
+ 1. DPR has detectable rainfall range of (0.22, 110) mm/hour.
+ 2. GMI has detectable rainfall range of (0.2, 60) mm/hour.
+ 
+and also some ground validation efforts e.g. with gauges, with mrms radars (conditional bias) to show whether it satisfies the goal.
+
+At last, it wraps up some real-world applications of using GPM (IMERG) data.
+ 
 # PERSIANN
 
 Author overviews three product: PERSIANN, PERSIANN-CCS, PERSIANN-CDR.

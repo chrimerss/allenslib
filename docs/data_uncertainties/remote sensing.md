@@ -36,3 +36,7 @@ __O, S., et al. (2017). "Evaluation of GPM IMERG Early, Late, and Final rainfall
 1. IMERG underestimates at high rain intensity, and overestimates at low rain intensity.  
 2. IMERG-L only provides marginal benefits for IMERG-E.  
 3. IMERG-F outperforms than early and late products.   
+
+__Chen, S., et al. (2013). "Performance evaluation of radar and satellite rainfalls for Typhoon Morakot over Taiwan: Are remote-sensing products ready for gauge denial scenario of extreme events?" Journal of Hydrology 506: 4-13.__
+
+Author compared four remote sensing products and ground based radar during excessive rainfall events in Taiwan. They compared the hourly rainfall and rainfall accumulation with metrics that conditioned at different percentiles. Overall, the results suggest that ground based radar is more close to referenced gauge data and thus can be replaced in gauge denial regions. Satellite QPE tends to underestimate extreme rainfall due to gauge smoother, missed precipitation outside of PMW overpass, iced areas assigned with 0 precipitation.

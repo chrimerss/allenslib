@@ -38,3 +38,8 @@ urban-scale applications.
 Tipping bucket rain gauges are commonly used in rainfall measurement campaigns. The main
 disadvantage of these devices is that they underestimate rainfall volumes at the higher rainfall
 intensities, due to the loss of water during the tipping action of the device. 
+
+__Stampoulis, D. and E. N. Anagnostou (2012). "Evaluation of Global Satellite Rainfall Products over Continental Europe." Journal of Hydrometeorology 13(2): 588-603.__
+
+The convective nature of rainfall will increase gauge-interpolation uncertainties as the standard deviation increased.
+Specifically, both satellite techniques (TRMM, CHMRPH) underestimate rainfall over higher elevations, especially during the cold season, and their performance is subject to seasonal changes.

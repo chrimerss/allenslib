@@ -28,3 +28,13 @@ The random errors contained in a finite set E of precipitation estimates result 
 __Gebregiorgis, A. S., et al. (2018). "To What Extent is the Day 1 GPM IMERG Satellite Precipitation Estimate Improved as Compared to TRMM TMPA-RT?" Journal of Geophysical Research: Atmospheres 123(3 %@ 2169-897X): 1694-1707.__
 
 Author compared IMERG late product and TRPA product with one year dataset for CONUS, with MRMS radar data as reference. He decomposed error sources into successful detection, false detection, miss rain and explored seasonality of the differences. As the results suggests, IMERG has improved performance mainy due to: improved IR detection (PERSIANN-CCS), smoother interpolation (CMORPH-KF). Most of the error accumulates in the region where convective precipitation dominates.
+
+__Tan, J., et al. (2019). "Diurnal Cycle of IMERG V06 Precipitation." Geophysical Research Letters.__
+
+The authors specifically analyzed diurnal cycle of IMERG precipitation data, and validated it with MRMS: over US, it is slightly lagged no more than 1 hour (median half hour).
+
+They extended their research on global diurnal cycles, and found:
+ 1. inland near coast, precipitation peaks in the afternoon, while in the late afternoon or evening further inland.
+ 2. Over ocean, maximum precipitation occurs around midnight close to shore and in the morning futher offshore.
+
+Some regional cases e.g. Singapore, Bangladesh and Lake Victoria illustrated the interplay between durnal and seasonal cycles, exemplifying the unprecedented ability of IMERG in capturing diurnal variability of precipitation globally.

@@ -38,3 +38,8 @@ They extended their research on global diurnal cycles, and found:
  2. Over ocean, maximum precipitation occurs around midnight close to shore and in the morning futher offshore.
 
 Some regional cases e.g. Singapore, Bangladesh and Lake Victoria illustrated the interplay between durnal and seasonal cycles, exemplifying the unprecedented ability of IMERG in capturing diurnal variability of precipitation globally.
+
+__Tan, J., et al. (2015). "Increases in tropical rainfall driven by changes in frequency of organized deep convection." Nature 519(7544): 451-454.__
+
+Observations and models have found that changes in rainfall show patterns characterized as 'wet-gets-wetter' and 'warmer-gets-wetter'. These changes in precipitation are largely located in the tropics and hence are probably associated with convection.  
+the spatial patterns of change in the frequency of organized deep convection are strongly correlated with observed change in rainfall, both positive and negative (correlation of 0.69), and can explain most of the patterns of increase in rainfall. In contrast, changes in less organized forms of deep convection or changes in precipitation within organized deep convection contribute less to changes in precipitation. 

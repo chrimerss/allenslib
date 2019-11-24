@@ -91,4 +91,20 @@ __Challenges__
 2)	Vertical variability of reflectivity
 3)	Uncertainty remained for frozen precipitation due to lack of in situ monitoring measurements.
 4)	Potential usage of R-Kdp or R-A based on different schemes.
- 
+
+
+__Saltikoff, E., et al. (2019). "An Overview of Using Weather Radar for Climatological Studies: Successes, Challenges, and Potential." Bulletin of the American Meteorological Society 100(9): 1739-1752.__
+
+Table 2. Data portals where radar data or archived images can be downloaded.
+
+|Area|Provider|Since|Radars|URL|
+|:--:|:------:|:---:|:----:|:-:|
+|Australia|BoM|1998|79|http://openradar.io/au|
+|Europe|OPERA|2012|140|Ask for license from info@eumetnet.eu|
+|Germany|DWD|2001|17|https://opendata.dwd.de|
+|Netherlands|KNMI|1998/2008|2|https://data.knmi.nl/datasets?q=radar(https://climate4impact.eu)|
+|New Zealand|MetService|2011|9|https://about.metservice.com/our-company/about-this-site/open-access-data/|
+|Norway|Met|2010|9|http://thredds.met.no/thredds/remotesensingarchive.html|
+|United States|NEXRAD|1991|160|www.ncdc.noaa.gov/data-access/radar-data/nexrad|
+
+"In our experience, the added value of radar for climate monitoring is particularly high for convective precipitation with high spatial and temporal variations, which cannot correctly be captured by rain gauge networks."

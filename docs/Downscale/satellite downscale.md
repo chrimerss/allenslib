@@ -15,6 +15,6 @@ downscale.
 According to the result, CER is the one that affects downscale performances most.
 
 <p align="center">
-<img src="https://chrimerss.github.io/allenslib/src/IMERG_downscale_clouds_flowchart.png" width="60%"> </img>
+<img src="https://chrimerss.github.io/allenslib/src/IMERG_downscale_clouds_flowchart.png" width="60%">
 </p>
 <p align="center">Fig. Flowchart of processing downscaling.</p>

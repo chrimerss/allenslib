@@ -43,3 +43,9 @@ __Stampoulis, D. and E. N. Anagnostou (2012). "Evaluation of Global Satellite Ra
 
 The convective nature of rainfall will increase gauge-interpolation uncertainties as the standard deviation increased.
 Specifically, both satellite techniques (TRMM, CHMRPH) underestimate rainfall over higher elevations, especially during the cold season, and their performance is subject to seasonal changes.
+
+__Pollock, M., et al. (2010). "Accurate Rainfall Measurement: The Neglected Achiles Heel of Hydro-Meteorology."__
+
+Wind as an essential factor in tropical cyclones would substantially affect the performance of rain gauges, with the relative bias ranging from 5 percent to 80 percent according to the speed.
+
+

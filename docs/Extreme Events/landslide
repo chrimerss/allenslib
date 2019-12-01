@@ -1,0 +1,11 @@
+---
+layout: default
+title: Landslide
+parent: Extreme Events
+nav_order: 2
+---
+
+__Kirschbaum, D. and T. Stanley (2018). "Satellite-Based Assessment of Rainfall-Triggered Landslide Hazard for Situational Awareness." Earth's Future 6(3): 505-523.__
+
+The author used IMERG NRT and TRMM NRT satellite QPE to feed into landslide model to triger forecast. It has been found that
+ IMERG NRT QPE tends to be improved in detection landslide than TRMM.

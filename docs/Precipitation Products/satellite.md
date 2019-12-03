@@ -51,3 +51,20 @@ Evaluation:
   2. for extreme events (>10mm), PERSIANN-CDR outperforms than PERSIANN-CCS and PERSIANN, but still underestimate.
   3. For global comparison, PERSIANN and PERSIANN-CDR exhibit good performance over mountainous regions while underperforming coastal regions.
   
+# Satelite Precipitation intercomparison
+
+__Chen, H., et al. (2019). "Comparison Analysis of Six Purely Satellite-derived Global Precipitation Estimates." Journal of Hydrology: 124376.__
+
+The author compared six satellite QPEs e.g., IMERG-E, IMERG-L, PERSIANN-CCS, TRPA-NR, GSMaP-NRT, GSMap-MAK at daily global scale and hourly and daily over mainland China. And author decomposes BIAS into hits Bias, misses Bias, false Bias
+
+Globally:
+1. IMERG-L is the best among the other five, while GSMaP is the worst. 
+2. IMERG suite reduced underestimation compared to GSMaP but still remain problematic in complex terrains.
+
+Author decomposed RMSE with respect to rain rate, and found that 30% around of RMSE is comming from rain rate>32mm/day.
+
+Over mainland China:  
+1. IMERG overestimates light precipitation.
+2. all products overestimate over semi-arid regions by false bias.
+3. PERSIANN-CCS underestimates in humid regions, GSMaP overestimates semi-humid regions in warm season.
+

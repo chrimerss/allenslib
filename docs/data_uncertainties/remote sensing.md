@@ -5,6 +5,11 @@ parent: Data Uncertainties
 nav_order: 3
 ---
 
+__Sarachi, S., K. Hsu, and S. Sorooshian, 2015: A Statistical Model for the Uncertainty Analysis of Satellite Precipitation Products. J. Hydrometeor., 16, 2101–2117, https://doi.org/10.1175/JHM-D-15-0028.1__
+
+Author utlized different distributions i.e. Generalized Normal Distribution (GND) to fit satellite precipitation data. The best model is found based on different aggregation levels e.g. spatial, temporal. Also, the author decomposed precipitation into summer and winter seasons because of the different characteristics.
+
+
 __Hong, Y., et al. (2006). "Uncertainty quantification of satellite precipitation estimation and Monte Carlo assessment of the error propagation into hydrologic response." Water Resources Research 42(8).__
 	
 Author compared satellite data from PERSIANN-CCS, and NCEP stage IV radar data as reference from temperal, and spatial scale. From the analysis, satellite errors (RMSE) is mitigated as aggreated space and time, but the percentage of error (normalized) indicated that satellite tends to have larger relative error in lower range of rainfall intensity. What's more, author evaluated the error propogation by a hydrologic simulation, and offered an uncertainty estimation.
@@ -49,3 +54,15 @@ Geostationary satellites are especially important for their unique ability simul
 __Stampoulis, D. and E. N. Anagnostou (2012). "Evaluation of Global Satellite Rainfall Products over Continental Europe." Journal of Hydrometeorology 13(2): 588-603.__
 
 The error statistics presented herein indicate that both orography and seasonal variability affect the efficiency of the satellite rainfall retrieval techniques. Specifically, both satellite techniques underestimate rainfall over higher elevations, especially during the cold season, and their performance is subject to seasonal changes. A significant difference between the two satellite products is that TRMM 3B42 V6 generally overestimates rainfall, while CMORPH underestimates it. CMORPH?s mean error is shown to be of higher magnitude than that of 3B42 V6, while in terms of random error variance, CMORPH exhibits lower (higher) values than those of 3B42 V6 in the winter (summer) months.
+
+# Complex Terrain
+
+__Mei, Y., E.N. Anagnostou, E.I. Nikolopoulos, and M. Borga, 2014: Error Analysis of Satellite Precipitation Products in Mountainous Basins. J. Hydrometeor., 15, 1778–1793, https://doi.org/10.1175/JHM-D-13-0194.1__
+
+The author proposed a new metrics (AI) that is used to quantify false detection and difference: 
+
+$$AI=\frac{2\sqrt{I}\sqrt{R}}{IR}$$
+
+Further they seperates AI into three events and ploted in a radar graph.
+
+

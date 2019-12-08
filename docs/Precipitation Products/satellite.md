@@ -12,11 +12,7 @@ Algorithm description:
 IMERG data combined precipitation estimation from Passive Microwave (PMW) sensors comprising the GPM CO and then merged into half-hourly 0.1 by 0.1 degree fields using Goddard Profiling Algorithm (Olson, Yang, Stout, & Grecu, 2007) and intercalibrated with the GPM Combined Ku Radar-Radiometer Algorithm (CORRA) product [Grecu et al., 2016](https://journals.ametsoc.org/doi/10.1175/JTECH-D-16-0019.1). To fill in the gaps between PMW overpasses, the merged half-hourly 0.1°×0.1° is further recalibrated with Climate Prediction Center (CPC) Morphing-Kalman Filter (CMORPH-KF) Lagrangian time interpolation [Joyce & Xie, 2011](https://journals.ametsoc.org/doi/full/10.1175/JHM-D-11-022.1) and Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks Cloud Classification System (PERSIANN-CCS) [Hong, Hsu, Sorooshian, & Gao, 2004](https://journals.ametsoc.org/doi/full/10.1175/JAM2173.1). 
 IMERG data archive consists of three stages, the first two is near-real-time as Early Run (~4 hour latency) and Late Run (~14 hour latency), and the latter post-analysis Final Run (~3.5 months latency). Early run uses only forward morphing, while late run and final run include both forward and backward morphing. Final run also incorporates monthly gauge adjustment with Global Precipitation Climatology Project (GPCP) at 1° grid box [Adler et al., 2003](https://journals.ametsoc.org/doi/full/10.1175/1525-7541%282003%29004%3C1147%3ATVGPCP%3E2.0.CO%3B2).
 
-__Chaoying Huang, J. H., Sheng Chen, Asi Zhang, Zhenqing Liang,Xinhua Tong ,Liusi Xiao, Chao Min,Zengxin Zhang (2019). "How Well Can IMERG Products Capture Typhoon Extreme Precipitation Events over Southern China? ." Remote Sensing 11(70): 1-22.__
 
-Author in detail described difference between early product and final product (uncalibrated). He compared early product and final product
- with refered to gauge ground truth data for six extremely heavy precipitation events. The results indicated that IMERG final product
- can capture the spatial partterns of storm. with gauge calibrated is underestimated comapred to without gauge calibration over rainfall core. 
  
 __Skofronick-Jackson, G., et al. (2017). "The Global Precipitation Measurement (Gpm) Mission for Science and Society." Bull Am Meteorol Soc 98(8): 1679-1695.__
 
@@ -27,7 +23,20 @@ This paper provides an overview about GPM and its auxiliary products (IMERG). It
 and also some ground validation efforts e.g. with gauges, with mrms radars (conditional bias) to show whether it satisfies the goal.
 
 At last, it wraps up some real-world applications of using GPM (IMERG) data.
+
+## IMERG Stage intercomparison
+
+__Mahmoud, M. T., Al-Zahrani, M. A., & Sharif, H. O. (2018). Assessment of global precipitation measurement satellite products over Saudi Arabia. Journal of Hydrology, 559, 1-12. doi:https://doi.org/10.1016/j.jhydrol.2018.02.015__
+
+The author used IMERG 04 three stages: Early, Late, and Final to evaluate the accuracy of each stage for event-based, station-based, and region-based. All results suggest that Final is more accurate than both Early and Late.
+
+__Chaoying Huang, J. H., Sheng Chen, Asi Zhang, Zhenqing Liang,Xinhua Tong ,Liusi Xiao, Chao Min,Zengxin Zhang (2019). "How Well Can IMERG Products Capture Typhoon Extreme Precipitation Events over Southern China? ." Remote Sensing 11(70): 1-22.__
+
+Author in detail described difference between early product and final product (uncalibrated). He compared early product and final product
+ with refered to gauge ground truth data for six extremely heavy precipitation events. The results indicated that IMERG final product
+ can capture the spatial partterns of storm. with gauge calibrated is underestimated comapred to without gauge calibration over rainfall core. 
  
+
 # PERSIANN
 
 Author overviews three product: PERSIANN, PERSIANN-CCS, PERSIANN-CDR.

@@ -77,3 +77,9 @@ Over mainland China:
 2. all products overestimate over semi-arid regions by false bias.
 3. PERSIANN-CCS underestimates in humid regions, GSMaP overestimates semi-humid regions in warm season.
 
+# Advanced Microwave Sounding Unit (AMSU)
+
+[__Advanced microwave sounding unit cloud and precipitation algorithms__](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2002RS002679%4010.1002/%28ISSN%291944-799X.MARS01)
+
+Author descibed algorithms for precipitation retrieval, cloud liquid water, and also including how to eliminate bias of AMSU-A NOAA-15 and NOAA-16 caused by asymeteric scaning.
+

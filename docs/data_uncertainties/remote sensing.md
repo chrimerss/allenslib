@@ -65,4 +65,16 @@ $$AI=\frac{2\sqrt{I}\sqrt{R}}{IR}$$
 
 Further they seperates AI into three events and ploted in a radar graph.
 
+# Climatology
 
+### Arid
+
+__Serrat-Capdevila, A.; Merino, M.; Valdes, J.B.; Durcik, M. Evaluation of the Performance of Three Satellite Precipitation Products over Africa. Remote Sens. 2016, 8, 836.__
+
+Author evaluated three SPPs in Africa where the arid region dominates and also ITCZ is prominent. Because IR SPP decreases performances in event detection when increase aridity, thus the author adopts error correction to mitigate this effect with mapping the pdf of rain rate.
+
+### Global rainfall distribution
+
+__Ricko, M., R.F. Adler, and G.J. Huffman, 2016: Climatology and Interannual Variability of Quasi-Global Intense Precipitation Using Satellite Observations. J. Climate, 29, 5447–5468, https://doi.org/10.1175/JCLI-D-15-0662.1__
+
+Author analyzed global precipitation distribution with TRMM data and dissected the driver of precipitation for ocean, land, and coasts. They also considered the seasonal behavior of the mean rainfall, extreme rainfall.

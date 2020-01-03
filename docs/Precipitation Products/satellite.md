@@ -83,3 +83,19 @@ Over mainland China:
 
 Author descibed algorithms for precipitation retrieval, cloud liquid water, and also including how to eliminate bias of AMSU-A NOAA-15 and NOAA-16 caused by asymeteric scaning.
 
+
+# Satellite Precipitation Retrieval
+
+Frequencies useful to infer rain rate [Source: CoMet course](https://www.meted.ucar.edu/satmet/microwave_topics/clouds_precip_wv_v2/navmenu.php?tab=1&page=2-11-0&type=flash):
+
+1. 23-24 GHz: Weak water vapor absorption region, sensitive to water vapor through the entire depth of the atmosphere, sensitive to large cloud water content, sensitive to larger raindrops and low rain rates. Used mainly for water vapor estimation, water cloud and rainfall retrieval especially over oceans. (TPW used to observe ARs and storms)
+
+2. 31-37 GHz: Window region, sensitive to large cloud water content, sensitive to medium to large drops and low rain rates.Used mainly for cloud and rainfall retrieval especially over oceans, and for surface feature characterization.(used to classify convective core in low clouds)
+
+3. 50-60 GHz: Oxygen absorption region, sensitive to atmospheric temperature at different levels, sensitive to moderate cloud water content, sensitive to medium sized drops. Used mainly for temperature sounding and rainfall estimation.
+
+4. 85-89 GHz: Atmospheric window region, sensitive to low cloud water content, sensitive to small drops, sensitive to precipitation-size ice particles.Used mainly for cloud and precipitation retrieval, and for surface feature characterization (used to identify deep convection.
+
+5. 165 GHz: Atmospheric window region with some absorption by water vapor and oxygen, very sensitive to precipitation-size ice particles and small drops. Used mainly for cloud and precipitation retrieval especially over land, and surface feature characterization.
+
+6. 175-190 GHz: Strong water vapor absorption region, sensitive to water vapor at various levels through the atmosphere, very sensitive to precipitation-size ice particles and small drops. Used mainly for moisture sounding and precipitation estimation, especially over land.

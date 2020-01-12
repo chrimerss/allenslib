@@ -83,6 +83,10 @@ Over mainland China:
 
 Author descibed algorithms for precipitation retrieval, cloud liquid water, and also including how to eliminate bias of AMSU-A NOAA-15 and NOAA-16 caused by asymeteric scaning.
 
+[Detection of tropical deep convective clouds from AMSU-B water vapor channels measurements](https://www.researchgate.net/profile/Georg_Heygster/publication/228682106_Detection_of_tropical_deep_convective_clouds_from_AMSU-B_water_vapor_channels_measurements/links/0c96052032d3ec2ec5000000/Detection-of-tropical-deep-convective-clouds-from-AMSU-B-water-vapor-channels-measurements.pdf)
+
+Author used the difference between 183.3+1, 183.3+3, and 183.3+7GHz three channels to construct relationship to detect convective cores at nadir. As the result suggests, when $\delta_{T}_{13}$, $\delta_{T}_{37}$, $\delta_{T}_{17}$ are larger than zero, it has a strong signal of convective storm, while when $\delta_{T}_{13}>\delta_{T}_{37}>\delta_{T}_{13}>0$, it suggests convective overshooting. To account for different viewing angles, it introduces another thresholded brightness temperature which incorporates view angle.
+
 
 # Satellite Precipitation Retrieval
 
@@ -99,3 +103,4 @@ Frequencies useful to infer rain rate [Source: CoMet course](https://www.meted.u
 5. 165 GHz: Atmospheric window region with some absorption by water vapor and oxygen, very sensitive to precipitation-size ice particles and small drops. Used mainly for cloud and precipitation retrieval especially over land, and surface feature characterization.
 
 6. 175-190 GHz: Strong water vapor absorption region, sensitive to water vapor at various levels through the atmosphere, very sensitive to precipitation-size ice particles and small drops. Used mainly for moisture sounding and precipitation estimation, especially over land.
+

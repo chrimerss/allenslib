@@ -104,3 +104,15 @@ Frequencies useful to infer rain rate [Source: CoMet course](https://www.meted.u
 
 6. 175-190 GHz: Strong water vapor absorption region, sensitive to water vapor at various levels through the atmosphere, very sensitive to precipitation-size ice particles and small drops. Used mainly for moisture sounding and precipitation estimation, especially over land.
 
+[Beyond the pixel: using patterns and multiscale spatial information to improve the
+2 retrieval of precipitation from space-borne passive microwave imagers](https://journals.ametsoc.org/doi/pdf/10.1175/JTECH-D-19-0067.1)
+
+Key insights:
+
+1. previous PMV SPPs are subject to relate a vector of TBs to a-prior database that contains relations between TBs and surface rain rates (distance between posterior TBs and prior TBs) such as GPROF. But it retains uncertainty because the complex space, this distance is not in Lipchitz sense. However, a large part of the final uncertainty on the retrieval is inherent to the incompleteness of the information provided by the vector of observed TBs (by providing the nugget in variogram) so that it cannot improve the performance by adding more samples in deep learning algorithms. The only way to reduce this uncertainty is to add supplementary information to the vector of observed TBs.
+
+2. It presents a nonlocal feature of TBs in some heavy precipitation events. That is to say, the highest depression of TBs are not always associated with high precipitation rate, but in its vincinity denoted as parallax effect.
+
+3. the 37 GHz TBs have a non-monotonic response to the intensity of precipitation [Spencer 1986]: the absence of precipitation is associated with medium TBs, low or medium precipitation rates are associated with high TBs, high convective precipitation rates are associated with medium TBs and extreme deep convective precipitation rates are associated with low TBs.The variation of 37GHz is caused by ice scattering.the coarse-scale variations of the 37 GHz TB (i.e. spatial averages over large areas) are dominated by the liquid drops emission signal, fine-scale local variations (intra-system variability) is dominated by the ice-scattering signal.
+
+4. The inclusion of nonlocal parameter via convolution kernels could increase the gain of accuracy in both quantifying precipitation and detecting precipitation.

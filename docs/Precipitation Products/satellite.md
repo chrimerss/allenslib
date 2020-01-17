@@ -97,6 +97,7 @@ GPROF 2010:
 
 <p align="center"><img src="../../src/GPROF_data_flow.png" width="60%">
 
+
 1. segmentation: it uses scattering index to discriminate rain, nonrain;
 
 2. convective/stratiform classification: it uses 85GHz channel;
@@ -106,6 +107,7 @@ GPROF 2010:
 GPROF 2014:
 
 <p align="center"><img src="../../src/GPROF_data_flow_2014.png" width="60%">
+
 
 Over ocean: inherents GPROF 2010 and only uses low frequency channels because it is assumed ocean only accounts for emission.
 
@@ -128,6 +130,7 @@ Frequencies useful to infer rain rate [Source: CoMet course](https://www.meted.u
 5. 165 GHz: Atmospheric window region with some absorption by water vapor and oxygen, very sensitive to precipitation-size ice particles and small drops. Used mainly for cloud and precipitation retrieval especially over land, and surface feature characterization.
 
 6. 175-190 GHz: Strong water vapor absorption region, sensitive to water vapor at various levels through the atmosphere, very sensitive to precipitation-size ice particles and small drops. Used mainly for moisture sounding and precipitation estimation, especially over land.
+
 
 [Beyond the pixel: using patterns and multiscale spatial information to improve the
 2 retrieval of precipitation from space-borne passive microwave imagers](https://journals.ametsoc.org/doi/pdf/10.1175/JTECH-D-19-0067.1)

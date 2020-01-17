@@ -87,6 +87,31 @@ Author descibed algorithms for precipitation retrieval, cloud liquid water, and 
 
 Author used the difference between 183.3+1, 183.3+3, and 183.3+7GHz three channels to construct relationship to detect convective cores at nadir. As the result suggests, when $\delta_{T}_{13}$, $\delta_{T}_{37}$, $\delta_{T}_{17}$ are larger than zero, it has a strong signal of convective storm, while when $\delta_{T}_{13}>\delta_{T}_{37}>\delta_{T}_{13}>0$, it suggests convective overshooting. To account for different viewing angles, it introduces another thresholded brightness temperature which incorporates view angle.
 
+# Goddard Profiling Algorithm (GPROF) 
+
+[The Evolution of the Goddard Profiling Algorithm to a Fully Parametric Scheme](https://journals.ametsoc.org/doi/pdf/10.1175/JTECH-D-15-0039.1)
+
+
+ 
+GPROF 2010:
+
+<p align="center"><img src="../../src/GPROF_data_flow.png" width="60%">
+
+1. segmentation: it uses scattering index to discriminate rain, nonrain;
+
+2. convective/stratiform classification: it uses 85GHz channel;
+
+3. precipitation prediction: use 85GHz (TB85V) channel to construct empirical relationships according to the precipitation type.
+
+GPROF 2014:
+
+<p align="center"><img src="../../src/GPROF_data_flow_2014.png" width="60%">
+
+Over ocean: inherents GPROF 2010 and only uses low frequency channels because it is assumed ocean only accounts for emission.
+
+Over land: the GPROF 2014 database uses the National Mosaic and Multi-Sensor Quantitative Precipitation Estimation (NMQ) project. In high latitudes, they used model simulation (MMF) and satellite data (cloudSat)
+
+
 
 # Satellite Precipitation Retrieval
 

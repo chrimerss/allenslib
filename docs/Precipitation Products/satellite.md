@@ -95,7 +95,8 @@ Author used the difference between 183.3+1, 183.3+3, and 183.3+7GHz three channe
  
 GPROF 2010:
 
-<p align="center"><img src="../../src/GPROF_data_flow.png" width="60%">
+<p align="center"><img src="../../src/GPROF_data_flow.png" width="60%"></img></p>
+
 
 
 1. segmentation: it uses scattering index to discriminate rain, nonrain;
@@ -106,7 +107,7 @@ GPROF 2010:
 
 GPROF 2014:
 
-<p align="center"><img src="../../src/GPROF_data_flow_2014.png" width="60%">
+<p align="center"><img src="../../src/GPROF_data_flow_2014.png" width="60%"></img></p>
 
 
 Over ocean: inherents GPROF 2010 and only uses low frequency channels because it is assumed ocean only accounts for emission.

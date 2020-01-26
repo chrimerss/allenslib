@@ -145,3 +145,20 @@ Key insights:
 3. the 37 GHz TBs have a non-monotonic response to the intensity of precipitation [Spencer 1986]: the absence of precipitation is associated with medium TBs, low or medium precipitation rates are associated with high TBs, high convective precipitation rates are associated with medium TBs and extreme deep convective precipitation rates are associated with low TBs.The variation of 37GHz is caused by ice scattering.the coarse-scale variations of the 37 GHz TB (i.e. spatial averages over large areas) are dominated by the liquid drops emission signal, fine-scale local variations (intra-system variability) is dominated by the ice-scattering signal.
 
 4. The inclusion of nonlocal parameter via convolution kernels could increase the gain of accuracy in both quantifying precipitation and detecting precipitation.
+
+
+[Potentials in PMW precipitation Retrieval](https://www.ecmwf.int/sites/default/files/elibrary/2014/13624-passive-microwave-precipitation-retrieval-potentials-challenges-and-future-perspectives-within.pdf)
+
+High confidence in:
+
+ 1. Identification	of	different types	of	precipitation	(deep convective,	convective,	stratiform).
+ 2. Retrieve convective precipitation	due	to	the	correlation between	the	upper portion	of	the	cloud	(high	density ice)	and	rainfall;	
+ 3. Stratiform	and	warm rain	over	ocean;
+ 4. Stratiform rain	over	land	in	specific environmental conditions	(contrast between surface and	cloud);
+ 
+Low confidence in:
+
+ 1. Oropgraphic precipitation;
+ 2. Light	precipitation at	high	latitudes	(low moisture	and	temperature	conditions)	;
+ 3. Snowfall	and/or	with	presence	of	snow/ice at	the	ground;
+ 4. Warm rain	over	land	(no	confidence);

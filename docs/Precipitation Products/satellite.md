@@ -87,6 +87,12 @@ Author descibed algorithms for precipitation retrieval, cloud liquid water, and 
 
 Author used the difference between 183.3+1, 183.3+3, and 183.3+7GHz three channels to construct relationship to detect convective cores at nadir. As the result suggests, when $\delta_{T}_{13}$, $\delta_{T}_{37}$, $\delta_{T}_{17}$ are larger than zero, it has a strong signal of convective storm, while when $\delta_{T}_{13}>\delta_{T}_{37}>\delta_{T}_{13}>0$, it suggests convective overshooting. To account for different viewing angles, it introduces another thresholded brightness temperature which incorporates view angle.
 
+[Evaluation and improvement of AMSU precipitation retrievals](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2007JD008617)
+
+This paper describes the updated operational AMSU precipitation retrieval algorithm. It is based on previous works done by Weng et al. (2003). The improvement is done adding scattering using Cloud Liquid Water (CLW) content.
+
+In this paper, the author compared the adjusted algorithm with previous one with reference to GPROF algorithm in TMI.
+
 # Goddard Profiling Algorithm (GPROF) 
 
 [The Evolution of the Goddard Profiling Algorithm to a Fully Parametric Scheme](https://journals.ametsoc.org/doi/pdf/10.1175/JTECH-D-15-0039.1)

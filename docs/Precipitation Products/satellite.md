@@ -93,6 +93,11 @@ This paper describes the updated operational AMSU precipitation retrieval algori
 
 In this paper, the author compared the adjusted algorithm with previous one with reference to GPROF algorithm in TMI.
 
+[Precipitation characteristics over land from the NOAA‐15 AMSU sensor](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000GL011665)
+
+This paper describes the used scattering index from 89 GHz and 150 GHz to identify rain pixels. The improved resolution form higher frequency benefits more fine-scale precipitation detection.
+
+
 # Goddard Profiling Algorithm (GPROF) 
 
 [The Evolution of the Goddard Profiling Algorithm to a Fully Parametric Scheme](https://journals.ametsoc.org/doi/pdf/10.1175/JTECH-D-15-0039.1)

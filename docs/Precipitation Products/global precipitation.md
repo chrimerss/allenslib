@@ -51,3 +51,29 @@ Taking the Beijiang River Basin as the case study, we used nine statistical eval
 __Wang, C., et al. (2018). "Global intercomparison and regional evaluation of GPM IMERG Version-03, Version-04 and its latest Version-05 precipitation products: Similarity, difference and improvements." Journal of Hydrology 564: 342-356.__
 
 	The overarching goal of this study is to intercompare the newly released Integrated Multi-satellitE Retrievals for GPM (IMERG) Version 05 (V05) products with its former Version 04 (V04) and Version 03 (V03) products and also assess any differences and improvements, with cross-evaluation against the Global Precipitation Climatology Project (GPCP) Version 2.3, Multi-Source Weighted-Ensemble Precipitation (MSWEP) Version 2.1 and the dense gauge networks in China. Firstly, the gauge-adjusted products (Final run) of V03, V04 and V05 are compared over the globe. Then, the near-real-time products without gauge adjustments (Early and Late run) and Final run products of all versions are evaluated against ground-based observations comprised of more than 30,000 gauges over Mainland China at 0.1° × 0.1° grid and hourly and daily temporal scales. The primary conclusions are: (1) globally, both V04 and V05 Final run show significant differences and improvements from V03. Particularly, the overall mean oceanic precipitation of V04 and V05 increases by +31.36% and +28.81% respectively from that of V03 and much closer to GPCP and MSWEP; (2) over Mainland China, the Early and Late run products of the same version (V03 or V04) generally have similar performance, while V04 Early and Late run have better performance in most regions than the corresponding run of V03 except in the arid Xinjiang Province and the mountainous Tibetan Plateau; and (3) V04 and V03 Final run show comparable performance, while V05 Final run generally improves upon both V04 and V03 and has the best performance among the seven standard IMERG products. The improvement of V05 Final run is particularly evident in southeastern and western China. At a timely matter, the study provides first-hand global and regional assessment feedback to IMERG algorithm developers and also sheds insights for GPM precipitation product users across the world.
+	
+__Tang, G., Clark, M. P., Papalexiou, S. M., Ma, Z. and Hong, Y.: Have satellite precipitation products improved over last two decades? A comprehensive comparison of GPM IMERG with nine satellite and reanalysis datasets, Remote Sensing of Environment, 240, 111697, doi:10.1016/j.rse.2020.111697, 2020.__
+
+The author compared nine satellite and reanalysis products of accuracy towards precipitation observation in China. The insights are:
+
+1. Evaluate from different scales: 
+
+    (1) Rainfall Analysis:
+
+	a. daily scale from 2000 to 2018
+		
+		(a) The overall performance;
+		(b) regional and seasonal performance;
+		(c) annual trends of accuracy indices;
+	
+	b. Hourly scale from 2013 to 2015
+	
+     (2) Snowfall Analysis:
+     
+2. Error decomposition
+
+	(1) Many indices to describe the error: RMSE, ME, bias score, POD, 1-FAR(SR), KGE, CSI;
+	(2) further decomposed RMSE into systematic and random componentsl;
+	(3) utilized TC to measure the results;
+	
+Conclusion: IMERG has three rooms for further improvement: (1) precipitation classification algorithm for snowfall (currently using wet-bulb temperature); (2) use daily gauge to calibrate; (3) including more PMW sensors to fill the overpass gaps

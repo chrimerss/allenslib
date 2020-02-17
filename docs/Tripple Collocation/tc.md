@@ -5,6 +5,8 @@ parent: Tripple Collocation
 nav_order: 1
 ---
 
+# Use TC to evaluate three independent products
+
 __McColl, K. A., et al. (2014). "Extended triple collocation: Estimating errors and correlation coefficients with respect to an unknown target." Geophysical Research Letters 41(17): 6229-6236.__
 	
 ETC is performed in this study to fomularize correlation coefficient, and also decomposed errors into independent products to investigate the error caused by each pair. The author
@@ -29,3 +31,10 @@ TC method applied to sea surface temperatures
 __Alemohammad, S. H., et al. (2015). "Characterization of precipitation product errors across the United States using multiplicative triple collocation." Hydrology and Earth System Sciences 19(8): 3489-3503.__
 
 The author validated the appropriateness of MTC to ATC in rainfall error estimation, and transformed logarithmic error back to linear domain by Tayler expansion.
+
+# Use TC for error correction
+
+__[An improved approach for estimating observation and model error parameters in soil moisture data assimilation](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2010WR009402)__
+
+The author described using TC derived RMSE to update Kalman filter. 
+

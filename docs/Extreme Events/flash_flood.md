@@ -34,3 +34,13 @@ Key ingredients that affect flash floods:
   2. precipitation efficiency is important: the ratio of the mass of water falling as precipitation to the influx of water vapor loss into the cloud.
   3. Heavy rain rates are most often occur with deep convection - the atmosphere must be conditionally unstable and significant lift must occur to lift the airmass through the level of free convection (LFC).
   4. The heavy precipitation must remain quasi-stationary.
+
+__[Leveraging machine learning for predicting flash flood damage in the Southeast US](https://iopscience.iop.org/article/10.1088/1748-9326/ab6edd/meta)__
+
+Environmental Research Letters
+
+The author attempted to train an ensemble ML models to predict the flash flood damages among which they also used ANN to fill the gaps of median household values for the U.S. citizens. They eventually achieved reasonably good result for their models. But I had some insights of it:
+
+1. For the binary classification, the author presented a ROC curve to demonstrate the accuracy but as they didn't mention the distribution of the data sample, meaning that it could be biased because of the sample distribution;
+
+2. For the regression model, I'm wondering if train the network based upon the result of classfication would be better because it is a way to reduce trainable data and also people are not aware of which no damage caused in the event;

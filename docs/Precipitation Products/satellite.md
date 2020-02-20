@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Satellite products
+title: Satellite Precipitation Retrieval Algorithm
 parent: Precipitation Products
 nav_order: 3
 ---
@@ -23,18 +23,6 @@ This paper provides an overview about GPM and its auxiliary products (IMERG). It
 and also some ground validation efforts e.g. with gauges, with mrms radars (conditional bias) to show whether it satisfies the goal.
 
 At last, it wraps up some real-world applications of using GPM (IMERG) data.
-
-## IMERG Stage intercomparison
-
-__Mahmoud, M. T., Al-Zahrani, M. A., & Sharif, H. O. (2018). Assessment of global precipitation measurement satellite products over Saudi Arabia. Journal of Hydrology, 559, 1-12. doi:https://doi.org/10.1016/j.jhydrol.2018.02.015__
-
-The author used IMERG 04 three stages: Early, Late, and Final to evaluate the accuracy of each stage for event-based, station-based, and region-based. All results suggest that Final is more accurate than both Early and Late.
-
-__Chaoying Huang, J. H., Sheng Chen, Asi Zhang, Zhenqing Liang,Xinhua Tong ,Liusi Xiao, Chao Min,Zengxin Zhang (2019). "How Well Can IMERG Products Capture Typhoon Extreme Precipitation Events over Southern China? ." Remote Sensing 11(70): 1-22.__
-
-Author in detail described difference between early product and final product (uncalibrated). He compared early product and final product
- with refered to gauge ground truth data for six extremely heavy precipitation events. The results indicated that IMERG final product
- can capture the spatial partterns of storm. with gauge calibrated is underestimated comapred to without gauge calibration over rainfall core. 
  
 
 # PERSIANN
@@ -60,22 +48,7 @@ Evaluation:
   2. for extreme events (>10mm), PERSIANN-CDR outperforms than PERSIANN-CCS and PERSIANN, but still underestimate.
   3. For global comparison, PERSIANN and PERSIANN-CDR exhibit good performance over mountainous regions while underperforming coastal regions.
   
-# Satelite Precipitation intercomparison
 
-__Chen, H., et al. (2019). "Comparison Analysis of Six Purely Satellite-derived Global Precipitation Estimates." Journal of Hydrology: 124376.__
-
-The author compared six satellite QPEs e.g., IMERG-E, IMERG-L, PERSIANN-CCS, TRPA-NR, GSMaP-NRT, GSMap-MAK at daily global scale and hourly and daily over mainland China. And author decomposes BIAS into hits Bias, misses Bias, false Bias
-
-Globally:
-1. IMERG-L is the best among the other five, while GSMaP is the worst. 
-2. IMERG suite reduced underestimation compared to GSMaP but still remain problematic in complex terrains.
-
-Author decomposed RMSE with respect to rain rate, and found that 30% around of RMSE is comming from rain rate>32mm/day.
-
-Over mainland China:  
-1. IMERG overestimates light precipitation.
-2. all products overestimate over semi-arid regions by false bias.
-3. PERSIANN-CCS underestimates in humid regions, GSMaP overestimates semi-humid regions in warm season.
 
 # Advanced Microwave Sounding Unit (AMSU)
 

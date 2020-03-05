@@ -77,3 +77,7 @@ The author compared nine satellite and reanalysis products of accuracy towards p
 	(3) utilized TC to measure the results;
 	
 Conclusion: IMERG has three rooms for further improvement: (1) precipitation classification algorithm for snowfall (currently using wet-bulb temperature); (2) use daily gauge to calibrate; (3) including more PMW sensors to fill the overpass gaps
+
+__A Review of Merged High-Resolution Satellite Precipitation Product Accuracy during the Tropical Rainfall Measuring Mission (TRMM) Era__[https://journals.ametsoc.org/doi/10.1175/JHM-D-15-0190.1?mobileUi=0]
+
+A decent overview of all the state-of-the-art satellite precipitation products and their deficiencies over continents.

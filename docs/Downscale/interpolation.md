@@ -32,3 +32,4 @@ qualities with a scale of 1 pixel per day, daily ranfall average with scale if 1
 average over 10 day period with scale of 100 pixels per day. Grimes’ et al approach showed a consistent, small
 improvement over the standard Cold Cloud Duration method, but was better at modeling higher precipitation totals.
 Application outside of central Africa still needs to be determined.
+

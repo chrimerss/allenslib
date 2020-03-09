@@ -81,3 +81,21 @@ Conclusion: IMERG has three rooms for further improvement: (1) precipitation cla
 [__A Review of Merged High-Resolution Satellite Precipitation Product Accuracy during the Tropical Rainfall Measuring Mission (TRMM) Era__](https://journals.ametsoc.org/doi/10.1175/JHM-D-15-0190.1?mobileUi=0)
 
 A decent overview of all the state-of-the-art satellite precipitation products and their deficiencies over continents.
+
+
+[A Novel Approach to Identify Sources of Errors in IMERG for GPM Ground Validation](https://journals.ametsoc.org/doi/full/10.1175/JHM-D-16-0079.1)
+
+A novel approach in evaluating the error is by using multiplicative error model:
+```latex
+y_i=e^{\alpha} x_{i}^{\beta} e^{\epsilon}
+```
+where \alpha (best=0) represents the factor that systematically overestimate/underestimate, \beta is tge exponent, \epsilon quantifies the random error;
+
+In this article, the authors decomposed all sources that IMERG use to intercompare its performance contrasting gauge and MRMS.
+
+Conclusions:
+	1. IR source has higher misses and lower detection. (0.9% of the observations are due to IR but more in winter)
+	2. the tendency for IMERG to underestimate rain occurences is common to all PMW instruments.
+	3. In rain rates, TMI and AMSR have relatively low random error but AMSR has higher bias.
+	4. sounder (MHS) performs poorly but slightly better than SSMI (prone to outliers);
+	5. IMERG overestimates light rain (drizzle) and underestimate heavy rainfall;

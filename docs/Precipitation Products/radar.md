@@ -1,6 +1,6 @@
 ---
 layout: default
-title: radar
+title: Radar QPE
 parent: Precipitation Products
 nav_order: 2
 ---

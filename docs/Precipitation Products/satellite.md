@@ -5,7 +5,7 @@ parent: Precipitation Products
 nav_order: 3
 ---
 
-# IMERG
+# GPM-IMERG
 
 Algorithm description:
 
@@ -23,7 +23,36 @@ This paper provides an overview about GPM and its auxiliary products (IMERG). It
 and also some ground validation efforts e.g. with gauges, with mrms radars (conditional bias) to show whether it satisfies the goal.
 
 At last, it wraps up some real-world applications of using GPM (IMERG) data.
- 
+
+[A Novel Approach to Identify Sources of Errors in IMERG for GPM Ground Validation](https://journals.ametsoc.org/doi/full/10.1175/JHM-D-16-0079.1)
+
+A novel approach in evaluating the error is by using multiplicative error model:
+```latex
+y_i=e^{\alpha} x_{i}^{\beta} e^{\epsilon}
+```
+where \alpha (best=0) represents the factor that systematically overestimate/underestimate, \beta is tge exponent, \epsilon quantifies the random error;
+
+In this article, the authors decomposed all sources that IMERG use to intercompare its performance contrasting gauge and MRMS.
+
+Conclusions:
+	1. IR source has higher misses and lower detection. (0.9% of the observations are due to IR but more in winter)
+	2. the tendency for IMERG to underestimate rain occurences is common to all PMW instruments.
+	3. In rain rates, TMI and AMSR have relatively low random error but AMSR has higher bias.
+	4. sounder (MHS) performs poorly but slightly better than SSMI (prone to outliers);
+	5. IMERG overestimates light rain (drizzle) and underestimate heavy rainfall;
+
+# GPM-GSMAP
+
+__Hanqing Chen, Bin Yong, Jonathan J. Gourley, Jiufu Liu, Liliang Ren, Weiguang Wang, Yang Hong, Jianyun Zhang,
+Impact of the crucial geographic and climatic factors on the input source errors of GPM-based global satellite precipitation estimates, Journal of Hydrology, Volume 575, 2019, Pages 1-16,__
+
+This article is an extention of Tan et al. (2016) approach to ground validate different sensors in GPM-GSMAP with ground reference. Moreover, the authors evaluated the impact of climates, orography, and season.
+
+Conclusions:
+1. imager overall performs bettern than sounders, especially for rainfall detection. AMSU exposes the highest bias;
+2. rainfall detection is worsen for all inputs in arid regions
+3. error is decreased as topography;
+4. better performance in summer;
 
 # PERSIANN
 

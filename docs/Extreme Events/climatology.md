@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Climatology
+title: Hydro-Climatology
 parent: Extreme Events
 nav_order: 3
 ---
@@ -58,3 +58,11 @@ The conclusion is that overall PERSIANN-CDR shows an agreement with ground obser
 __Prat, O. P., & Nelson, B. R. (2015). Evaluation of precipitation estimates over CONUS derived from satellite, radar, and rain gauge data sets at daily to annual scales (2002–2012). Hydrology and Earth System Sciences, 19(4), 2037.__
 
 The author adopts adaptive absolute rain rates to define extreme (i.e., WMMD=17.3 mm/day, 2 in/day, 4 in/day).
+
+# How to define extreme rainfall events?
+
+__Stevenson, S.N. and R.S. Schumacher, 2014: A 10-Year Survey of Extreme Rainfall Events in the Central and Eastern United States Using Gridded Multisensor Precipitation Analyses. Mon. Wea. Rev., 142, 3147–3162, https://doi.org/10.1175/MWR-D-13-00345.1__
+
+The author constructed extreme rainfall events alike IDF curve but with radar gridded product, determining 100yr/50yr return plus the time accumulation (1h,6h,24h) with 10 years of data.
+
+They analyzed the distribution of extreme rainfall events in terms of seasonality, diurnal effect, and topography based on these categories.

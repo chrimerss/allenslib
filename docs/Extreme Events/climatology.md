@@ -66,3 +66,12 @@ __Stevenson, S.N. and R.S. Schumacher, 2014: A 10-Year Survey of Extreme Rainfal
 The author constructed extreme rainfall events alike IDF curve but with radar gridded product, determining 100yr/50yr return plus the time accumulation (1h,6h,24h) with 10 years of data.
 
 They analyzed the distribution of extreme rainfall events in terms of seasonality, diurnal effect, and topography based on these categories.
+
+__Zhou, Y., Nelson, K., Mohr, K. I., Huffman, G. J., Levy, R., & Grecu, M. (2019). A spatial‐temporal extreme precipitation database from GPM IMERG. Journal of Geophysical Research: Atmospheres__
+
+In this article, the authors proposed a way to identify extreme precipitation events with following approaches:
+1. construct inventory (EXT) from grid exceeding the mean precipitation plus 2.5 standard deviation;
+2. find the maximum in the EXT, and search for the neighboring grid (d<dis_threshold;t<time_threshold);
+3. loop through all grids in the EXT
+4. include light rain within the threshold basis;
+5. repeat 2 until all grids in EXT are examined

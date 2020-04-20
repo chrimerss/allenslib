@@ -30,3 +30,13 @@ Conclusions:
 1. Severe underestimation of daily snowfall accumulations for MRMS and IMERG. IMERG Final Cal outperforms MRMS and Uncal;
 2. radar and satellite retrievals may not be able to capture increasing snowfall mass flux caused by temperature;
 3. remote sensing retrievals have better performance in light snowfall events. For heavy snow, the underestimation is worse.
+
+# Impact of Aerosal to precipitation
+
+__Li, Z., Niu, F., Fan, J. et al. Long-term impacts of aerosols on the vertical development of clouds and precipitation. Nature Geosci 4, 888–894 (2011). https://doi.org/10.1038/ngeo1313__
+
+In this big paper, the author described the impact of aerosols, particularly cloud nuclei concentration (CCN) to cloud top height with classification on cloud top temperatures;
+
+In the second part, the author investigated the impact of CCN to precipitation, and found a significant impact for liquid phase precipitation while weak relation to solid precipitaion;
+
+To corroborate the finding, the author conducted simulations (cloud-resolving model) to correlate the observations with model simulations.

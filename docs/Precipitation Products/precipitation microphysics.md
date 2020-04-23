@@ -40,3 +40,13 @@ In this big paper, the author described the impact of aerosols, particularly clo
 In the second part, the author investigated the impact of CCN to precipitation, and found a significant impact for liquid phase precipitation while weak relation to solid precipitaion;
 
 To corroborate the finding, the author conducted simulations (cloud-resolving model) to correlate the observations with model simulations.
+
+
+__Yang, Y., J. Fan, L.R. Leung, C. Zhao, Z. Li, and D. Rosenfeld, 2016: Mechanisms Contributing to Suppressed Precipitation in Mt. Hua of Central China. Part I: Mountain Valley Circulation. J. Atmos. Sci., 73, 1351–1366, https://doi.org/10.1175/JAS-D-15-0233.1__
+
+In this article, the author found a scheme which describes the increase of aerosols leading to the decrease in rainfall-frequency because of the change of orographic lifting.
+
+To do that, they conducted simulations on changing aerosol loadings with WRF-Chem.
+
+" Aerosols can impact precipitation through ACI by 1) producing more cloud droplets of smaller drop size that changes cloud microphysics (Twomey 1977), 2) releasing latent heat as a result of changes in microphysical processes that modulate cloud dynamics (e.g., Wang 2005; Khain et al. 2005; van den Heever et al. 2006; Tao et al. 2007; Rosenfeld et al. 2008; Fan et al. 2012; Altaratz et al. 2014), and 3) changing atmospheric stability through radiation feedback from microphysical changes (Fan et al. 2013; Morrison and Grabowski 2012)."
+

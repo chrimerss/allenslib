@@ -17,7 +17,7 @@ Research Asistant, Hydrometeorology and Remote Sensing Laboratory, university of
 
 Study area: Remote Sensing, Hydrology, Hydrometeorology, Deep learning
 
-Personal website: [Personal website](smartallen.me)
+Personal website: [Personal website](http://smartallen.me)
 
 Goolge Scholar: [Link](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ&hl=en)
 

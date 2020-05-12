@@ -13,7 +13,7 @@ Here is a personal library for literatures!
 
 Allen Zhi Li
 
-Research Asistant, Hydrometeorology and Remote Sensing Laboratory, university of Oklahoma
+Research Assistant, Hydrometeorology and Remote Sensing Laboratory, university of Oklahoma
 
 Study area: Remote Sensing, Hydrology, Hydrometeorology, Deep learning
 

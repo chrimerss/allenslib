@@ -75,3 +75,9 @@ In this article, the authors proposed a way to identify extreme precipitation ev
 3. loop through all grids in the EXT
 4. include light rain within the threshold basis;
 5. repeat 2 until all grids in EXT are examined
+
+# Intense precipitation evaluations
+
+__AghaKouchak, A., Behrangi, A., Sorooshian, S., Hsu, K., and Amitai, E. ( 2011), Evaluation of satellite‐retrieved extreme precipitation rates across the central United States, J. Geophys. Res., 116, D02115, doi:10.1029/2010JD014741.__
+
+In this paper, authors addresses the extreme precipitation estimation with four satellite products. The metrics used in evaluating these satellite performance can be considered. Also intriguing, PERSIANN shows less bias than TMPA in the results from a purely data exploratory perspective.

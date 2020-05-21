@@ -31,6 +31,12 @@ Conclusions:
 2. radar and satellite retrievals may not be able to capture increasing snowfall mass flux caused by temperature;
 3. remote sensing retrievals have better performance in light snowfall events. For heavy snow, the underestimation is worse.
 
+__Behrangi, A., Bormann, K. J., & Painter, T. H. ( 2018). Using the Airborne Snow Observatory to assess remotely sensed snowfall products in the California Sierra Nevada. Water Resources Research, 54, 7331– 7346. https://doi.org/10.1029/2018WR023108__
+
+In this paper, authors compared all-possible satellite precipitation estimates along with MRMS against gauge references to evaluate the respective performance of satellite sensors in snowfall estimates.
+
+Surprisingly, IR (PERSIANN) sensor outperforms than PMW (IMERG) even though IR lacks scattering channels. The author attributes this to the icy/snowy surface in extreme winter storms.
+
 # Impact of Aerosal to precipitation
 
 __Li, Z., Niu, F., Fan, J. et al. Long-term impacts of aerosols on the vertical development of clouds and precipitation. Nature Geosci 4, 888–894 (2011). https://doi.org/10.1038/ngeo1313__

@@ -21,6 +21,8 @@ Personal website: [Personal website](http://smartallen.me)
 
 Goolge Scholar: [Link](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ&hl=en)
 
+[CV](https://github.com/chrimerss/allenslib/blob/master/src/resume.pdf) 
+
 # Publications
 
 Li, Z.; Chen, M.; Gao, S.; Hong, Z.; Tang, G.; Wen, Y.; Gourley, J.J.; Hong, Y. Cross-Examination of Similarity, Difference and Deficiency of Gauge, Radar and Satellite Precipitation Measuring Uncertainties for Extreme Events Using Conventional Metrics and Multiplicative Triple Collocation. Remote Sens. 2020, 12, 1258. [LINK](https://www.mdpi.com/2072-4292/12/8/1258)

@@ -9,6 +9,13 @@ __Gleason, Colin & Durand, Michael. (2020). Remote Sensing of River Discharge: A
 
 A comprehensive review of how remote sensing is applied in aid of hydrology.
 
+# Global hydrologic model
+
+## WaterGAP
+
+
+
+
 # Fresh Water availability
 
 __Rodell, M., Famiglietti, J.S., Wiese, D.N. et al. Emerging trends in global freshwater availability. Nature 557, 651–659 (2018). https://doi.org/10.1038/s41586-018-0123-1__

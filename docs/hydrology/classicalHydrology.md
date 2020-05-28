@@ -28,3 +28,9 @@ __Gleeson, T., Wang‐Erlandsson, L., Porkka, M., Zipper, S. C., Jaramillo, F., 
 In this big paper, the authors proposed a framework to address the scientific problems: How to determine the tipping point of changes resulting in a irreversiable situation; in other words, what is the maximum changes that breaks the earth system resilience.
 
 Even though this is a conceptual paper, it really motivates researchers to dive into and look for answers to benefit our human society.
+
+# Coupled hydrologic/hydraulic modeling for flood innudation
+
+__A high resolution coupled hydrologic–hydraulic model (HiResFlood-UCI) for flash flood modeling__
+
+UCI group developed the coupling framework of SAC-based hydrologic model and BreZo-based hydraulic model. The advantage of coupling these two can improve the streamflow prediction, and also provide the flood depth and velocity which is crucial to categorize the flood.

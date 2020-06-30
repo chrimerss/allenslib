@@ -44,3 +44,11 @@ In this paper, the authors coupled a parsimonious hydrologic model (3 parameters
 __Multi-objective unstructured triangular mesh generation for use in hydrological and land surface models__
 
 In this paper, the authors introduced a way to construct unstructured meshes based on topographic data and river channel bathymetry to reduce heterorgeneity, which is well-suited for hydrologic/hydrodynamic modeling.
+
+# Sensitivity Analysis
+
+__[Sensitivity analysis of environmental models: A systematic review with practical workflow](https://www.sciencedirect.com/science/article/pii/S1364815216300287#bib35)__
+
+In this paper, authors comprehensively reviewed approaches to evaluate the sensitivity issue in environmental modeling, spaning from mapping, rakning, screening purposes and local/global sensitivity. A suit of methodologies such as pertubations, density, correlations are exclusively mentioned.
+
+At the end, they proposed a workflow to dissect the sensitivity from inputs sampling to output post-analysis. 

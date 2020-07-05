@@ -7,7 +7,10 @@ nav_order: 3
 
 # Flood detection from remotely sensed products
 
-![diagram](https://github.com/chrimerss/allenslib/blob/master/src/Flood%20detection.png)
+<p align="center">
+<img src="https://github.com/chrimerss/allenslib/blob/master/src/Flood%20detection.png" width="100%">
+</p>
+
 
 __L. Landuyt, A. Van Wesemael, G. J. -. Schumann, R. Hostache, N. E. C. Verhoest and F. M. B. Van Coillie, "Flood Mapping Based on Synthetic Aperture Radar: An Assessment of Established Approaches," in IEEE Transactions on Geoscience and Remote Sensing, vol. 57, no. 2, pp. 722-739, Feb. 2019, doi: 10.1109/TGRS.2018.2860054.__
 

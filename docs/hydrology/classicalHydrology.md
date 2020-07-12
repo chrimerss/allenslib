@@ -51,6 +51,10 @@ __Multi-objective unstructured triangular mesh generation for use in hydrologica
 
 In this paper, the authors introduced a way to construct unstructured meshes based on topographic data and river channel bathymetry to reduce heterorgeneity, which is well-suited for hydrologic/hydrodynamic modeling.
 
+__How to cite: Flamig, Z. L., Vergara, H., and Gourley, J. J.: The Ensemble Framework For Flash Flood Forecasting (EF5) v1.2: Description and Case Study, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2020-46, in review, 2020.__
+
+An descriptive paper stating the latest EF5 model and its application to the CONUS.
+
 # Sensitivity Analysis
 
 __[Sensitivity analysis of environmental models: A systematic review with practical workflow](https://www.sciencedirect.com/science/article/pii/S1364815216300287#bib35)__

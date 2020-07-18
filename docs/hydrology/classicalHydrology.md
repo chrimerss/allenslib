@@ -63,7 +63,7 @@ In this paper, authors comprehensively reviewed approaches to evaluate the sensi
 
 At the end, they proposed a workflow to dissect the sensitivity from inputs sampling to output post-analysis. 
 
-__[Estimating a-priori kinematic wave model parameters based on regionalization for flash flood forecasting in the Conterminous United States]__
+__[Estimating a-priori kinematic wave model parameters based on regionalization for flash flood forecasting in the Conterminous United States](https://www.sciencedirect.com/science/article/pii/S0022169416303626)__
 
 In this paper, the authors described a way to approximate the simplified 1D-Saint-Venant routing (aka. kinematic wave model) parameters by using historical USGS stream gauge data that links flow rate and depth (i.e., routing curve) and hydroclimatologic data (i.e., precipitation, soil moisture), and terrain (DEM).
 

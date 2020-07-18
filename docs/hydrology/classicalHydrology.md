@@ -62,3 +62,9 @@ __[Sensitivity analysis of environmental models: A systematic review with practi
 In this paper, authors comprehensively reviewed approaches to evaluate the sensitivity issue in environmental modeling, spaning from mapping, rakning, screening purposes and local/global sensitivity. A suit of methodologies such as pertubations, density, correlations are exclusively mentioned.
 
 At the end, they proposed a workflow to dissect the sensitivity from inputs sampling to output post-analysis. 
+
+__[Estimating a-priori kinematic wave model parameters based on regionalization for flash flood forecasting in the Conterminous United States]__
+
+In this paper, the authors described a way to approximate the simplified 1D-Saint-Venant routing (aka. kinematic wave model) parameters by using historical USGS stream gauge data that links flow rate and depth (i.e., routing curve) and hydroclimatologic data (i.e., precipitation, soil moisture), and terrain (DEM).
+
+This approach has been applied in the CONUS in the rencent 10 years with event-based studies. A satisfactory result has been produced by measuring the flood timing error and flood peak error.

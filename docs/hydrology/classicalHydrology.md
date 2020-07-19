@@ -72,7 +72,7 @@ This approach has been applied in the CONUS in the rencent 10 years with event-b
 
 # CREST family
 
-## Original 1.0
+## CREST 1.0
 
 __Jiahu Wang , Yang Hong , Li Li , Jonathan J. Gourley , Sadiq I. Khan , Koray K. Yilmaz , Robert F. Adler , Frederick S. Policelli , Shahid Habib , Daniel Irwn , Ashutosh S. Limaye , Tesfaye Korme & Lawrence Okello (2011) The coupled routing and excess storage (CREST) distributed hydrological model, Hydrological Sciences Journal, 56:1, 84-98, DOI: 10.1080/02626667.2010.543087__
 

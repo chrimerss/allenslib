@@ -27,3 +27,9 @@ which derived from [Kaggle competition](http://blog.kaggle.com/2017/05/09/dstl-s
 __Sadeghi, M., A.A. Asanjan, M. Faridzad, P. Nguyen, K. Hsu, S. Sorooshian, and D. Braithwaite, 2019: PERSIANN-CNN: Precipitation Estimation from Remotely Sensed Information Using Artificial Neural Networks–Convolutional Neural Networks. J. Hydrometeor., 20, 2273–2289, https://doi.org/10.1175/JHM-D-19-0110.1__
 
 Author used CNN to train GOES satellite to map the precipitation from IR band and water vapor channel.
+
+# Interepretable Machine Learning/Deep Learning
+
+__McGovern, A., R. Lagerquist, D. John Gagne, G. E. Jergensen, K. L. Elmore, C. R. Homeyer, and T. Smith, 2019: Making the Black Box More Transparent: Understanding the Physical Implications of Machine Learning. Bull. Amer. Meteor. Soc., 100, 2175–2199, https://doi.org/10.1175/BAMS-D-18-0195.1.__
+
+In this article, the authors emphasized the ways of interpretating "black box" model in atmospheric predictions to strengthen descision making.

@@ -61,3 +61,11 @@ Over mainland China:
 1. IMERG overestimates light precipitation.
 2. all products overestimate over semi-arid regions by false bias.
 3. PERSIANN-CCS underestimates in humid regions, GSMaP overestimates semi-humid regions in warm season.
+
+# Integrated SPP product
+
+__Brocca, L., Massari, C., Pellarin, T. et al. River flow prediction in data scarce regions: soil moisture integrated satellite rainfall products outperform rain gauge observations in West Africa. Sci Rep 10, 12517 (2020). https://doi.org/10.1038/s41598-020-69343-x__
+
+In this paper, the authors compared a suite of SPPs mainly stemmed from top-down measurement and bottom-up inferred product. The top-down products involves GPM IMERG products, ERA5, GPCC, EOBS, and the inferred products are from soil moisture product, such as GPM-SM2RAIN, PRISM-SMAP, PRISM-SMOS.
+
+Because these SPPs are highly associated with river flow prediction, the authors complemented with hydrologic evaluations, and they found that GPM-SM2RAIN performs the best in the data scarce regions (Africa).

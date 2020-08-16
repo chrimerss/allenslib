@@ -45,6 +45,10 @@ The authors reviewed the development of inundation-driven models based on either
 
 They also sheded lights on the future applications, first, the integration of remotely sensed imageries with physical models throughout data assimilations, the desire for high-performance computations, model uncertainty analysis will continue to play a significant role. 
 
+__[A web based tool for operational real-time flood forecasting using data assimilation to update hydraulic states](https://www.sciencedirect.com/science/article/pii/S1364815216301839)__
+
+In this study, the authors coupled a semi-distributed hydrologic model which is suited fort karst areas along with a hydraulic model (linear lag-and-route model) for flood forecast. The main focus of this study is to update hydraulic states using openDA data assimilation tools.
+
 # Modeling Toolkits
 
 __Multi-objective unstructured triangular mesh generation for use in hydrological and land surface models__

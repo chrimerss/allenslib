@@ -22,6 +22,10 @@ In this paper, the authors proposed a way to map the flood extent with respect t
 
 They also showcased this methodology to Harvey events in 2017, demonstrated the ability to map the floodplains.
 
+__[Near-real-time non-obstructed flood inundation mapping using synthetic aperture radar; Shen et al. 2018](https://www.sciencedirect.com/science/article/pii/S0034425718305169#!)__
+
+continued...
+
 # Global Flood Analysis
 
 __[Global modeling of seasonal mortality rates from river floods](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020EF001541)__

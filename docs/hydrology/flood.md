@@ -24,7 +24,7 @@ They also showcased this methodology to Harvey events in 2017, demonstrated the 
 
 __[Near-real-time non-obstructed flood inundation mapping using synthetic aperture radar; Shen et al. 2018](https://www.sciencedirect.com/science/article/pii/S0034425718305169#!)__
 
-continued...
+![data processing streamlines](https://ars.els-cdn.com/content/image/1-s2.0-S0034425718305169-gr1_lrg.jpg)
 
 # Global Flood Analysis
 

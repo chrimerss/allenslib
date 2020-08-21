@@ -35,3 +35,31 @@ In this paper published in Earth's Future, the authors specifically dissect the 
 From the analysis, they not only represent major watersheds in the globe for the pure flood generation, but also sheding lights on political boundaries (i.e. countries) for flood assessment since measures have been taken differently with countries.
 
 It is claimed as the first paper to study on global seasonal flood analysis.
+
+__[Sampson, C. C., A. M. Smith, P. D. Bates, J. C. Neal, L. Alfieri, and J. E. Freer (2015), A high-resolution global flood hazard model, Water Resour. Res., 51, 7358–7381, doi:10.1002/2015WR016954.](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2015WR016954)__
+
+In this paper, the authors presented six challenges for global flood risk mapping and came with their solutions:
+
+1. reliable terrain data
+
+2. extreme flow generation either by hydrologic model or regional flood frequency analysis
+
+3. global river networks
+
+They approached the river width by using web-survey, and the river depth is estimated based on 1 or 2 year return period discharge as bankfull discharge. With bankful discharge, channel width, and slope, the channel depth could be approached by manning's equation.
+
+4. Flood defenses
+
+This is more challenging than the other because the structure is way smaller than the modelling grid-cell size
+
+5. Computational Hydraulic Engine
+
+"A novel simplified implementation of shallow water equations yielded an glgorithm for which the minimum stable time step scales linearly with decreasing grid size, rather than quadratically as had been the case with previous diffusion wave formulations"
+
+"The study determined that inclusion of both the channel network and floodplain was essential, and that
+inclusion of the smaller subgrid channels on the floodplain yielded significantly increased simulation accuracy in terms of water level, wave propagation speed, and inundation extent"
+
+6. Automation Framework
+
+
+

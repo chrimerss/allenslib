@@ -105,6 +105,12 @@ __[Investigating regionalization techniques for large-scale hydrological modelli
 
 In this paper, the authors presented unsupervised clustering and supervised clustering for hydrologic regionalization.
 
+# Process-based hydrologic modelling
+
+__Ivanov, V.Y., E.R. Vivoni, R.L. Bras, and D. Entekhabi (2004), Preserving high-resolution surface and rainfall data in operational-scale basin hydrology: a fully-distributed physically-based approach, J. Hydrol., 298, 80-111, doi: 10.1016/j.hrol.2004.03.041__
+
+In this paper, the authors exhaustively described the way to design a process-based modeling framework, and the design of meshes to preserve the variability of topographic inputs. They tested this operational model in three basins in Oklahoma, not only surface flow (discharge) is their concern, but other fluxes and states are included completely to introduce this model.
+
 
 # CREST family
 

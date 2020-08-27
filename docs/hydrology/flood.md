@@ -62,4 +62,10 @@ inclusion of the smaller subgrid channels on the floodplain yielded significantl
 6. Automation Framework
 
 
+# Regional Flood analysis
 
+__Zhou, Z., J. A. Smith, L. Yang, M. L. Baeck, M. Chaney, M.-C. Ten Veldhuis, H. Deng, and S. Liu (2017), The complexities of urban flood response: Flood frequency analyses for the Charlotte metropolitan region, Water Resour. Res., 53, 7401–7425, doi:10.1002/2016WR019997.__
+
+In this paper, the authors examined the urban flood characteristics in Charlotte metropolitan area. They addressed basin attributes, stationarity, flood agents, the attributes of antecedent rainfall (wettness) to urban floods, flood response time, runoff ratio to drainage area, correlation of basin-average rainfall to runoff, etc.
+
+The methodlogies in flood analysis could be adopted and some of the conclusions could be cited as well.

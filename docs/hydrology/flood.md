@@ -84,6 +84,12 @@ In this paper, the authors evaluated the flood magnitude, frequency, travel time
 
 "It demonstrates that antecedent soil moisture could play an important role in assessing the impact of urbanization on flood peaks"
 
+__[by Smith et al. 2001]()__
+
+The authors characterize the response time (V/P) by the flow volume (V) that is calculated as the integral of flows 1 day prior to the peak flow and 2 days after divided by the flow rate (P). 
+
+They investigated the impact due to land cover properties interms of flood magnitude and flood response time; antecedent soil conditions play an important role; the spatial variability of rainfall affects the flood response; storm structure and motion also has marked impact.
+
 # Flood events validations
 
 ## Social media data

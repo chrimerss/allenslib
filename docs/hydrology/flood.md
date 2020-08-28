@@ -64,11 +64,25 @@ inclusion of the smaller subgrid channels on the floodplain yielded significantl
 
 # Regional Flood analysis
 
+## Urbanization
 __Zhou, Z., J. A. Smith, L. Yang, M. L. Baeck, M. Chaney, M.-C. Ten Veldhuis, H. Deng, and S. Liu (2017), The complexities of urban flood response: Flood frequency analyses for the Charlotte metropolitan region, Water Resour. Res., 53, 7401–7425, doi:10.1002/2016WR019997.__
 
 In this paper, the authors examined the urban flood characteristics in Charlotte metropolitan area. They addressed basin attributes, stationarity, flood agents, the attributes of antecedent rainfall (wettness) to urban floods, flood response time, runoff ratio to drainage area, correlation of basin-average rainfall to runoff, etc.
 
 The methodlogies in flood analysis could be adopted and some of the conclusions could be cited as well.
+
+__[The impact of urban development on hydrologic regime from catchment to basin scales](https://www.sciencedirect.com/science/article/pii/S0169204611002489#bib0175)__
+
+In this paper, the authors evaluated the flood magnitude, frequency, travel times on which the urbanization would impact. They designed experiments determining the spatial variability of impervious areas. Before that, they cautiously divided total impervious area by effective or non-effective impervious area to discriminate the different response by fitting a statistical method.
+
+
+"This analysis supports the suggestion that the impact of urbanization on flood magnitude decreases as flood recurrence intervals increases as was found by Hollis (1975)."
+
+"watersheds with urban land use located close to the outlet tend to produce smaller peak flows than ones with urban land uses located far from the outlet for the same storm events."
+
+"restricting infiltration rate does not have much impact on high flows during the snow melt season if urban area was located near the basin outlet"
+
+"It demonstrates that antecedent soil moisture could play an important role in assessing the impact of urbanization on flood peaks"
 
 # Flood events validations
 

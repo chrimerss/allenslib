@@ -69,3 +69,13 @@ __Zhou, Z., J. A. Smith, L. Yang, M. L. Baeck, M. Chaney, M.-C. Ten Veldhuis, H.
 In this paper, the authors examined the urban flood characteristics in Charlotte metropolitan area. They addressed basin attributes, stationarity, flood agents, the attributes of antecedent rainfall (wettness) to urban floods, flood response time, runoff ratio to drainage area, correlation of basin-average rainfall to runoff, etc.
 
 The methodlogies in flood analysis could be adopted and some of the conclusions could be cited as well.
+
+# Flood events validations
+
+## Social media data
+
+1. https://cordis.europa.eu/project/id/730082/results
+
+2. https://www.globalfloodmonitor.org/
+
+__Scotti, V, Giannini, M, Cioffi, F. Enhanced flood mapping using synthetic aperture radar (SAR) images, hydraulic modelling, and social media: A case study of Hurricane Harvey (Houston, TX). J Flood Risk Management. 2020;e12647. https://doi.org/10.1111/jfr3.12647__

@@ -139,3 +139,17 @@ __Statistical and hydrological evaluation of TRMM-based Multi-satellite Precipit
 (1) enhancement of the computation capability using parallel distribution techniques to make the model more efficient than the previous version (Wang et al., 2011); (2) model implementation with options of either spatially uniform, semi-distributed, or distributed parameter values; (3) automatic extraction of a-priori model parameter estimates from high-resolution land cover and soil texture data. The physically-based parameters, Ksat and WM, can be derived from land cover types and soil texture data based on a look-up table (Chow et al., 1988); (4) a modular design framework to accommodate research, development and system enhancements; and (5) inclusion of the optimization scheme SCE-UA (Duan et al., 1992, Duan et al., 1993) to enable automatic calibration of the CREST model parameters.
 
 EF5-based CREST is originated here
+
+## CREST V3.0
+
+__Kan, G.; Tang, G.; Yang, Y.; Hong, Y.; Li, J.; Ding, L.; He, X.; Liang, K.; He, L.; Li, Z.; Hu, Y.; Cui, Y. An Improved Coupled Routing and Excess Storage (CREST) Distributed Hydrological Model and Its Verification in Ganjiang River Basin, China. Water 2017, 9, 904.__
+
+The improvements of CREST V3.0 against V2.x are:
+
+1). Separating the soil layer into three layers and considering tension water, soil moisture, and evapotranspiration computations like in the original version.
+
+2). Adding a free water storage computation module with a free water distribution curve to describe the sub-grid variations of free water storage.
+
+3). According to free water storage, separating runoff into three components, including overland flow, interflow, and ground water.
+
+4). Improving the flow concentration module into a four-mechanism cell-to-cell routing, including overland flow, interflow, ground water, and river channel flow routings. Based on the arrival time of each upstream grid cell to its downstream outlet grid cell, the generated runoff is routed down along the flow concentration path generated according to the eight-flow-direction method.

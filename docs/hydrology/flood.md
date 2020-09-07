@@ -99,3 +99,14 @@ They investigated the impact due to land cover properties interms of flood magni
 2. https://www.globalfloodmonitor.org/
 
 __Scotti, V, Giannini, M, Cioffi, F. Enhanced flood mapping using synthetic aperture radar (SAR) images, hydraulic modelling, and social media: A case study of Hurricane Harvey (Houston, TX). J Flood Risk Management. 2020;e12647. https://doi.org/10.1111/jfr3.12647__
+
+
+# Flood impact-forecasting
+
+__[Impact Forecasting to Support Emergency Management of Natural Hazards](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020RG000704)__
+
+In this paper, the authors exhaustively examined a set of natural hazards forcasting, and projected the opportunities and challenges on harzard forecasting and impact forecasting. Of them, providing uncertainty estimation on not only hazard-forecasting, but impact-forecasting would be critical.
+
+The majority of flood impact models focus on direct economic damage mostly to the residential and commercial sector, but also impact models for agriculture and the public sector are available (Gerl et al., 2016). Approaches to estimate, for instance, damage to critical infrastructure or indirect impacts barely exist (Merz et al., 2010, Koks, 2018, Bubeck et al.,2019)
+
+Ensemble based impact forecasting is possible and will lead to probabilistic impact predictions that incorporate uncertainties (Brown et al., 2016, Cole et al., 2018, Dale et al., 2014).

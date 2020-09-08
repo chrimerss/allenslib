@@ -138,11 +138,41 @@ Regional flood detection with multiple events.
 
 ## CREST V2.0
 
-__Statistical and hydrological evaluation of TRMM-based Multi-satellite Precipitation Analysis over the Wangchu Basin of Bhutan: Are the latest satellite precipitation products 3B42V7 ready for use in ungauged basins?[https://www.sciencedirect.com/science/article/pii/S0022169413004952#b0160]__
+__[Statistical and hydrological evaluation of TRMM-based Multi-satellite Precipitation Analysis over the Wangchu Basin of Bhutan: Are the latest satellite precipitation products 3B42V7 ready for use in ungauged basins?](https://www.sciencedirect.com/science/article/pii/S0022169413004952#b0160)__
 
 (1) enhancement of the computation capability using parallel distribution techniques to make the model more efficient than the previous version (Wang et al., 2011); (2) model implementation with options of either spatially uniform, semi-distributed, or distributed parameter values; (3) automatic extraction of a-priori model parameter estimates from high-resolution land cover and soil texture data. The physically-based parameters, Ksat and WM, can be derived from land cover types and soil texture data based on a look-up table (Chow et al., 1988); (4) a modular design framework to accommodate research, development and system enhancements; and (5) inclusion of the optimization scheme SCE-UA (Duan et al., 1992, Duan et al., 1993) to enable automatic calibration of the CREST model parameters.
 
 EF5-based CREST is originated here
+
+## CREST V2.1
+
+__[Refining a Distributed Linear Reservoir Routing Method to Improve Performance of the CREST Model](https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0001442)__
+
+Introduction:
+
+The previous version of the CREST, using linear reservior routing, untruly produces discontinuous runoff, which tends to underestimate channel flow at the outlet point. Therefore, a fully distributed linear reservior routing model is proposed.
+
+By definition, the fully integrated LRR means runoff produced at each trajectory cell is taken into account, instead of directly produced at desired point.
+
+Three case studies are designed to verify the performance gain of the new routing scheme.
+
+### CREST-SVAS
+
+__[A framework to improve hyper-resolution hydrological simulation in snow-affected regions](https://www.sciencedirect.com/science/article/pii/S0022169417303414?via%3Dihub#b0170)__
+
+Introduction:
+
+The land surface model exhibits great uncertainty, especially the snow models, which in turn propagates errors into flow simulations.
+
+In this paper, the authors extended the CREST model with a soil-vegetation-atmosphere layer (vegetation interception, snow accumulation, melting, and refreezing)
+
+Improvements:
+
+1. Three snow layers are added in addition to the CREST, to represent the snow melting, refreezing process.
+
+2. Two ablation schemes (with or without canopy) were implemented.
+
+3. A energy balance is included (only if snow is present)
 
 ## CREST V3.0
 

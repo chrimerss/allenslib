@@ -158,6 +158,12 @@ By definition, the fully integrated LRR means runoff produced at each trajectory
 
 Three case studies are designed to verify the performance gain of the new routing scheme.
 
+__[Comprehensive evaluation of Ensemble Multi-Satellite Precipitation Dataset using the Dynamic Bayesian Model Averaging scheme over the Tibetan plateau](https://www.sciencedirect.com/science/article/pii/S0022169417308156?via%3Dihub#b0080)__
+
+In this paper, the authors applied the CREST to simulate streamflow in Tibetan Plateau, in order to assess the newly developed Ensemble Multi-Satellite Precipitation Dataset using the Dynamic Bayesian Model Averaging scheme algorithm.
+
+A highlight in this study is that the authors explained the errors with either suspection or physics in detail as well as proper citations.
+
 ### CREST-SVAS
 
 __[A framework to improve hyper-resolution hydrological simulation in snow-affected regions](https://www.sciencedirect.com/science/article/pii/S0022169417303414?via%3Dihub#b0170)__

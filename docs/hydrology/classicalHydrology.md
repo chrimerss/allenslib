@@ -164,6 +164,10 @@ __[Gourley, J. J., and Coauthors, 2017: The FLASH Project: Improving the Tools f
 
 This paper firstly applies high-resolution MRMS data to the CREST/EF5 framework to forecast flash flood.
 
+__[The Coupling of NSSL Warn-on-Forecast and FLASH Systems for Probabilistic
+Flash Flood Prediction](https://journals.ametsoc.org/jhm/article/21/1/123/346094)__
+
+In this paper, the authors show a promising flood forecast framework based on Warn-on-Forecast concept, and integrated into the FLASH project. This is a follow-up study of 2018 Hydro-Met experiment but using ensemble to consider uncertainties.
 
 ## CREST V2.1
 
@@ -195,6 +199,7 @@ __[Assessing the potential of satellite-based precipitation estimates for flood 
 
 The CREST V2.1 was applied to predicting Ungaguged Basins in Chongqing, China for flood frequency analysis. It shows the constructed hydraulic structures i.e., dams, significantly limit the performance of transferred model performance.
 
+
 ### CREST-SVAS
 
 __[A framework to improve hyper-resolution hydrological simulation in snow-affected regions](https://www.sciencedirect.com/science/article/pii/S0022169417303414?via%3Dihub#b0170)__
@@ -212,6 +217,12 @@ Improvements:
 2. Two ablation schemes (with or without canopy) were implemented.
 
 3. A energy balance is included (only if snow is present)
+
+__[Chen, X., D. Long, Y. Hong, C. Zeng, and D. Yan (2017), Improved modeling of snow and glacier melting by a progressive two-stage calibration strategy with GRACE and multisource data: How snow and glacier meltwater contributes to the runoff of the Upper Brahmaputra River basin?, Water Resour. Res., 53, 2431–2466, doi:10.1002/2016WR019656.](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2016WR019656)__
+
+A similar approach to CREST-SVAS, the authors apply the CREST to Tibetan Plateau, in conjunction of a snow-melting model in order to represent the cryosphere there.
+
+The novelty of this paper is not only by introducing a coupled model, but the authors proposed a two-stage calibration, with the use of MODIS derived Snow Water Equivelent for calibrating snow-melting parameters and GRACE derived Total Water Storage (TWS) for calibrating storage. This surrogate approach has profound implication to ungauged basins.
 
 ### iCRESTTRIGRS
 

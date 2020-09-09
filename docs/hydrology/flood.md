@@ -90,6 +90,12 @@ The authors characterize the response time (V/P) by the flow volume (V) that is 
 
 They investigated the impact due to land cover properties interms of flood magnitude and flood response time; antecedent soil conditions play an important role; the spatial variability of rainfall affects the flood response; storm structure and motion also has marked impact.
 
+# Ensemble Flood Forecasting
+
+__[Pappenberger, F., J. Bartholmes, J. Thielen, H. L. Cloke, R. Buizza, and A. de Roo (2008), New dimensions in early flood warning across the globe using grand-ensemble weather predictions, Geophys. Res. Lett., 35, L10404, doi:10.1029/2008GL033837.](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008GL033837)__
+
+In this paper, the authors propose to use the grand ensemble to take place individual forecast members in order to capture the uncertainties. In their result, they claim that the grand ensemble indeed greatly reduces the miss of the event detections, even though the false alarm raises.
+
 # Flood events validations
 
 ## Social media data

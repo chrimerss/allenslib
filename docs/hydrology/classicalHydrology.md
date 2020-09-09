@@ -138,6 +138,10 @@ __S. I. Khan et al., "Satellite Remote Sensing and Hydrologic Modeling for Flood
 
 Regional flood detection with multiple events.
 
+__[Zhang, Y., and Coauthors, 2015: Hydrometeorological Analysis and Remote Sensing of Extremes: Was the July 2012 Beijing Flood Event Detectable and Predictable by Global Satellite Observing and Global Weather Modeling Systems?. J. Hydrometeor., 16, 381–395, https://doi.org/10.1175/JHM-D-14-0048.1.](https://journals.ametsoc.org/jhm/article/16/1/381/5955/Hydrometeorological-Analysis-and-Remote-Sensing-of)__
+
+In this paper, the authors firstly propose a framework by which the Global Forecast System and Global Ensemble Forecast System are incorporated to evaluate the detectability of flood events of the CREST model, as a function of lead time. This work is applied to a basin in Beijing, China at daily resolution.
+
 ## CREST V2.0
 
 __[Statistical and hydrological evaluation of TRMM-based Multi-satellite Precipitation Analysis over the Wangchu Basin of Bhutan: Are the latest satellite precipitation products 3B42V7 ready for use in ungauged basins?](https://www.sciencedirect.com/science/article/pii/S0022169413004952#b0160)__
@@ -145,6 +149,21 @@ __[Statistical and hydrological evaluation of TRMM-based Multi-satellite Precipi
 (1) enhancement of the computation capability using parallel distribution techniques to make the model more efficient than the previous version (Wang et al., 2011); (2) model implementation with options of either spatially uniform, semi-distributed, or distributed parameter values; (3) automatic extraction of a-priori model parameter estimates from high-resolution land cover and soil texture data. The physically-based parameters, Ksat and WM, can be derived from land cover types and soil texture data based on a look-up table (Chow et al., 1988); (4) a modular design framework to accommodate research, development and system enhancements; and (5) inclusion of the optimization scheme SCE-UA (Duan et al., 1992, Duan et al., 1993) to enable automatic calibration of the CREST model parameters.
 
 EF5-based CREST is originated here
+
+### EF5
+
+__[Clark, R. A., and Coauthors, 2017: Hydrological Modeling and Capacity Building in the Republic of Namibia. Bull. Amer. Meteor. Soc., 98, 1697–1715, https://doi.org/10.1175/BAMS-D-15-00130.1.](https://journals.ametsoc.org/bams/article/98/8/1697/216095/Hydrological-Modeling-and-Capacity-Building-in-the)__
+
+In this paper, the authors introduced the capacity building of using EF5 to alleviate the flood damages in Africa
+
+__[Martinaitis, S. M., and Coauthors, 2017: The HMT Multi-Radar Multi-Sensor Hydro Experiment. Bull. Amer. Meteor. Soc., 98, 347–359, https://doi.org/10.1175/BAMS-D-15-00283.1.](https://journals.ametsoc.org/bams/article/98/2/347/69988/The-HMT-Multi-Radar-Multi-Sensor-Hydro-Experiment)__
+
+In this paper, the authors pre-tested the hydrologic performance of CREST/EF5 on the use of high-resolution MRMS data in the CONUS, to mark the transition from research to operation. Also the HRRR forecast data are used to forecast floods.
+
+__[Gourley, J. J., and Coauthors, 2017: The FLASH Project: Improving the Tools for Flash Flood Monitoring and Prediction across the United States. Bull. Amer. Meteor. Soc., 98, 361–372, https://doi.org/10.1175/BAMS-D-15-00247.1.](https://journals.ametsoc.org/bams/article/98/2/361/69979/The-FLASH-Project-Improving-the-Tools-for-Flash)__
+
+This paper firstly applies high-resolution MRMS data to the CREST/EF5 framework to forecast flash flood.
+
 
 ## CREST V2.1
 
@@ -164,6 +183,18 @@ In this paper, the authors applied the CREST to simulate streamflow in Tibetan P
 
 A highlight in this study is that the authors explained the errors with either suspection or physics in detail as well as proper citations.
 
+__[A systematic assessment and reduction of parametric uncertainties for a distributed hydrological model](https://www.sciencedirect.com/science/article/pii/S0022169418305699?via%3Dihub#b0345)__
+
+In this paper, the authors adopted a systematic sensitivity analysis of the CREST V2.1, and surrogate modeling to optimize the model and alleviate the computational efforts.
+
+Highlight:
+
+They use surrogate model to represent ensemble members and indicate that the observation is contained in the box (25-75th percentile), which could be used as uncertainty estimation.
+
+__[Assessing the potential of satellite-based precipitation estimates for flood frequency analysis in ungauged or poorly gauged tributaries of China’s Yangtze River basin; J. Hydrol.](https://www.sciencedirect.com/science/article/pii/S002216941730313X?via%3Dihub#b0410)__
+
+The CREST V2.1 was applied to predicting Ungaguged Basins in Chongqing, China for flood frequency analysis. It shows the constructed hydraulic structures i.e., dams, significantly limit the performance of transferred model performance.
+
 ### CREST-SVAS
 
 __[A framework to improve hyper-resolution hydrological simulation in snow-affected regions](https://www.sciencedirect.com/science/article/pii/S0022169417303414?via%3Dihub#b0170)__
@@ -181,6 +212,18 @@ Improvements:
 2. Two ablation schemes (with or without canopy) were implemented.
 
 3. A energy balance is included (only if snow is present)
+
+### iCRESTTRIGRS
+
+__[iCRESTRIGRS: a coupled modeling system for cascading flood–landslide disaster forecasting](https://hess.copernicus.org/articles/20/5035/2016/)__
+
+Coupled CREST with a landslide model to predict rainfall-induced landslide.
+
+### WRF-CREST-ADCIRC
+
+__[An Integrated Scenario Ensemble‐Based Framework for Hurricane Evacuation Modeling: Part 2—Hazard Modeling](https://onlinelibrary.wiley.com/doi/full/10.1111/risa.13004)__
+
+In this paper, the authors coupled WRF-CREST-ADCIRC for the purpose of evacuation. The WRF generates ensemble atomospheric forcings for CREST and ADCIRC. Meanwhile, CREST provides upstream boundary conditions to ADCIRC to simulate the storm surges in the coastal region.
 
 ## CREST V3.0
 

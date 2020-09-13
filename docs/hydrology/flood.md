@@ -96,6 +96,11 @@ __[Pappenberger, F., J. Bartholmes, J. Thielen, H. L. Cloke, R. Buizza, and A. d
 
 In this paper, the authors propose to use the grand ensemble to take place individual forecast members in order to capture the uncertainties. In their result, they claim that the grand ensemble indeed greatly reduces the miss of the event detections, even though the false alarm raises.
 
+__[Schumann, G. J.-P., J. C. Neal, N. Voisin, K. M. Andreadis, F. Pappenberger, N. Phanthuwongpakdee, A. C. Hall, and P. D.
+Bates (2013), A first large scale flood inundation forecasting model, Water Resour. Res., 49, 6248–6257, doi:10.1002/wrcr.20521.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/wrcr.20521)__
+
+In this paper, the authors coupled ECMWF ensemble forecast with VIC model and LISFLOOD-FP to simulate/forecast the flood inundation as a regional analysis. It demonstrates promising accuracy with reference to LandSat derived river stage, and interestringly, this framework is calibrated based on ICESat derived water stage.
+
 # Flood events validations
 
 ## Social media data

@@ -17,3 +17,9 @@ In this paper, the authors detailed a way to blend radar nowcasting with NWP dat
 They transform the high-dimention space data to low space with the PCA, and reconstruct back after the correction stage in the Ensemble Kalman Filter.
 
 The result extends the nowcasting range further than without blending.
+
+# Warn-on-Forecast
+
+__[Jones, T. A., and Coauthors, 2020: Assimilation of GOES-16 Radiances and Retrievals into the Warn-on-Forecast System. Mon. Wea. Rev., 148, 1829–1859, https://doi.org/10.1175/MWR-D-19-0379.1.](https://journals.ametsoc.org/mwr/article/148/5/1829/346741)__
+
+In this paper, the authors introduced the methodologies for developing the WoF system for 0-6h weather nowcasting.

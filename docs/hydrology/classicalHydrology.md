@@ -103,6 +103,16 @@ In some cases, there is a need for coupling the land surface scheme with the flo
 
 In this paper, the authors coupled a semi-distributed hydrologic model with a psedo-2D hydraulic routing scheme. They claimed that, compared to linear reservoir and kinematic wave which are the most common ways, this routing is advanced in simulating non-dendritic catchment and flat areas. And they relates the water level with area to approximate the flooded area.
 
+__[]()__
+
+In this study, various DEMs obtained from multiple sources are tested to explore its impact on flood modeling.
+
+In their first step, all the DEMs are statistically compared against surface collocated sites. More importantly, they quantify the spatial characteristic of all the DEMs with respect to variogram modeling and power spectrum analysis.
+
+Second, they quantified the uncertainties associated with flood inundation area and flood depth under changing grid resolutions. They reconfirmed the observation: coaser resolution produces more extents.
+
+Third, they explained possible theoritical processes been disrupted for a coarse DEM, including: hydraulic connectivity, interaction between streamflow and tide, and rainfall-runoff mechanisms.
+
 # Hydrologic Regionalization
 
 __[Investigating regionalization techniques for large-scale hydrological modelling](https://www.sciencedirect.com/science/article/pii/S0022169419300496)__

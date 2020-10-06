@@ -53,6 +53,12 @@ __[The effect of coupling hydrologic and hydrodynamic models on probable maximum
 
 In this article, the author coupled hydrologic model and hydrodynamic model in a way that hydrologic model generated hydrograph is forced as boundary condition in the hydrodynamic model. Unlike other studies that compare the flood extent or depth to observations, they focused on the probable maximum flood. They simply compared coupled model with hydrologic model in 1D representations.
 
+__[Probablistic Numerical Modelling of Compound Flooding Caused by Tropical Storm Matthew over a Data Scarce Coastal Environment](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR028565)__
+
+In this article, the authors attempt to quantify the uncertainties of flood mapping due to event rainfall, tide wave propagation, etc. They proposed a coupling framework combining a hydrologic model (HyMOD) and a 2D hydrodynamic model (LISFLOOD-FP) to generate a probablistic flood maps after taking 3000 simulations according to the uncertainties from different rainfall products, model parameterisation, and tide time series.
+
+They concluded that rainfall and ocean wave are the most important contributors to coastal flooding, unsurprisingly.
+
 # Modeling Toolkits
 
 __Multi-objective unstructured triangular mesh generation for use in hydrological and land surface models__

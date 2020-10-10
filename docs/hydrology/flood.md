@@ -64,6 +64,14 @@ inclusion of the smaller subgrid channels on the floodplain yielded significantl
 
 # Regional Flood analysis
 
+__[Combined modelling of US fluvial, pluvial and coastal flood hazard under current and future climates](https://www.essoar.org/pdfjs/10.1002/essoar.10504362.1)__
+
+In this paper, the authors updated the current US continental flood hazard maps with assigned frequency under different scenarios (historical, present, and projection). They highlighted the changes in hydrography data, surface water profile, extreme event magnitudes, downscaling using hi-res. terrain data, and incorporated local interventions.
+
+They detailed how the boundary conditions are derived for the consideration of fluvial (IDF forced hydrologic simulation) and coastal flooding (tide gauge data), while for pluvial flooding, they simply uses rain-on-grid simulations at each 30 m grid. 
+
+They indicate the ensemble prediction is important to better quantify the uncertainties and more model validation efforts are needed.
+
 ## Urbanization
 __Zhou, Z., J. A. Smith, L. Yang, M. L. Baeck, M. Chaney, M.-C. Ten Veldhuis, H. Deng, and S. Liu (2017), The complexities of urban flood response: Flood frequency analyses for the Charlotte metropolitan region, Water Resour. Res., 53, 7401–7425, doi:10.1002/2016WR019997.__
 

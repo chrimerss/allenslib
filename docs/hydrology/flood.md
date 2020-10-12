@@ -123,14 +123,20 @@ They also discussed the limitations in terms of calibration process, in which th
 
 # Flood events validations
 
-## Social media data
+## Flood extent map
 
+### Crowdsourcing data
 1. https://cordis.europa.eu/project/id/730082/results
 
 2. https://www.globalfloodmonitor.org/
 
 __Scotti, V, Giannini, M, Cioffi, F. Enhanced flood mapping using synthetic aperture radar (SAR) images, hydraulic modelling, and social media: A case study of Hurricane Harvey (Houston, TX). J Flood Risk Management. 2020;e12647. https://doi.org/10.1111/jfr3.12647__
 
+### Aerial photography
+
+__[Probabilistic Flood Mapping Using Synthetic Aperture Radar Data](https://ieeexplore.ieee.org/abstract/document/7548327/authors)__
+
+They constructed a reliability diagram to evaluate the SAR derived flood extent against aerial photographs to test the proposed probabilistic flood map.
 
 # Flood impact-forecasting
 

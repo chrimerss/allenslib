@@ -115,6 +115,12 @@ In this paper, the authors present inherent uncertainties for producing flood ma
 
 In terms of probabilistic flood map, they build up a probability distribution to consider the percentiles or probabilities when a grid cell is flooded or not. In addition, they proposed a error metrics to account for uncertainties, in which they decompose the hits into different percentiles.
 
+__[Flood-plain mapping: a critical discussion of deterministic and probabilistic approaches](https://www.tandfonline.com/doi/full/10.1080/02626661003683389)__
+
+In this paper, the authors discussed the importance to embrace a probabilistic approach, in which they considered the uncertainties coming from model parameters (manning's n) and perturbed upstream discharge. They used a more sophiscated model (full 2D finite element approach) to compared with ensemble predictions by a simpler model. In this comparison, they found the ensemble prediction could replace the sophisticated model.
+
+They also discussed the limitations in terms of calibration process, in which they forced a SAR derived flood extent to gain the best-of-fitness value.
+
 # Flood events validations
 
 ## Social media data

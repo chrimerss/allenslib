@@ -109,6 +109,12 @@ Bates (2013), A first large scale flood inundation forecasting model, Water Reso
 
 In this paper, the authors coupled ECMWF ensemble forecast with VIC model and LISFLOOD-FP to simulate/forecast the flood inundation as a regional analysis. It demonstrates promising accuracy with reference to LandSat derived river stage, and interestringly, this framework is calibrated based on ICESat derived water stage.
 
+__[When does spatial resolution become spurious in probabilistic flood inundation predictions?](https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.10749)__
+
+In this paper, the authors present inherent uncertainties for producing flood maps by comparing to deterministic approach. They also pointed out the circumstances when the model performance degrades the most under which resolution.
+
+In terms of probabilistic flood map, they build up a probability distribution to consider the percentiles or probabilities when a grid cell is flooded or not. In addition, they proposed a error metrics to account for uncertainties, in which they decompose the hits into different percentiles.
+
 # Flood events validations
 
 ## Social media data

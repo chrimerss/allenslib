@@ -109,7 +109,7 @@ In some cases, there is a need for coupling the land surface scheme with the flo
 
 In this paper, the authors coupled a semi-distributed hydrologic model with a psedo-2D hydraulic routing scheme. They claimed that, compared to linear reservoir and kinematic wave which are the most common ways, this routing is advanced in simulating non-dendritic catchment and flat areas. And they relates the water level with area to approximate the flooded area.
 
-__[]()__
+__[Sensitivity of various topographic data in flood management: Implications on inundation mapping over large data-scarce regions](https://www.sciencedirect.com/science/article/pii/S0022169420309835?dgcid=rss_sd_all&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound)__
 
 In this study, various DEMs obtained from multiple sources are tested to explore its impact on flood modeling.
 
@@ -118,6 +118,12 @@ In their first step, all the DEMs are statistically compared against surface col
 Second, they quantified the uncertainties associated with flood inundation area and flood depth under changing grid resolutions. They reconfirmed the observation: coaser resolution produces more extents.
 
 Third, they explained possible theoritical processes been disrupted for a coarse DEM, including: hydraulic connectivity, interaction between streamflow and tide, and rainfall-runoff mechanisms.
+
+__[Propagation of uncertainties in coupled hydro-meteorological forecasting systems: A stochastic approach for the assessment of the total predictive uncertainty](https://www.sciencedirect.com/science/article/pii/S0169809510002528)__
+
+In this paper, the authors proposed a bivariate meta-gaussian model to quantify the uncertainties by considering behavioural hydrologic simulations. As a matter of fact, they proposed a forecast system that aids to gain higher predictability and reduce uncertainties. 
+
+As a test of gaussianity and homoscedacity, they used Kolmogorov-Smirnov (K-S) and Bartlett tests.
 
 # Hydrologic Regionalization
 

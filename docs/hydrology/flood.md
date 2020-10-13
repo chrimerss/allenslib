@@ -72,6 +72,12 @@ They detailed how the boundary conditions are derived for the consideration of f
 
 They indicate the ensemble prediction is important to better quantify the uncertainties and more model validation efforts are needed.
 
+__[Implications of Using Global Digital Elevation Models for Flood Risk Analysis in Cities](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR028241)__
+
+In this paper, the authors compared six globbaly available DEM data, and assessed how the DEM coupld affect urban flood forecast. They found OS Terrain 50 has the best statistics when validated against high water marks and flood extent derived from photos, videos.
+
+They finally discussed that the outlet water level data in water channles does not nessarily need to be accurate in impact studies if peak floodplain extent is accurate enough.
+
 ## Urbanization
 __Zhou, Z., J. A. Smith, L. Yang, M. L. Baeck, M. Chaney, M.-C. Ten Veldhuis, H. Deng, and S. Liu (2017), The complexities of urban flood response: Flood frequency analyses for the Charlotte metropolitan region, Water Resour. Res., 53, 7401–7425, doi:10.1002/2016WR019997.__
 
@@ -100,12 +106,11 @@ They investigated the impact due to land cover properties interms of flood magni
 
 # Ensemble Flood Forecasting
 
-__[Pappenberger, F., J. Bartholmes, J. Thielen, H. L. Cloke, R. Buizza, and A. de Roo (2008), New dimensions in early flood warning across the globe using grand-ensemble weather predictions, Geophys. Res. Lett., 35, L10404, doi:10.1029/2008GL033837.](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008GL033837)__
+__[New dimensions in early flood warning across the globe using grand-ensemble weather predictions](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008GL033837)__
 
 In this paper, the authors propose to use the grand ensemble to take place individual forecast members in order to capture the uncertainties. In their result, they claim that the grand ensemble indeed greatly reduces the miss of the event detections, even though the false alarm raises.
 
-__[Schumann, G. J.-P., J. C. Neal, N. Voisin, K. M. Andreadis, F. Pappenberger, N. Phanthuwongpakdee, A. C. Hall, and P. D.
-Bates (2013), A first large scale flood inundation forecasting model, Water Resour. Res., 49, 6248–6257, doi:10.1002/wrcr.20521.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/wrcr.20521)__
+__[A first large scale flood inundation forecasting model, Water Resour. Res., 49, 6248–6257, doi:10.1002/wrcr.20521.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/wrcr.20521)__
 
 In this paper, the authors coupled ECMWF ensemble forecast with VIC model and LISFLOOD-FP to simulate/forecast the flood inundation as a regional analysis. It demonstrates promising accuracy with reference to LandSat derived river stage, and interestringly, this framework is calibrated based on ICESat derived water stage.
 

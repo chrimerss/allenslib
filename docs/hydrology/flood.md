@@ -121,6 +121,12 @@ In this paper, the authors discussed the importance to embrace a probabilistic a
 
 They also discussed the limitations in terms of calibration process, in which they forced a SAR derived flood extent to gain the best-of-fitness value.
 
+__[A methodology for the validation of uncertain flood inundation models](https://www.sciencedirect.com/science/article/pii/S0022169405005615#bib12)__
+
+In this paper, the authors proposed two ways of evaluating probabilistic flood maps: precision (with information theory; entropy) and accuracy (with number of hits). It is a balance to precision and accuracy when considering how many simulations to retain.
+
+They applied this methorology to LISFLOOD-FP model, at odds with two SAR derived flood map.
+
 # Flood events validations
 
 ## Flood extent map

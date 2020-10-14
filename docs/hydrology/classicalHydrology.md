@@ -59,6 +59,14 @@ In this article, the authors attempt to quantify the uncertainties of flood mapp
 
 They concluded that rainfall and ocean wave are the most important contributors to coastal flooding, unsurprisingly.
 
+__[Validation of a full hydrodynamic model for large‐scale hydrologic modelling in the Amazon](https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.8425)__
+
+In this paper, it introduces a lot of needs for developing a coupled model, specifically the deficiences in current hydrologic models. They can be characterized as two main points:
+
+1. issues in river routing are significant in flat river systems like the Amazon and its tributaries, where the influence of sea tide can be up to 1000km upstream. and the subcritical and diffusive flow in Amazon flood wave illustrates the backwater effect which traditional hydrologic model cannot conquer;
+
+2. Floodplain inundation modelling is not available in hydrologic models.
+
 # Modeling Toolkits
 
 __Multi-objective unstructured triangular mesh generation for use in hydrological and land surface models__
@@ -78,6 +86,18 @@ __[Mesh type tradeoffs in 2D hydrodynamic modeling of flooding with a Godunov-ba
 Computational cost for an explicit finite volume model scales in proportion to the number of cells and the number of time steps.
 
 In this study, a real case dam-break example illustrates the benefits of unstructured grid compared to quadrilateral mesh, that relative coarse grid and medium grid resolution, i.e., 1km, 100m to 10m, the unstructured perform better in terms of the computational efficiency. But ultra-high resolution, the structured is better
+
+__[Influence of mesh structure on 2D full shallow water equations and SCS Curve Number simulation of rainfall/runoff events](https://www.sciencedirect.com/science/article/pii/S0022169412002697)__
+
+In this paper, the arthors compared different types of meshes with different resoltions, including square cells, structured cells, and unstructure cells w/ or w/o local refinement.
+
+The first conclusion is that coarser resolution results in higher surface volume and larger lagged time.
+
+Second, rectangular mesh tends to be less viscous than structured triangular meshes, which he explains triangular mesh is more directionality,
+
+Third, the local refined meshes predict better surface volume, and it performs much better than most structured rectangular mesh and triangular mesh, and better than unstructured mesh.
+
+At last, in terms of computational efficiency, local refined mesh achieves the best tradeoff of accurate results and least computational efforts.
 
 __[SHUD](https://www.shud.xyz/_book/index.html)__
 

@@ -26,6 +26,10 @@ __[Near-real-time non-obstructed flood inundation mapping using synthetic apertu
 
 ![data processing streamlines](https://ars.els-cdn.com/content/image/1-s2.0-S0034425718305169-gr1_lrg.jpg)
 
+__[Geodetic corrections to Amazon River water level gauges using ICESat altimetry](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2011WR010895)__
+
+In this paper, the authors introduced a proof-of-concept study to derive water level from ICESat altimetry, and the accuracy to be found as 0.19 m in Amazon river basin.
+
 # Global Flood Analysis
 
 __[Global modeling of seasonal mortality rates from river floods](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020EF001541)__

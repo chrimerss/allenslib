@@ -82,6 +82,12 @@ In this paper, the authors compared six globbaly available DEM data, and assesse
 
 They finally discussed that the outlet water level data in water channles does not nessarily need to be accurate in impact studies if peak floodplain extent is accurate enough.
 
+__[How probable is widespread flooding in the United States?](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR028096)__
+
+In this paper, the authors used a stochastic streamflow generator built upon 38 years USGS streamflow data conditioned on main 18 catchments to investigate the spatial distribution of flood events in dependence of flood susceptibility. 
+
+They found a strong dependence of flood susceptibility and seasonality in parts of the US, especially western US. Some catchments governed by intermittent streamflow however exhibits less seasonality. Catchments with snowmelting dominant streamflow generation has high susceptibility in spring and winter.
+
 ## Urbanization
 __Zhou, Z., J. A. Smith, L. Yang, M. L. Baeck, M. Chaney, M.-C. Ten Veldhuis, H. Deng, and S. Liu (2017), The complexities of urban flood response: Flood frequency analyses for the Charlotte metropolitan region, Water Resour. Res., 53, 7401–7425, doi:10.1002/2016WR019997.__
 

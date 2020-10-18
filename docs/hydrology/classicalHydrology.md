@@ -103,6 +103,10 @@ __[SHUD](https://www.shud.xyz/_book/index.html)__
 
 A fully coupled hydrologic model that resolves overland flow, groundwater flow in a unstructured mesh.
 
+__[Enhancing river model set-up for 2-D dynamic flood modelling](https://www.sciencedirect.com/science/article/pii/S1364815215000304#bib7)__
+
+This paper details necessary steps for a hydrodynamic model in the context of flood mapping. Several caveats are drawn, including representing realistic terrain, a coupling between hydrologic model and a hydrodynamic model, and insertion of man-made structures (bridges, buildings, weirs).
+
 # Sensitivity Analysis
 
 __[Sensitivity analysis of environmental models: A systematic review with practical workflow](https://www.sciencedirect.com/science/article/pii/S1364815216300287#bib35)__

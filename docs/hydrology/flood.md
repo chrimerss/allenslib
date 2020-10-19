@@ -153,11 +153,25 @@ They applied this methorology to LISFLOOD-FP model, at odds with two SAR derived
 
 __Scotti, V, Giannini, M, Cioffi, F. Enhanced flood mapping using synthetic aperture radar (SAR) images, hydraulic modelling, and social media: A case study of Hurricane Harvey (Houston, TX). J Flood Risk Management. 2020;e12647. https://doi.org/10.1111/jfr3.12647__
 
+__[The importance of volunteered geographic information for the validation of flood inundation models](https://www.sciencedirect.com/science/article/pii/S0022169418303299#b0340)__
+
+In this paper, the authors proposed a way to validate LISFLOOD-LP model based on crowdsourcing data, focused on three aspects: impact (flood extent), flowpath (velocity), and timeline.
+
 ### Aerial photography
 
 __[Probabilistic Flood Mapping Using Synthetic Aperture Radar Data](https://ieeexplore.ieee.org/abstract/document/7548327/authors)__
 
 They constructed a reliability diagram to evaluate the SAR derived flood extent against aerial photographs to test the proposed probabilistic flood map.
+
+### Wracks and Water marks
+
+__[Reducing Inconsistencies in Point Observations of Maximum Flood Inundation Level](https://journals.ametsoc.org/ei/article/17/6/1/500/Reducing-Inconsistencies-in-Point-Observations-of)__
+
+In this paper, the authors detailed uncertainties coming from flood marks. These water marks often use as supplementary data to more conventional flood extent data. 
+
+Wracks underestimate peak flood depth as compared to water marks by 0.51 m.
+
+They proposed a algorithm to smooth the uncertainty of all water marks.
 
 # Flood impact-forecasting
 

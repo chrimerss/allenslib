@@ -142,7 +142,14 @@ In this paper, the authors proposed two ways of evaluating probabilistic flood m
 
 They applied this methorology to LISFLOOD-FP model, at odds with two SAR derived flood map.
 
+
 # Flood events validations
+
+__[Remote sensing and flood inundation modelling](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hyp.5649)__
+
+The author deems that model validation relied on bulk flow data that represented the aggregate response of the catchment to that point. However, for any given model and discretization, many different spatial patterns of grid-square effective parameter values can lead to the same aggregate response, but give different spatial predictions and thus process inferences. Lack of distributed validation data is a significant cause of equifinality and leads to tolerance of the physically unrealistic spatial lumping of parameter values and processes.
+
+They appraised satellite SAR (res. 12.5 m ) and airborne SAR (res. 0.5 m) in predicting flood extent, and involved in calibration and validation process.
 
 ## Flood extent map
 
@@ -172,6 +179,18 @@ In this paper, the authors detailed uncertainties coming from flood marks. These
 Wracks underestimate peak flood depth as compared to water marks by 0.51 m.
 
 They proposed a algorithm to smooth the uncertainty of all water marks.
+
+__[Distributed whole city water level measurements from the Carlisle 2005 urban flood event and comparison with hydraulic model simulations](https://www.sciencedirect.com/science/article/pii/S002216940900047X#bib20)__
+
+In this paper, the authors discussed the uncertainties from flood marks, they indicate flood marks bear more uncertainties than modelling results. 
+
+Advantage: 
+
+they can be collected post event, negating the need to pre-empt the flood or have equipment on-site during the flood itself. 
+
+Disadvantage:
+
+However, unlike gauge time-series and multi-temporal imagery (see [Bates et al., 2006](https://www.sciencedirect.com/science/article/pii/S0022169406000047) for a non-urban example) these data cannot be used to validate inundation dynamics because they do not convey temporal information. Furthermore, water and wrack marks are deposited at both peak levels and as the water line recedes, meaning that although it is potentially possible to measure elevation to <1 cm, deciding which elevation to survey can be more problematic. Moreover, water levels will be underestimated if no identifiable mark was produced at the maximum level. The magnitude of this bias is typically unknown and likely to vary from event to event depending on: (1) how conducive the conditions at peak level were to wrack and water mark deposition; and (2) the skill of the surveyor.
 
 # Flood impact-forecasting
 

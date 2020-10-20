@@ -151,6 +151,18 @@ The author deems that model validation relied on bulk flow data that represented
 
 They appraised satellite SAR (res. 12.5 m ) and airborne SAR (res. 0.5 m) in predicting flood extent, and involved in calibration and validation process.
 
+__[Utility of different data types for calibrating flood inundation models within a GLUE framework](https://hess.copernicus.org/articles/9/412/2005/)__
+
+The authors assessed different means of calibrating the hydrodynamic model with respect to all available data (flood marks, aerial photography, and SAR flood extent). They calibrated based on time-varing stage and discharge; flood extent; maximum flood depth.
+
+Given the relatively short interval between stations and the inherent uncertainties of stage-discharge relationships at each station, water levels recorded internal to the model domain are likely to prove a more valuable asset than discharges in conditioning model performance, particularly in the detection of erroneous compensating errors.
+
+By using time-varing stage or discharge, only parameters in the upstream of gauges are sensitive, while downstream parameters are insensitive.
+
+SAR extent is relatively insensitive to changes in parameters, and potentially there will be only a small reduction in parameter uncertainty from calibrating with these data and objective functions. But it is reconcilable with response fro the air photo data.
+
+To conclude, stage data help to reduce uncertainty over effective parameter specification; air photo data has similar properties as it provides aneffective surrogate measure of water surface elevation; discharge data is less effective because of the essentially mass conservative nature of the model and the flow dynamics of this particular event.
+
 ## Flood extent map
 
 ### Crowdsourcing data

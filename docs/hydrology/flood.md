@@ -88,6 +88,10 @@ In this paper, the authors used a stochastic streamflow generator built upon 38 
 
 They found a strong dependence of flood susceptibility and seasonality in parts of the US, especially western US. Some catchments governed by intermittent streamflow however exhibits less seasonality. Catchments with snowmelting dominant streamflow generation has high susceptibility in spring and winter.
 
+__[Quantifying the importance of spatial resolution and other factors through global sensitivity analysis of a flood inundation model](https://doi.org/10.1002/2015WR018198)__
+
+In this paper, the authors firstly evaluate the model sensitivity with respect to parameters, inflow and topography in terms of flood dynamics. They not only simulated based on bulk flow, but also spatiotemporal variation of flood dynamics. It is worth trying to conduct similar research for CREST-iMAP model parameters or probabilistic QPEs.
+
 ## Urbanization
 __Zhou, Z., J. A. Smith, L. Yang, M. L. Baeck, M. Chaney, M.-C. Ten Veldhuis, H. Deng, and S. Liu (2017), The complexities of urban flood response: Flood frequency analyses for the Charlotte metropolitan region, Water Resour. Res., 53, 7401–7425, doi:10.1002/2016WR019997.__
 

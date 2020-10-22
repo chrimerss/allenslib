@@ -176,6 +176,12 @@ To conclude, stage data help to reduce uncertainty over effective parameter spec
 
 __Scotti, V, Giannini, M, Cioffi, F. Enhanced flood mapping using synthetic aperture radar (SAR) images, hydraulic modelling, and social media: A case study of Hurricane Harvey (Houston, TX). J Flood Risk Management. 2020;e12647. https://doi.org/10.1111/jfr3.12647__
 
+In this paper, authors reviewed advantages or deficiencies of current available ways of obtaining flood extent (SAR, model, and social media marks).
+
+Social media marks:
+
+They are also useful for post event, rapid flooding mapping, as they can provide timely localised information about water depth of inundated areas and damages (Fohringer et al., 2015). However, errors affect the quantitative assessment of flooding by social markers. These can be due to differences between the place where the photo is taken and the location of the tweet posted online, as well as, an incorrect photo‐interpretations of the photo perspective. Such errors could be reduced by combining high resolution DEM and social markers (Mandlburger, Hauer, Höfle, Habersack, & Pfeifer, 2009). A generalised use of social markers makes it necessary to filter a huge amount of information from social media. Recently, several approaches have been pursued. These include: (a) filtering by keywords or by geographic queries (Rogstadius, Kostakos, & Laredo, 2011 or Joseph et al., 2014), (b) filtering by crowdsourcing (Howe, 2006), (c) automatic filtering utilising machine learning and natural language processing (Sakaki, Okazaki, & Matsuo, 2010); Yin, Lampert, Cameron, Robinson, & Power, 2012) and (d) interactive visual spatiotemporal analysis/geovisual analytics (MacEachren et al., 2011); Morstatter, Kumar, Liu, & Maciejewski, 2013). None of such approaches is completely satisfying, and often a rather empirical post‐processing phase which involves a subjective judgement of the operator is required.
+
 __[The importance of volunteered geographic information for the validation of flood inundation models](https://www.sciencedirect.com/science/article/pii/S0022169418303299#b0340)__
 
 In this paper, the authors proposed a way to validate LISFLOOD-LP model based on crowdsourcing data, focused on three aspects: impact (flood extent), flowpath (velocity), and timeline.

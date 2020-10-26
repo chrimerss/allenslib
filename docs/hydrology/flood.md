@@ -30,6 +30,14 @@ __[Geodetic corrections to Amazon River water level gauges using ICESat altimetr
 
 In this paper, the authors introduced a proof-of-concept study to derive water level from ICESat altimetry, and the accuracy to be found as 0.19 m in Amazon river basin.
 
+__[Normalized Difference Flood Index for rapid flood mapping: Taking advantage of EO big data](https://doi.org/10.1016/j.rse.2018.03.006)__
+
+In this article, the authors proposed a index called NDFI and NDFVI for flood mapping, taking advantage of big earth observation data (Sentinel-1 specifically).
+
+They also reviewed 21 methodologies developed since 2000 for flood inundation mapping.
+
+
+
 # Global Flood Analysis
 
 __[Global modeling of seasonal mortality rates from river floods](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020EF001541)__

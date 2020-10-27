@@ -194,6 +194,10 @@ __[The importance of volunteered geographic information for the validation of fl
 
 In this paper, the authors proposed a way to validate LISFLOOD-LP model based on crowdsourcing data, focused on three aspects: impact (flood extent), flowpath (velocity), and timeline.
 
+__[Hyper-resolution monitoring of urban flooding with social media and crowdsourcing data](https://www.sciencedirect.com/science/article/pii/S009830041730609X#!)__
+
+The use of Twitter and MyCoast App, with Natural Language Processing and Computer Vision to construct urban flooding
+
 ### Aerial photography
 
 __[Probabilistic Flood Mapping Using Synthetic Aperture Radar Data](https://ieeexplore.ieee.org/abstract/document/7548327/authors)__

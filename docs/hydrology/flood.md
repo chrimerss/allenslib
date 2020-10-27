@@ -36,6 +36,10 @@ In this article, the authors proposed a index called NDFI and NDFVI for flood ma
 
 They also reviewed 21 methodologies developed since 2000 for flood inundation mapping.
 
+__[Flood Inundation Mapping from Optical Satellite Images Using Spatiotemporal Context Learning and Modest AdaBoost](https://www.mdpi.com/2072-4292/9/6/617)__
+
+In this paper, the authors proposed a novel flood detection framework applied in two Chinese optical satellite (HJ and GF).
+
 
 
 # Global Flood Analysis
@@ -178,6 +182,11 @@ To conclude, stage data help to reduce uncertainty over effective parameter spec
 ## Flood extent map
 
 ### Crowdsourcing data
+
+<p align="center">
+<img src="https://github.com/chrimerss/allenslib/blob/master/src/comp_remote_crowd.png" width="100%">
+</p>
+
 1. https://cordis.europa.eu/project/id/730082/results
 
 2. https://www.globalfloodmonitor.org/

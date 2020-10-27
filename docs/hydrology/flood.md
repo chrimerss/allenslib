@@ -40,7 +40,13 @@ __[Flood Inundation Mapping from Optical Satellite Images Using Spatiotemporal C
 
 In this paper, the authors proposed a novel flood detection framework applied in two Chinese optical satellite (HJ and GF).
 
+__[settings Open AccessFeature PaperArticle Fusion of SAR, Optical Imagery and Airborne LiDAR for Surface Water Detection](https://www.mdpi.com/2072-4292/9/9/890/htm)__
 
+In this paper, the authors used three remotely sensed products: SAR, Optical Imagery and LiDAR to construct and fuse to one single possibly best flood/water extent map.
+
+__[Real-time flood detection for video surveillance](https://ieeexplore.ieee.org/abstract/document/7392736)__
+
+Using ground-based cameras to segment flooded areas, which could also be used as a means of flood extent delineation.
 
 # Global Flood Analysis
 
@@ -161,6 +167,18 @@ They applied this methorology to LISFLOOD-FP model, at odds with two SAR derived
 
 # Flood events validations
 
+__[Detailed data is welcome, but with a pinch of salt: Accuracy, precision, and uncertainty in flood inundation modeling](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/wrcr.20406)__
+
+1. Accuracy and Precision: "more information" in hydraulic modelling relating to higher model performance is misleading (reductionist). There are model accuracy and precision to distinguish. accuracy refers to model ability to correctly reproduce variables of interest, but precision relates to resolution of computational grid, where each variable is computed. There two only partially overlap.
+
+2. Data Uncertainty. Topographic data; boundary conditions; urban drainage; interaction with small-scale features (ditches, embankments, etc.); Buildings, transportations; 
+
+3. The Problem of Model Evaluation. No consensus on the reliability and accuracy criteria. Pros and Cons of different reference data are discussed.
+
+4. Do we really need 1m res. in flood mapping? "Indeed, this loss of modeling detail can be advisable, as in our opinion the use of too high resolution outputs can generate a false confidence on obtained results."
+
+5. Keep it as simple as possible: the use of high-res. data in flood models. building-gole method to represent buildings.
+
 __[Remote sensing and flood inundation modelling](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hyp.5649)__
 
 The author deems that model validation relied on bulk flow data that represented the aggregate response of the catchment to that point. However, for any given model and discretization, many different spatial patterns of grid-square effective parameter values can lead to the same aggregate response, but give different spatial predictions and thus process inferences. Lack of distributed validation data is a significant cause of equifinality and leads to tolerance of the physically unrealistic spatial lumping of parameter values and processes.
@@ -183,13 +201,17 @@ To conclude, stage data help to reduce uncertainty over effective parameter spec
 
 ### Crowdsourcing data
 
+1. https://cordis.europa.eu/project/id/730082/results
+
+2. https://www.globalfloodmonitor.org/
+
+__[A novel approach to leveraging social media for rapid flood mapping: a case study of the 2015 South Carolina floods](https://www.tandfonline.com/doi/full/10.1080/15230406.2016.1271356)__
+
 <p align="center">
 <img src="https://github.com/chrimerss/allenslib/blob/master/src/comp_remote_crowd.png" width="100%">
 </p>
 
-1. https://cordis.europa.eu/project/id/730082/results
-
-2. https://www.globalfloodmonitor.org/
+In this paper, the authors proposed a kernel-based method to delineat flood extent based on Twitter activity and USGS stream gauges.
 
 __Scotti, V, Giannini, M, Cioffi, F. Enhanced flood mapping using synthetic aperture radar (SAR) images, hydraulic modelling, and social media: A case study of Hurricane Harvey (Houston, TX). J Flood Risk Management. 2020;e12647. https://doi.org/10.1111/jfr3.12647__
 

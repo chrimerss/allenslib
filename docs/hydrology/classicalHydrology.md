@@ -107,6 +107,10 @@ __[Enhancing river model set-up for 2-D dynamic flood modelling](https://www.sci
 
 This paper details necessary steps for a hydrodynamic model in the context of flood mapping. Several caveats are drawn, including representing realistic terrain, a coupling between hydrologic model and a hydrodynamic model, and insertion of man-made structures (bridges, buildings, weirs).
 
+__[Inundation Modeling in Data Scarce Regions](https://arxiv.org/pdf/1910.05006.pdf)__
+
+Google's initiative towards global inundation mapping. They detailed the terrain data they used by reconstructing optical satellite images with 3D depth model, and the hydraulic models empowered by TPU over the globe.
+
 # Sensitivity Analysis
 
 __[Sensitivity analysis of environmental models: A systematic review with practical workflow](https://www.sciencedirect.com/science/article/pii/S1364815216300287#bib35)__

@@ -136,6 +136,13 @@ The authors characterize the response time (V/P) by the flow volume (V) that is 
 
 They investigated the impact due to land cover properties interms of flood magnitude and flood response time; antecedent soil conditions play an important role; the spatial variability of rainfall affects the flood response; storm structure and motion also has marked impact.
 
+__[Beyond imperviousness: the role of antecedent wetness in runoff generation in urbanized catchments](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR028060)__
+
+In this article, the authors attempt to examine the interplay of imperviousness and antecedent soil moisture to runoff generation in the US with a large samples.
+
+They considered a range of climate variables and land use variables and morphology variables and geopedology variables. Storm event separation is discussed in this methodology
+
+
 # Ensemble Flood Forecasting
 
 __[New dimensions in early flood warning across the globe using grand-ensemble weather predictions](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008GL033837)__

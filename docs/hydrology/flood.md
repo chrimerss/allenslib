@@ -148,6 +148,10 @@ __[Continental‑scale convection‑permitting modeling of the current and futur
 
 Physical downscaling of global climate model with convection-permitting feature, which can be used as input to investigate the impact of climate change on fine-scale hydrologic responses.
 
+__[Using machine learning models, remote sensing, and GIS to investigate the effects of changing climates and land uses on flood probability](https://www.sciencedirect.com/science/article/pii/S0022169420311240)__
+
+In this article, the authors seek to investigate flood risks based on a host of environmental variables, including hydrometrological, topographic, and geological factors. Climate change is factored based on statistical downscaling from long series of gauge data for the change of precipitation, and ANN based methods take account the landuse changes. It is insightful to consider the varibles that could affect flood risks.
+
 # Ensemble Flood Forecasting
 
 __[New dimensions in early flood warning across the globe using grand-ensemble weather predictions](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008GL033837)__

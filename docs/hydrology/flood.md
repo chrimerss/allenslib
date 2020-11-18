@@ -148,6 +148,10 @@ __[Continental‑scale convection‑permitting modeling of the current and futur
 
 Physical downscaling of global climate model with convection-permitting feature, which can be used as input to investigate the impact of climate change on fine-scale hydrologic responses.
 
+__[Changes in Future Flash Flood–Producing Storms in the United States](https://journals.ametsoc.org/jhm/article/21/10/2221/354228/Changes-in-Future-Flash-Flood-Producing-Storms-in)__
+
+The authors adopted datasets from Dr. Liu for 13-year convective-permitting model and coupled with Noah-MP community model to investigate the flood (i.e., flash flood) response due to a warming climate. They compared CRTL and PWG precipitation against NCEP stage IV dataset using the SSMI index to investigate the structural similarity. But not much traditional quantification has been done. Without any doubts, climate change changes the frequency of flash flood and rainfall intensity. 7.5%/K increase in hourly max. rain rates is observed, but medium rain rates are on par with Clausius-Clapeyron theory.
+
 __[Using machine learning models, remote sensing, and GIS to investigate the effects of changing climates and land uses on flood probability](https://www.sciencedirect.com/science/article/pii/S0022169420311240)__
 
 In this article, the authors seek to investigate flood risks based on a host of environmental variables, including hydrometrological, topographic, and geological factors. Climate change is factored based on statistical downscaling from long series of gauge data for the change of precipitation, and ANN based methods take account the landuse changes. It is insightful to consider the varibles that could affect flood risks.

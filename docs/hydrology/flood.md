@@ -110,6 +110,11 @@ __[Quantifying the importance of spatial resolution and other factors through gl
 
 In this paper, the authors firstly evaluate the model sensitivity with respect to parameters, inflow and topography in terms of flood dynamics. They not only simulated based on bulk flow, but also spatiotemporal variation of flood dynamics. It is worth trying to conduct similar research for CREST-iMAP model parameters or probabilistic QPEs.
 
+__[A COMPREHENSIVE DATABASE OF FLOOD EVENTS IN THE CONTIGUOUS UNITED STATES FROM 2002 TO 2013](https://journals.ametsoc.org/bams/article/98/7/1493/70155/A-Comprehensive-Database-of-Flood-Events-in-the)__
+
+The authors constructed US flood database based on gauge data and precipitation data to separate baseflow from flood events.
+
+
 ## Urbanization
 __Zhou, Z., J. A. Smith, L. Yang, M. L. Baeck, M. Chaney, M.-C. Ten Veldhuis, H. Deng, and S. Liu (2017), The complexities of urban flood response: Flood frequency analyses for the Charlotte metropolitan region, Water Resour. Res., 53, 7401–7425, doi:10.1002/2016WR019997.__
 

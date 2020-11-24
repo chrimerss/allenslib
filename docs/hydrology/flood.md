@@ -161,6 +161,14 @@ __[Using machine learning models, remote sensing, and GIS to investigate the eff
 
 In this article, the authors seek to investigate flood risks based on a host of environmental variables, including hydrometrological, topographic, and geological factors. Climate change is factored based on statistical downscaling from long series of gauge data for the change of precipitation, and ANN based methods take account the landuse changes. It is insightful to consider the varibles that could affect flood risks.
 
+__[Comparing Flood Projection Approaches Across Hydro-Climatologically Diverse United States River Basins]()__
+
+In this article, the authors pointed out three approaches to investigate the climate change impact on flooding. (1) Assuming stationarity, (2) hydrologic simulation under general circulation models, and (3) informed-parameter (e.g., time or trend analysis, climate indices, infrastructure development indices, land use indices.They also reviewed lots of literatures and found their limitations.
+
+They specifically look at several questions: (1) how does out-of-sample bias compare between stationary assumption and other approaches, (2) can the direction of change at a gage be projected?, (3) can regional change be projected?, and (4) how much additional bias is introduced when GCM outputs are used to force the climate-based approaches.
+
+In methodology, they first regionalize US basins with self-organising approach, and measured by sihouette width and physical meaning. Then they compared stationarity, climate-informed, precipitation-informed, and hydrologic simulation under the context of Bayesion inference. To conclude, they found precipitation and hydrologic simulation are statstically significant to reveal the flood projection. 
+
 # Ensemble Flood Forecasting
 
 __[New dimensions in early flood warning across the globe using grand-ensemble weather predictions](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008GL033837)__

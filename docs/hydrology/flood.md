@@ -169,6 +169,19 @@ They specifically look at several questions: (1) how does out-of-sample bias com
 
 In methodology, they first regionalize US basins with self-organising approach, and measured by sihouette width and physical meaning. Then they compared stationarity, climate-informed, precipitation-informed, and hydrologic simulation under the context of Bayesion inference. To conclude, they found precipitation and hydrologic simulation are statstically significant to reveal the flood projection. 
 
+__[Global flood risk under climate change](https://www.nature.com/articles/nclimate1911)__
+
+This paper published in Nature climate change is one of the highly reputed articles that studied flood intensity/frequency changes under a warming climate. It classifies major global river basins and finds a heterogenous feature for future flood response as below. They also simulated number of impacted and exposed people in a future scenario.
+
+<p align="center">
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnclimate1911/MediaObjects/41558_2013_Article_BFnclimate1911_Fig1_HTML.jpg" width="100%">
+</p>
+
+<p align="center">
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnclimate1911/MediaObjects/41558_2013_Article_BFnclimate1911_Fig2_HTML.jpg" width="100%">
+</p>
+
+
 # Ensemble Flood Forecasting
 
 __[New dimensions in early flood warning across the globe using grand-ensemble weather predictions](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008GL033837)__

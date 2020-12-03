@@ -312,3 +312,10 @@ In this paper, the authors exhaustively examined a set of natural hazards forcas
 The majority of flood impact models focus on direct economic damage mostly to the residential and commercial sector, but also impact models for agriculture and the public sector are available (Gerl et al., 2016). Approaches to estimate, for instance, damage to critical infrastructure or indirect impacts barely exist (Merz et al., 2010, Koks, 2018, Bubeck et al.,2019)
 
 Ensemble based impact forecasting is possible and will lead to probabilistic impact predictions that incorporate uncertainties (Brown et al., 2016, Cole et al., 2018, Dale et al., 2014).
+
+
+# Flood damages
+
+__[Review article “Assessment of economic flood damage”](https://gfzpublic.gfz-potsdam.de/rest/items/item_241074_1/component/file_241073/content)__
+
+In this paper, the authors reviewed a set of literatures that concern the flood damages in varying angles.

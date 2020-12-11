@@ -9,7 +9,7 @@ nav_order: 1
 
 Here is a personal library for literatures!
 
-# Self-introduction
+# About me
 
 Allen Zhi Li
 
@@ -24,6 +24,8 @@ Goolge Scholar: [Link](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ
 [CV](https://github.com/chrimerss/allenslib/blob/master/src/resume.pdf) 
 
 # Publications
+
+Li, Z., Wen, Y., Schreier, M., Behrangi, A., Hong, Y., & Lambrigtsen, B. (2020). Advancing satellite precipitation retrievals with data driven approaches: is black box model explainable?. Earth and Space Science, 7, e2020EA001423. https://doi.org/10.1029/2020EA001423
 
 Li, Z.; Chen, M.; Gao, S.; Hong, Z.; Tang, G.; Wen, Y.; Gourley, J.J.; Hong, Y. Cross-Examination of Similarity, Difference and Deficiency of Gauge, Radar and Satellite Precipitation Measuring Uncertainties for Extreme Events Using Conventional Metrics and Multiplicative Triple Collocation. Remote Sens. 2020, 12, 1258. [LINK](https://www.mdpi.com/2072-4292/12/8/1258)
 

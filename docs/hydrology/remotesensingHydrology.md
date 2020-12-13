@@ -29,3 +29,7 @@ In this article, authors addressed the global map of changes in fresh water avai
 __[Calibrating a hydrological model in a regional river of the Qinghai–Tibet plateau using river water width determined from high spatial resolution satellite images.](https://www.sciencedirect.com/science/article/pii/S0034425718302414?via%3Dihub)__
 
 This paper introduces the first attempt to calibrate a hydrologic model based on river width data derived from commercial satellites. Likewise, this approach is highly suitable in hydrodynamic models because we can estimate river width at given cross-sections.
+
+__[Combining optical remote sensing, McFLI discharge estimation, global hydrologic modelling, and data assimilation to improve daily discharge estimates across an entire large watershed ](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR027794)__
+
+In this paper, the authors used LandSat to reconstruct river width and eventually use flow law to infer discharge. They assimulated the discharge with acknowledging all uncertainty terms and compared against GRADES as baseline, and they found a significant improvement. The reach-level routing is computationally efficient for global or large scale hydrologic modelling.

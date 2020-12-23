@@ -181,6 +181,10 @@ This paper published in Nature climate change is one of the highly reputed artic
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnclimate1911/MediaObjects/41558_2013_Article_BFnclimate1911_Fig2_HTML.jpg" width="100%">
 </p>
 
+__[Future projections of flood dynamics in the Vietnamese Mekong Delta](https://www.sciencedirect.com/science/article/pii/S0048969720341188#bb0260)__
+
+In this paper, the authors collectively evaluated the change of flood dynamics under the impact of climate change, hydropower regulation, sea-level rise, sustainable development, and floodplain restoration. They not only quantitatively assessed flood hazards (inundation extent, depth, and duration), but also focused on impacts, specifically on rice damages.
+
 
 # Ensemble Flood Forecasting
 

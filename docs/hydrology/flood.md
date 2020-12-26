@@ -185,6 +185,13 @@ __[Future projections of flood dynamics in the Vietnamese Mekong Delta](https://
 
 In this paper, the authors collectively evaluated the change of flood dynamics under the impact of climate change, hydropower regulation, sea-level rise, sustainable development, and floodplain restoration. They not only quantitatively assessed flood hazards (inundation extent, depth, and duration), but also focused on impacts, specifically on rice damages.
 
+__[Characterizing Uncertainty of the Hydrologic Impacts of Climate Change](https://link.springer.com/article/10.1007%2Fs40641-016-0034-x)__
+
+This paper, Clark et al. reviewed the uncertainties inherent to climate-driven hydrologic studies from different perspectives as shown in the figure below.
+
+<p align="center">
+  <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40641-016-0034-x/MediaObjects/40641_2016_34_Fig1_HTML.gif?as=webp">
+</p>
 
 # Ensemble Flood Forecasting
 

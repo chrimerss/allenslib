@@ -147,6 +147,17 @@ In this article, the authors attempt to examine the interplay of imperviousness 
 
 They considered a range of climate variables and land use variables and morphology variables and geopedology variables. Storm event separation is discussed in this methodology
 
+__[Causal Effect of Impervious Cover on Annual Flood Magnitude for the United States](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL086480)__
+
+In this work, authors adopts causual inference on flood magnitude changes due to the increase in imperviousness. They concluded that one percent increase in impervious basin cover causes a 3.3% increase in annual flood magnitude in the US.
+
+They summarized main three approaches to study on this topic:
+
+1) Case study focusing on temporal variations.  
+2) paired catchment with contrast experiment variable.  
+3) Model simulations.  
+
+
 # Climate Change
 
 __[Continental‑scale convection‑permitting modeling of the current and future climate of North America](https://link.springer.com/article/10.1007/s00382-016-3327-9)__

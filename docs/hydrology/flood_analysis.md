@@ -75,5 +75,14 @@ The authors constructed US flood database based on gauge data and precipitation 
 
 
 
+# FLood seasonality
 
+__[Gabriele Villarini](https://scholar.google.com.sg/citations?user=KlCa6esAAAAJ&hl=en&oi=ao)__
 
+__[On the seasonality of flooding across the continental United States](https://www.sciencedirect.com/science/article/pii/S0309170815002687)__
+
+In this paper, author comprehensively discussed US flood seasonality from meteorological point of view as well as anthropogenic effects such as urbanization and flow regulation. But he claims climatology plays a main role, and urbanisation does not contribute much to the flood seasonality shifts.
+
+__[The changing nature of flooding across the central United States](https://www.nature.com/articles/nclimate2516)__
+
+In this paper, the authors investigated the flood changes (i.e., flood magnitude and flood frequency) with respect to rainfall changes in the Central US. They attribute most of the flood changes to extreme rainfall changes.

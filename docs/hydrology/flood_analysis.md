@@ -86,3 +86,13 @@ In this paper, author comprehensively discussed US flood seasonality from meteor
 __[The changing nature of flooding across the central United States](https://www.nature.com/articles/nclimate2516)__
 
 In this paper, the authors investigated the flood changes (i.e., flood magnitude and flood frequency) with respect to rainfall changes in the Central US. They attribute most of the flood changes to extreme rainfall changes.
+
+# Flood generation mechanisms
+
+__[Dominant flood generating mechanisms across the United States](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068070)__
+
+In this paper, authors proposed four hypothesis to investigate the dominant flood-generating process in the US. They isolated overall processes into extreme rainfall-caused, rainfall-caused, excess-rainfall caused, snow-melt caused. Eventually they clustered US regions with respective flood processes.
+
+<p align="center">
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/533f5797-9242-473e-a65e-ba6459a497bf/grl54118-fig-0002-m.jpg">
+</p>

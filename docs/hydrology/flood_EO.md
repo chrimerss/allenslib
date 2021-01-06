@@ -47,3 +47,12 @@ In this paper, the authors used three remotely sensed products: SAR, Optical Ima
 __[Real-time flood detection for video surveillance](https://ieeexplore.ieee.org/abstract/document/7392736)__
 
 Using ground-based cameras to segment flooded areas, which could also be used as a means of flood extent delineation.
+
+
+# Earth Observation Timeline
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms13844/MediaObjects/41467_2016_Article_BFncomms13844_Fig2_HTML.jpg?as=webp">
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms13844/MediaObjects/41467_2016_Article_BFncomms13844_Fig2_HTML.jpg?as=webp">
+
+SOURCE: Elliott, J., Walters, R. & Wright, T. The role of space-based observation in understanding and responding to active tectonics and earthquakes. Nat Commun 7, 13844 (2016). https://doi.org/10.1038/ncomms13844

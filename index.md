@@ -19,9 +19,9 @@ Study area: Remote Sensing, Hydrology, Hydrometeorology, Deep learning
 
 Personal website: [Personal website](http://smartallen.me)
 
-Goolge Scholar: [Link](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ&hl=en)
+[Goolge Scholar](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Zhi_Li232) | [CV](https://github.com/chrimerss/allenslib/blob/master/src/resume.pdf) 
 
-[CV](https://github.com/chrimerss/allenslib/blob/master/src/resume.pdf) 
+
 
 # Publications
 

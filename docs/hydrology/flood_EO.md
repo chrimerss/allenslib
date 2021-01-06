@@ -53,6 +53,5 @@ Using ground-based cameras to segment flooded areas, which could also be used as
 
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms13844/MediaObjects/41467_2016_Article_BFncomms13844_Fig2_HTML.jpg?as=webp">
 
-<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms13844/MediaObjects/41467_2016_Article_BFncomms13844_Fig2_HTML.jpg?as=webp">
 
 SOURCE: Elliott, J., Walters, R. & Wright, T. The role of space-based observation in understanding and responding to active tectonics and earthquakes. Nat Commun 7, 13844 (2016). https://doi.org/10.1038/ncomms13844

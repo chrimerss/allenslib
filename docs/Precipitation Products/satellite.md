@@ -67,7 +67,7 @@ In this paper, the authors detailed volume matching techniques and validate DPR 
 They used a theoritical model to infer that Rayleigh scattering results deviations in Ka-band when measuring big drops.
 
 
-__[Cross validation of observations from GPM dual-frequnecy precipitation radar with S-band ground radar measurents over the Dallas — Fort worth region](https://ieeexplore.ieee.org/abstract/document/8127393)
+__[Cross validation of observations from GPM dual-frequnecy precipitation radar with S-band ground radar measurents over the Dallas — Fort worth region](https://ieeexplore.ieee.org/abstract/document/8127393)__
 
 In this paper, the authors introduced volume matching to collocate ground radar space-borne radar.
 

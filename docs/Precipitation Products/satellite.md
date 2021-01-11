@@ -54,9 +54,32 @@ Conclusions:
 3. error is decreased as topography;
 4. better performance in summer;
 
+# GPM-DPR
+
+__[Validation of GPM Dual-Frequency Precipitation Radar (DPR) Rainfall Products over Italy](https://doi.org/10.1175/JHM-D-17-0144.1)__
+
+In this paper, the authors investigated the performance of GPM DPR sensor in terms of Ku band, Ka band and Ku-Ka band for precipitation estimation over Italy. They found normal scan (NS) outperforms high-sensitivity scan (HS) and matched scan (MS).
+
+__[Cross-Validation of Observations between the GPM Dual-Frequency Precipitation Radar and Ground Based Dual-Polarization Radars](https://www.mdpi.com/2072-4292/10/11/1773/htm)__
+
+In this paper, the authors detailed volume matching techniques and validate DPR against NEXRAD network in the US. They compared Ku-band, Ka-band, and dual-freq measured reflectivity and rain rates. But only 250 overpasses were analyzed. They found Ku-band has slightly higher correlation with ground radar than that of Ka-band.
+
+They used a theoritical model to infer that Rayleigh scattering results deviations in Ka-band when measuring big drops.
+
+
+__[Cross validation of observations from GPM dual-frequnecy precipitation radar with S-band ground radar measurents over the Dallas — Fort worth region](https://ieeexplore.ieee.org/abstract/document/8127393)
+
+In this paper, the authors introduced volume matching to collocate ground radar space-borne radar.
+
+__[Evaluation and Validation of GPM Dual-Frequency Classification Module after Launch](https://journals.ametsoc.org/view/journals/atot/33/12/jtech-d-15-0253_1.xml?tab_body=fulltext-display)__
+
+The authors described the dual-freq classification module in DPR level 2 algorithm, and they validated against ground radar, as well as compared with TRMM legacy methods.
+
+Melting layer detection is specifically discussed comparing DPR and ground radar. Avg absolute difference of 0.25km is found between ground radar and DPR.
+
 # PERSIANN
 
-Author overviews three product: PERSIANN, PERSIANN-CCS, PERSIANN-CDR.
+The author reviewed three product: PERSIANN, PERSIANN-CCS, PERSIANN-CDR.
 
 PERSIANN:
   1. infrared images transformed into hidden layer as a self-organizing feature map(SOFM) to classify the input data.

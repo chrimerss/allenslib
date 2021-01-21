@@ -87,6 +87,14 @@ __[The changing nature of flooding across the central United States](https://www
 
 In this paper, the authors investigated the flood changes (i.e., flood magnitude and flood frequency) with respect to rainfall changes in the Central US. They attribute most of the flood changes to extreme rainfall changes.
 
+__[Mixture Distributions and the Hydroclimatology of Extreme Rainfall and Flooding in the Eastern United States](https://doi.org/10.1175/2010JHM1242.1)__
+
+Spatial heterogeneities in flood peak distributions due to orographic precipitation mechanisms in mountainous terrain, coastal circulations near land–ocean boundaries, and urbanization impacts on regional climate are central features of flood peak distributions for the eastern United States, and for many other settings around the world. Orographic mechanisms in the eastern United States associated with heavy rainfall from tropical cyclones, winter–spring extratropical systems, and warm-season thunderstorms are diverse and in many settings poorly understood.
+
+Winter–spring extratropical systems account for a large fraction of eastern U.S. flood peaks, especially in the northeastern and southeastern United States (Fig. 1b). We use the frequency of March–April flood peaks as a surrogate for winter–spring extratropical flood peaks. A combination of snowmelt and rain on snow determines the local maximum in flood peak occurrence in the northeastern United States (Fig. 1b), where March–April peaks account for up to 60% of annual peaks. Organized thunderstorm systems embedded in winter–spring extratropical systems, often associated with severe weather, are important flood agents in the southeastern United States (Fig. 1b). March–April peaks account for more than 50% of annual flood peaks in south Georgia, north Florida, and southeastern Alabama (Fig. 1b).
+
+Warm-season thunderstorm systems are also important flood agents in urban watersheds along the urban megalopolis of the eastern United States
+
 # Flood generation mechanisms
 
 __[Dominant flood generating mechanisms across the United States](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068070)__

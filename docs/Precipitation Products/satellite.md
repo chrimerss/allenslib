@@ -71,6 +71,25 @@ __[Cross validation of observations from GPM dual-frequnecy precipitation radar 
 
 In this paper, the authors introduced volume matching to collocate ground radar space-borne radar.
 
+## Precipitation detection
+
+__[Detection of Intense Ice Precipitation with GPM/DPR](https://journals.ametsoc.org/view/journals/atot/35/3/jtech-d-17-0120.1.xml)__
+
+**Iguchi et al. 2018**
+
+In this paper, authors proposed to use DFR to differentiate precipitation phase, because large DFR corresponds to ice or snow particles whereas small DFR points to rain drops.
+
+The physical meaning of use of DFR is the size effect, meaning Ku band at lower frequency (i.e., longer wavelength) produces higher reflectivity values than that of Ka band, and thus leading to higher DFR values for ice or snow particles. However, two side effects from attenuation complicates this theory. Large DFR values point to size effect and attenuation in Ka-band because of scattering. On the other hand, if ice precipitation is very intense, attenuation is compensated by intensity, which leads to smaller DFR values (Knee if the DFR profile).
+
+They proposed to look at DFR>7dBZ, Zm(Ku)>27dBZ, and only data from storm top to -10 deg height (avoid attenuation).
+
+__[Evaluation of the GPM-DPR snowfall detection capability: Comparison with CloudSat-CPR](https://www.sciencedirect.com/science/article/pii/S0169809516304677?via%3Dihub)__
+
+This study compared snowfall detection using KaHS, KuNS, and MS, compared to CloudSat. They initially found a very low POD of snow detection, and they further seperate based on snowfall rate and found POD increases with snow rate, and obtain a high score when rate>1 mm/h.
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0169809516304677-gr6_lrg.jpg">
+
+
 __[Evaluation and Validation of GPM Dual-Frequency Classification Module after Launch](https://journals.ametsoc.org/view/journals/atot/33/12/jtech-d-15-0253_1.xml?tab_body=fulltext-display)__
 
 The authors described the dual-freq classification module in DPR level 2 algorithm, and they validated against ground radar, as well as compared with TRMM legacy methods.

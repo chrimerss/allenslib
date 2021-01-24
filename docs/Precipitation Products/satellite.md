@@ -96,6 +96,20 @@ The authors described the dual-freq classification module in DPR level 2 algorit
 
 Melting layer detection is specifically discussed comparing DPR and ground radar. Avg absolute difference of 0.25km is found between ground radar and DPR.
 
+__[Evaluation of GPM-DPR precipitation estimates with WegenerNet gauge data](https://amt.copernicus.org/articles/12/5055/2019/amt-12-5055-2019.pdf)__
+
+In this article, the authors compared GPM Ka/Ku/DPR to ground precipitation gauge data with respect to rainfall detection and also estimation.
+
+They found a POD value close to 0.7 for Ku and DPR but 0.4 for Ka MS.
+
+__[A Comparison between the GPM Dual-Frequency Precipitation Radar and Ground-Based Radar Precipitation Rate Estimates in the Swiss Alps and Plateau](https://journals.ametsoc.org/view/journals/hydr/18/5/jhm-d-16-0085_1.xml)__
+
+GPM DPR is evaluated in complex terrain with stats broken down to terrain complexity, season, precipitation phase, precipitation type, and precipitation rate.
+
+"Both detection and estimation performance are found to be significantly better in summer than in winter, in liquid than in solid precipitation, and in flatter terrain than in complex terrain."
+
+"The POD drops from 0.784 to 0.633 when measuring in the solid phase" -> "The lower probability of detection for GPM in the solid phase can largely be explained by the lower reflectivity of the equivalent rainfall rate in the solid phase than in the liquid phase."
+
 # PERSIANN
 
 The author reviewed three product: PERSIANN, PERSIANN-CCS, PERSIANN-CDR.

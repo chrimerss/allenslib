@@ -5,7 +5,7 @@ parent: Extreme Events
 nav_order: 3
 ---
 
-# long-term extreme precipitation (annual daily maximum)
+# long-term extreme precipitation
 
 [Spatial and temporal variation of extreme precipitation over the Yangtze River Basin](https://doi.org/10.1016/j.quaint.2007.09.001) 
 
@@ -58,6 +58,22 @@ The conclusion is that overall PERSIANN-CDR shows an agreement with ground obser
 __Prat, O. P., & Nelson, B. R. (2015). Evaluation of precipitation estimates over CONUS derived from satellite, radar, and rain gauge data sets at daily to annual scales (2002–2012). Hydrology and Earth System Sciences, 19(4), 2037.__
 
 The author adopts adaptive absolute rain rates to define extreme (i.e., WMMD=17.3 mm/day, 2 in/day, 4 in/day).
+
+__[Stationary and non‐stationary detection of extreme precipitation events and trends of average precipitation from 1980 to 2010 in the Paraná River basin, Brazil](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.6265)__
+
+In this article, the authors investigated the trends and stationarity for extreme rainfall in Brazil.
+
+They used three modes of GEV analysis: 1) stationary GEV; 2) non-stationary GEV with varing location parameter; 3) non-stationary GEV with varying both location and scale parameters.
+
+They performed grid-based analysis towards stationarity check.
+
+__[Rainfall statistics, stationarity, and climate change](https://www.pnas.org/content/115/10/2305)__
+
+This work is published in PNAS.
+
+The dataset used in the global land surface precipitation is GPCC Version 5.
+
+They set criteria to check stationarity: 1) the mean of annual precipitation is constant and 2) the autocorrelation only depends on the relative position in the time series.
 
 # How to define extreme rainfall events?
 

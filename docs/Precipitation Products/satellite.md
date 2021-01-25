@@ -110,6 +110,12 @@ GPM DPR is evaluated in complex terrain with stats broken down to terrain comple
 
 "The POD drops from 0.784 to 0.633 when measuring in the solid phase" -> "The lower probability of detection for GPM in the solid phase can largely be explained by the lower reflectivity of the equivalent rainfall rate in the solid phase than in the liquid phase."
 
+__[GPM Satellite Radar Measurements of Precipitation and Freezing Level in Atmospheric Rivers: Comparison With Ground‐Based Radars and Reanalyses](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JD027355)__
+
+GPM DPR, ground RHI radar, in-situ stations, and renalayse data are intercompared for BB detection, precipitation quantification.
+
+They showed the agreement between ground radar and DPR in terms of BB height, with a CC about 0.7 (within 100km) and 0.99 (within 100km). A mean difference of 337 m is reported when compared to reanalyses data.
+
 # PERSIANN
 
 The author reviewed three product: PERSIANN, PERSIANN-CCS, PERSIANN-CDR.

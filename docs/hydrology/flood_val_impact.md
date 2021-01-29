@@ -136,6 +136,12 @@ The majority of flood impact models focus on direct economic damage mostly to th
 
 Ensemble based impact forecasting is possible and will lead to probabilistic impact predictions that incorporate uncertainties (Brown et al., 2016, Cole et al., 2018, Dale et al., 2014).
 
+__[Leveraging machine learning for predicting flash flood damage in the Southeast US](https://iopscience.iop.org/article/10.1088/1748-9326/ab6edd)__
+<p align="center">
+<img src="https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1748-9326/15/2/024011/2/erlab6eddf1_hr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1612539253&Signature=MXNSBIabN7Mrkj71QELL62I126A%3D">
+</p>
+
+[List of publications using ML to predict flood risks](https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1748-9326/15/2/024011/2/ERL_15_2_024011_suppdata.pdf?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1612538885&Signature=KTVxXl2J%2FXVLzEdA5HeauUEHD7k%3D)
 
 # Flood damages
 

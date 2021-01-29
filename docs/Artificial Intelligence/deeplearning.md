@@ -33,3 +33,9 @@ Author used CNN to train GOES satellite to map the precipitation from IR band an
 __McGovern, A., R. Lagerquist, D. John Gagne, G. E. Jergensen, K. L. Elmore, C. R. Homeyer, and T. Smith, 2019: Making the Black Box More Transparent: Understanding the Physical Implications of Machine Learning. Bull. Amer. Meteor. Soc., 100, 2175–2199, https://doi.org/10.1175/BAMS-D-18-0195.1.__
 
 In this article, the authors emphasized the ways of interpretating "black box" model in atmospheric predictions to strengthen descision making.
+
+# Deep Learning in Hydrology
+
+__[A Transdisciplinary Review of Deep Learning Research and Its Relevance for Water Resources Scientists](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018WR022643)__
+
+A nice review paper, introducing concepts of deep learning and machine learning and also their applications in hydrologic fields.

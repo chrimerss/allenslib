@@ -111,6 +111,10 @@ __[Inundation Modeling in Data Scarce Regions](https://arxiv.org/pdf/1910.05006.
 
 Google's initiative towards global inundation mapping. They detailed the terrain data they used by reconstructing optical satellite images with 3D depth model, and the hydraulic models empowered by TPU over the globe.
 
+__[Physics Informed Data Driven model for Flood Prediction: Application of Deep Learning in prediction of urban flood development](https://arxiv.org/pdf/1908.10312v1.pdf)__
+
+In this article, the authors used deep learning method to replace SWE. Several DL models are intercompared: CNN, GAN, and GAN with data assimilation. The model is trained to ANUGA 2D FVM solver in a case study in Austin. The speedup is almost 5000 times, compared to ANUGA.
+
 # Sensitivity Analysis
 
 __[Sensitivity analysis of environmental models: A systematic review with practical workflow](https://www.sciencedirect.com/science/article/pii/S1364815216300287#bib35)__

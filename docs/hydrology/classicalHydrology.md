@@ -107,6 +107,13 @@ __[Enhancing river model set-up for 2-D dynamic flood modelling](https://www.sci
 
 This paper details necessary steps for a hydrodynamic model in the context of flood mapping. Several caveats are drawn, including representing realistic terrain, a coupling between hydrologic model and a hydrodynamic model, and insertion of man-made structures (bridges, buildings, weirs).
 
+
+## DL in flood inundation modeling
+
+__[Clustering-based hybrid inundation model for forecasting flood inundation depths](https://www.sciencedirect.com/science/article/pii/S002216941000106X)__
+
+Early tentative approach to forecast flood inundation depth with ML models. They firstly cluster study domain to different regions that potentially differ in flood response. Then, ANN model is trained on 12-h maximum flood depth, simulated by HEC-RAS and SWMM.
+
 __[Inundation Modeling in Data Scarce Regions](https://arxiv.org/pdf/1910.05006.pdf)__
 
 Google's initiative towards global inundation mapping. They detailed the terrain data they used by reconstructing optical satellite images with 3D depth model, and the hydraulic models empowered by TPU over the globe.
@@ -114,6 +121,36 @@ Google's initiative towards global inundation mapping. They detailed the terrain
 __[Physics Informed Data Driven model for Flood Prediction: Application of Deep Learning in prediction of urban flood development](https://arxiv.org/pdf/1908.10312v1.pdf)__
 
 In this article, the authors used deep learning method to replace SWE. Several DL models are intercompared: CNN, GAN, and GAN with data assimilation. The model is trained to ANUGA 2D FVM solver in a case study in Austin. The speedup is almost 5000 times, compared to ANUGA.
+
+__[An ANN-based emulation modelling framework for flood inundation modelling: Application, challenges and future directions](https://www.sciencedirect.com/science/article/pii/S1364815219307601#bib89)__
+
+In this paper, the authors discussed potentials using ML to emulate flood inundation. They propose ANN based model trained on TUFlow solved water depth (3 historical events and six designed events). A case study in Australia is provided. Inputs, such as flood drivers (i.e., inflow, tidal condition). They used information theory, partial mutual information (PMI) specifically to select most important input features.
+
+One hilight of this work is that they discussed the prospecitve future of using ML model to replace SWE, and they validate the results based on three aspects:   
+
+1. predictive validity: to ensure the model can generalise over the range of calibration data (that is validation step).
+
+2. replicative validity: to ensure the model has captured the underlying relationship in the available data
+
+3. structure validity: Structure validation is “to ensure the model is plausible when compared with a priori knowledge” of the system)
+
+__[Artificial neural network based hybrid modeling approach for flood inundation modeling](https://www.sciencedirect.com/science/article/pii/S0022169420310660#!)__
+
+The authors attempted to generalize ANN model from data-rich regions to data-sparse regions. A hybrid framework is developed, using point-based ANN, block-based ANN (in consecutive times). Point-based ANN turns out to have better generalization.
+
+A framework of their workflow is provided as follows, in which they cluster regions with sufficient data or poor data coverage, and subsequently they construct relationships between data-rich model and data-sparse model.
+
+<p aligh="center">
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0022169420310660-gr1_lrg.jpg">
+</p>
+
+They classified the model domain into data-rich channel and data-sparse flood plain. Within the floodplains, they applied ANNs+ReLU to reclify values above max depth in channel.
+
+<p align="center">
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0022169420310660-gr4_lrg.jpg">
+</p>
+
+
 
 # Sensitivity Analysis
 

@@ -9,6 +9,22 @@ nav_order: 4
 
 __[The Need for a High-Accuracy, Open-Access Global DEM](https://www.frontiersin.org/articles/10.3389/feart.2018.00225/full)__
 
+# Soil
+
+__[Estimating dominant runoff modes across the conterminous United States](https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.13296)__
+
+In this paper, the authors classified US into their dominant hydrologic processes: 1) infiltration-excess flow and 2) suturation-excess flow.
+
+"Infiltration‐excess processes (hereafter referred to as IE) follow from precipitation intensities that exceed soil permeability, for example, in places with soils having high clay content, compaction, or impervious surfaces. Conversely, saturation‐excess runoff (hereafter referred to as SE) is more likely in regions where infiltration capacity exceeds precipitation, for example, in places which have humid, well‐vegetated, and low‐lying areas where surface and subsurface flows converge. For instance, where and when SE dominates, a topographic wetness index can effectively depict fine‐scale spatial moisture patterns by revealing variable runoff source areas with lower gradients and greater contributing areas"
+
+"The intensity or likelihood of IE runoff, as indicated by the degree to which 1‐hr storm depths exceed representative surficial KSAT, is the greatest in portions of Texas, Louisiana, Kansas, Missouri, Iowa, Nebraska, and Western South Dakota. SE runoff, on the other hand, is more likely in Florida, Southern Georgia, Southeastern California, and Nevada, as well as western Oregon and coastal areas of the Great Lakes region"
+
+A CONUS-wide Ksat exceedance is provided as follows:
+
+<p align="center">
+  <img src="https://onlinelibrary.wiley.com/cms/asset/ba0a915e-4dc8-4668-8423-6bc17bdbda35/hyp13296-fig-0004-m.jpg">
+</p>
+
 # Urbanization
 __Zhou, Z., J. A. Smith, L. Yang, M. L. Baeck, M. Chaney, M.-C. Ten Veldhuis, H. Deng, and S. Liu (2017), The complexities of urban flood response: Flood frequency analyses for the Charlotte metropolitan region, Water Resour. Res., 53, 7401–7425, doi:10.1002/2016WR019997.__
 
@@ -97,3 +113,18 @@ This paper, Clark et al. reviewed the uncertainties inherent to climate-driven h
   <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40641-016-0034-x/MediaObjects/40641_2016_34_Fig1_HTML.gif?as=webp">
 </p>
 
+__[]()__
+
+the authors discussed the advantages of using multi-model ensembles to replace "one-model-one-vote" approach.
+
+"There is indeed a growing interest in the scientific community dealing with climate impact studies on the opportunity of going beyond the ‘one-model onevote approach’ (or “model democracy” (Knutti, 2010)) and favouring model runs with a better historical performance in reproducing observations with the aim to reduce uncertainty"
+
+In peak flow distributions, the authors assessed the time series with three tests: 1) same distribution (KS test), 2) equal median (Wilcoxon rank-sum), and 3) equal variance (Ansari-Bradley).
+
+Flood timing shifts are also investigated in this study, pointing to a general conclusion of earlier peaking time.
+
+Interestingly, they found flood magnitude for all models indicates a genearl decrease in future over southeast U.S. These features are explained by two-fold: 1) uncertainties due to representation of precipitation and sub-grid soil infiltration; 2) total runoff contributions from saturation excess flow and infiltration excess flow.
+
+"If on the one hand GCMs are responsible for regional runoff biases due to uncertainties in the representation of precipitation and sub-grid soil infiltration and flow; on the other hand the GIMs’ total runoff include contributions from surface runoff – function of saturation and infiltration excess – and subsurface runoff – function of impermeable area and water table depth"
+
+"The prevalence of infiltration (IE) or saturation (SE) excess runoff depends on the type of soil and its capacity to become saturated / infiltrate. A sandy soil in the southeast will yield a higher flux (i.e., will transmit water faster) than a clayey soil under a given hydraulic gradient, reducing the effects of high-intensity precipitation."

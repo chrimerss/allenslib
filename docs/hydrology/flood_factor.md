@@ -9,7 +9,7 @@ nav_order: 4
 
 __[The Need for a High-Accuracy, Open-Access Global DEM](https://www.frontiersin.org/articles/10.3389/feart.2018.00225/full)__
 
-# Soil
+# Soil/Infiltration
 
 __[Estimating dominant runoff modes across the conterminous United States](https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.13296)__
 
@@ -24,6 +24,10 @@ A CONUS-wide Ksat exceedance is provided as follows:
 <p align="center">
   <img src="https://onlinelibrary.wiley.com/cms/asset/ba0a915e-4dc8-4668-8423-6bc17bdbda35/hyp13296-fig-0004-m.jpg">
 </p>
+
+__[Understanding the re-infiltration process to simulating streamflow in North Central Texas using the WRF-hydro modeling system](https://www.sciencedirect.com/science/article/pii/S0022169420303620)__
+
+In this paper, the authors comprehensively investigated the significance of run-on infiltration for WRF-Hydro. A few model parameters are cross-correlated with reinfiltration ratio (defined as reinfiltration / total infiltration).
 
 # Urbanization
 __Zhou, Z., J. A. Smith, L. Yang, M. L. Baeck, M. Chaney, M.-C. Ten Veldhuis, H. Deng, and S. Liu (2017), The complexities of urban flood response: Flood frequency analyses for the Charlotte metropolitan region, Water Resour. Res., 53, 7401–7425, doi:10.1002/2016WR019997.__

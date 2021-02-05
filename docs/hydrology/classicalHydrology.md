@@ -67,6 +67,11 @@ In this paper, it introduces a lot of needs for developing a coupled model, spec
 
 2. Floodplain inundation modelling is not available in hydrologic models.
 
+__[AutoRAPID: A Model for Prompt Streamflow Estimation and Flood Inundation Mapping over Regional to Continental Extents](https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.12476)__
+
+In this paper, the authors coupled RAPID hydrologic routing module with AutoRoute for hydrodynamic part. For efficiency, they simulated 9 consecutive years of Mississippi river basin within only 45 mins (24 processors and 3-hr time step).
+
+
 # Modeling Toolkits
 
 __Multi-objective unstructured triangular mesh generation for use in hydrological and land surface models__

@@ -9,6 +9,24 @@ nav_order: 4
 
 __[The Need for a High-Accuracy, Open-Access Global DEM](https://www.frontiersin.org/articles/10.3389/feart.2018.00225/full)__
 
+# Canopy interception
+
+__[Canopy precipitation interception in urban forests in relation to stand structure](https://link.springer.com/article/10.1007/s11252-017-0689-7)__
+
+In this paper, the authors split bulk precipitation into throughfall, stemfall, and canopy interception with gauged observations. They evaluated compositions of each during leafness and leafed period for three types of forests: mixed forest, riparian pine forest, and floodplain hardwood forest.
+
+The composition is shown as below where in Leafed period and mixed forest, the interception could take up over 20% of the total precipitation.
+
+<p align="center">
+  <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11252-017-0689-7/MediaObjects/11252_2017_689_Fig4_HTML.gif?as=webp">
+</p>
+
+__[Evaluation of canopy interception schemes in land surface models](https://www.sciencedirect.com/science/article/pii/S0022169407004866?via%3Dihub)__
+
+Canopy interception is evaluated with Land surface models, in which the authors proposed a scheme that differentiates rain type (convective or straitiform).
+
+They claimed that the global average interception loss is around 0.31 for 60-min resolution, concentrated on rain forests, but even higher for 20-min resolution. convective storm will have higher positive impact on interception loss.
+
 # Soil/Infiltration
 
 __[Estimating dominant runoff modes across the conterminous United States](https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.13296)__

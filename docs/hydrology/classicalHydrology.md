@@ -112,6 +112,11 @@ __[Enhancing river model set-up for 2-D dynamic flood modelling](https://www.sci
 
 This paper details necessary steps for a hydrodynamic model in the context of flood mapping. Several caveats are drawn, including representing realistic terrain, a coupling between hydrologic model and a hydrodynamic model, and insertion of man-made structures (bridges, buildings, weirs).
 
+__[FWDET–Floodwater Depth Estimation Tool](https://doi.org/10.5194/nhess-2019-78)__
+
+[Github](https://github.com/csdms-contrib/fwdet)
+
+Use remote sensing sources (polygon) and high-resolution DEM to approximate Flood depth.
 
 ## DL in flood inundation modeling
 

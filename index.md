@@ -35,6 +35,10 @@ Sui, X.; __Li, Z.__; Ma, Z.; Xu, J.; Zhu, S.; Liu, H. Ground Validation and Erro
 
 Cai, S., Zhou, S., Wu, P., __Li, Z.__, Deng, S., 2019. BIBLIOMETRIC ANALYSIS OF RESEARCH ON FISH METAL FROM 1997 TO 2016, FRESENIUS ENVIRONMENTAL BULLETIN
 
+# A collection of flood inundation images
+
+[Flood Collection](https://chrimerss.users.earthengine.app/view/floodcollections)
+
 # United States Flood Database
 <iframe width="100%" height="520" frameborder="0" src="https://chrimerss.carto.com/builder/023325b4-8b95-40cf-a9f5-b3dcf71d4a41/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 

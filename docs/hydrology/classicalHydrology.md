@@ -160,7 +160,9 @@ They classified the model domain into data-rich channel and data-sparse flood pl
   <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0022169420310660-gr4_lrg.jpg">
 </p>
 
+__[Improvement of Two-Dimensional Flow-Depth Prediction Based on Neural Network Models By Preprocessing Hydrological and Geomorphological Data](https://link.springer.com/article/10.1007/s11269-021-02776-9)__
 
+In this paper, the authors used a set of hydrologic variables e.g., Runoff, roughness, FAR, slope with a latent time to predict flood depth at next time step. The models they used are RNNs, benchmarked on traditional ANNs. One highlight is that they did multi-dimensional cluster to seperate the watershed into different properties based on environmental variables.
 
 # Sensitivity Analysis
 

@@ -89,6 +89,18 @@ They summarized main three approaches to study on this topic:
 2) paired catchment with contrast experiment variable.  
 3) Model simulations.  
 
+# Urban Detention
+
+__[Exploring storage and runoff generation processes for urban flooding through a physically based watershed model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014WR016085)__
+
+In their introduction, they mentioned two factors playing important role in flood inundation mapping:
+
+1. Detention infrastructure can play an important role in storing runoff and lowering flood peaks in urban watersheds. Past modeling work found that detention infrastructure could lower a single event peak discharge by 48–50% for the small 1–2 km subbasins within Dead Run [Meierdiercks et al., 2010aa]. However, modeling efforts in larger 5.5 km2 and 62 km2 watersheds have suggested that detention basins could potentially increase outlet peak discharges slightly by delaying the timing of the peak responses in downstream portions of the drainage network and aligning them with peak discharges from upstream portions of the drainage network [McCuen, 1979; Emerson et al., 2005].
+
+2. Another major source of storage in urban watersheds is within the soil column. Even highly urbanized watersheds frequently have as much pervious cover as impervious. It would be a mistake to ignore the important role that infiltration can play in the flood response of urban watersheds.
+
+They designed two experiments to tackle these two issues: they replaced detection rating-curve with streamflow rating-curve to simulate detention-free scenario; they replaced upper soil layer parameters with lower layer parameters to simulate less compaction scenario. Soil storage is further investigated by giving an uniform soil type (silt) and hydraulic conductivity throughout the catchment.
+
 # Climate Change
 
 __[Continental‑scale convection‑permitting modeling of the current and future climate of North America](https://link.springer.com/article/10.1007/s00382-016-3327-9)__

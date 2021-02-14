@@ -126,6 +126,10 @@ The authors implemented Cellular Automata in an urban environment for efficiency
 
 $H_t=H_{t-1}+(\sum{D_{ij,t-1}}-\sum{D_{ij,t}}\frac{\deltat,b^2}+Source$
 
+__[From python scripting to parallel spatial modeling](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/12OmNBv2Cjf/pdf)__
+
+A Python module for implementing cellular automata.
+
 ## DL in flood inundation modeling
 
 __[Clustering-based hybrid inundation model for forecasting flood inundation depths](https://www.sciencedirect.com/science/article/pii/S002216941000106X)__

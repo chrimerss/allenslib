@@ -130,6 +130,10 @@ __[From python scripting to parallel spatial modeling](https://www.computer.org/
 
 A Python module for implementing cellular automata.
 
+__[A Cellular Automata Fast Flood Evaluation (CA‐ffé) Model](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018WR023679)__
+
+First attempt to use Cellular Automata, published in WRR.
+
 ## DL in flood inundation modeling
 
 __[Clustering-based hybrid inundation model for forecasting flood inundation depths](https://www.sciencedirect.com/science/article/pii/S002216941000106X)__

@@ -118,6 +118,14 @@ __[FWDET–Floodwater Depth Estimation Tool](https://doi.org/10.5194/nhess-2019-
 
 Use remote sensing sources (polygon) and high-resolution DEM to approximate Flood depth.
 
+## Cellular Automata for Fluid
+
+__[Efficient Urban Inundation Model for Live Flood Forecasting with Cellular Automata and Motion Cost Fields](https://www.mdpi.com/2073-4441/12/7/1997/htm)__
+
+The authors implemented Cellular Automata in an urban environment for efficiency. The governing PDE is:
+
+$H_t=H_{t-1}+(\sum{D_{ij,t-1}}-\sum{D_{ij,t}}\frac{\deltat,b^2}+Source$
+
 ## DL in flood inundation modeling
 
 __[Clustering-based hybrid inundation model for forecasting flood inundation depths](https://www.sciencedirect.com/science/article/pii/S002216941000106X)__

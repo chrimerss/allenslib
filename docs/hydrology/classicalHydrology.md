@@ -118,6 +118,10 @@ __[FWDET–Floodwater Depth Estimation Tool](https://doi.org/10.5194/nhess-2019-
 
 Use remote sensing sources (polygon) and high-resolution DEM to approximate Flood depth.
 
+__[The Landlab v1.0 OverlandFlow component: a Python tool for computing shallow-water flow across watersheds](https://gmd.copernicus.org/articles/10/1645/2017/gmd-10-1645-2017.pdf)__
+
+An efficient way for flood depth estimation, using simplified SWE. In particular, advection term is ignored, similar to LISFLOOD-FP. This model is hosted with Landlab python library.
+
 ## Cellular Automata for Fluid
 
 __[Efficient Urban Inundation Model for Live Flood Forecasting with Cellular Automata and Motion Cost Fields](https://www.mdpi.com/2073-4441/12/7/1997/htm)__

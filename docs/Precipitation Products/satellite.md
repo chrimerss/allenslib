@@ -116,6 +116,22 @@ GPM DPR, ground RHI radar, in-situ stations, and renalayse data are intercompare
 
 They showed the agreement between ground radar and DPR in terms of BB height, with a CC about 0.7 (within 100km) and 0.99 (within 100km). A mean difference of 337 m is reported when compared to reanalyses data.
 
+__[Satellite Estimation of Falling Snow: A Global Precipitation Measurement (GPM) Core Observatory Perspective](https://doi.org/10.1175/JAMC-D-18-0124.1)__
+
+In this paper, the authors compared GPM DPR with GMI and CloudSat globally for snow detection. They attributed differences to orbital, instrumental, and algorihtmic disparities.
+
+1. The products developed by the GPM and CloudSat missions for the three sensors of interest in this study (DPR, GMI, and CPR) employ disparate surface precipitation phase discrimination/classification schemes in mission-affiliated official products, thus complicating comparison efforts
+2. Orbital and resolution differences between CPR and DPR cause sampling dissimilarities that affect statistical analyses
+3. The performance characteristics of the instruments, most notably the radar minimum detectable reflectivity values, also cause differences
+4. the respective radar observations are contaminated by range gate clutter near Earth’s surface, and therefore near-surface range gates above possible ground clutter (so-called near-surface bins) are used to estimate surface snowfall rates. Systematic differences in the near-surface bin designation between these sensors are evident and arise in part because of DPR scanning capabilities versus CPR fixed-nadir observations and other algorithm-specific considerations
+5. For passive microwave retrievals as from GMI, snowfall estimates can also be affected by variable surface emissivity, especially over snow-covered surfaces. The land surface variable emissivity hinders falling snow detection compared to oceanic backgrounds that have lower and more uniform emissivities
+
+DPR has limited detectable reflectivity (>0 dBZ) compared to CloudSat due to instrumentations.
+
+phase near surface flag tends to overestimate snowfall compared to flagSurfaceSnowfall flag.
+
+While the DPR NS and DPR MS retrievals are nearly identical, the DPR HS retrieval only detects 76% of the snow occurrence of the DPR NS, (and DPR MS) retrievals, and 50% of the snowfall rate. " it is somewhat surprising that the DPR HS detection is lower than DPR NS, since the DPR HS MDR is similar to DPR NS " 
+
 # PERSIANN
 
 The author reviewed three product: PERSIANN, PERSIANN-CCS, PERSIANN-CDR.

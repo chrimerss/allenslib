@@ -108,3 +108,31 @@ Table 2. Data portals where radar data or archived images can be downloaded.
 |United States|NEXRAD|1991|160|www.ncdc.noaa.gov/data-access/radar-data/nexrad|
 
 "In our experience, the added value of radar for climate monitoring is particularly high for convective precipitation with high spatial and temporal variations, which cannot correctly be captured by rain gauge networks."
+
+# Precipitation classification
+
+__[The NSSL Hydrometeor Classification Algorithm in Winter Surface Precipitation: Evaluation and Future Development](https://journals.ametsoc.org/view/journals/wefo/26/5/waf-d-10-05011_1.xml)__
+
+In this study, the authors investigated NSSL hydrometeor classification algorithm against near ground reportings. They found:
+
+1. HCA appears to classify too many cases as liquid when either frozen or none is reported.
+2. HCA seems work in identifying precipitation.
+3. HCA does no better than linear discriminant analysis
+4. In summary, HCA is not suitable for determining hydrometeor type near the ground in winter precipitation
+
+Explainations:
+
+The poor performance of the HCA on frozen precipitation may be explained in part because frozen precipitation is sometimes mixed with varying amounts of rain. Observers are not asked to report mixed precipitation because doing so reliably requires unavailable training. Another likely contributor is that the current HCA does not account for refreezing below the melting level, a common occurrence in winter precipitation.
+
+__[Classification of Precipitation Types during Transitional Winter Weather Using the RUC Model and Polarimetric Radar Retrievals](https://journals.ametsoc.org/view/journals/apme/51/4/jamc-d-11-091.1.xml)__
+
+The authors discussed three main issues relating to HCA algorithms:
+
+1. the existing HCA was primarily developed for warm-season weather, it may not work efficiently for cold-season storms for which the height of melting layer is below 1km
+2. it is essentially ‘‘local.’’ That is, it provides class designations at everyelevation sweep, using only radar information collected at that sweep rather than in a full 3D volume.
+3. the existing polarimetric HCA is entirely radar based; no thermodynamic information is utilized in the classification process.
+4. The classification of cold-season precipitation type at the surface is further complicated by the broad range of precipitation types that might result from processes that occur below the primary melting level
+
+
+
+

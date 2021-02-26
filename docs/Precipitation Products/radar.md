@@ -134,5 +134,20 @@ The authors discussed three main issues relating to HCA algorithms:
 4. The classification of cold-season precipitation type at the surface is further complicated by the broad range of precipitation types that might result from processes that occur below the primary melting level
 
 
+# Snow-ice
 
+__[Sergey Y. Matrosov](https://cires.colorado.edu/researcher/sergey-matrosov)__
+
+__[The Use of CloudSat Data to Evaluate Retrievals of Total Ice Content in Precipitating Cloud Systems from Ground-Based Operational Radar Measurements](https://journals.ametsoc.org/view/journals/apme/54/7/jamc-d-15-0032.1.xml)__
+
+
+Even in tropics about 40% of rain is stratiform-like (Houze 1997). In midlatitudes often more than half of total liquid precipitation comes from stratiform-like systems (e.g., Matrosov et al. 2014). Such systems are considered in this study.
+
+It elaborates radar beam broadening in a graph.
+
+<p align="center">
+<img src="https://journals.ametsoc.org/view/journals/apme/54/7/full-jamc-d-15-0032.1-f1.jpg" height="50%">
+</p>
+
+from the results, a good correlation is found (r=0.7) between WSR-88D ground radar and CloudSat satellite, without obvious systematic bias.
 

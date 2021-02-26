@@ -19,7 +19,7 @@ This feature is at fine scale (2km). when increase the spatial footprint, this f
 between the center pixel and the averaged value of the surrounding pixels; VM - is the maximum temperature enhancement due to emission for the 19- and 37-GHz
 channels or the maximum depression due to scattering at 85 GHz.
 
-# Snowfall evaluation
+# Snowfall/Ice evaluation
 
 __Wen, Y., Behrangi, A., Lambrigtsen, B., Kirstetter, P. (2016). Evaluation and Uncertainty Estimation of the Latest Radar and Satellite Snowfall Products Using SNOTEL Measurements over Mountainous Regions in Western United States. Remote Sensing. 8. 904. 10.3390/rs8110904.__
 
@@ -36,6 +36,8 @@ __Behrangi, A., Bormann, K. J., & Painter, T. H. ( 2018). Using the Airborne Sno
 In this paper, authors compared all-possible satellite precipitation estimates along with MRMS against gauge references to evaluate the respective performance of satellite sensors in snowfall estimates.
 
 Surprisingly, IR (PERSIANN) sensor outperforms than PMW (IMERG) even though IR lacks scattering channels. The author attributes this to the icy/snowy surface in extreme winter storms.
+
+__[A Polarimetric Analysis of Ice Microphysical Processes in Snow, Using Quasi-Vertical Profiles](https://journals.ametsoc.org/view/journals/apme/57/1/jamc-d-17-0033.1.xml)__
 
 # Impact of Aerosal to precipitation
 

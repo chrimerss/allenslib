@@ -39,6 +39,10 @@ Surprisingly, IR (PERSIANN) sensor outperforms than PMW (IMERG) even though IR l
 
 __[A Polarimetric Analysis of Ice Microphysical Processes in Snow, Using Quasi-Vertical Profiles](https://journals.ametsoc.org/view/journals/apme/57/1/jamc-d-17-0033.1.xml)__
 
+__[Quasi-Vertical Profiles—A New Way to Look at Polarimetric Radar Data](https://journals.ametsoc.org/view/journals/atot/33/3/jtech-d-15-0020_1.xml)__
+
+In this paper, the authors proposed a new way (Quasi-vertical-profile) to interpret the hydrometeors.
+
 # Impact of Aerosal to precipitation
 
 __Li, Z., Niu, F., Fan, J. et al. Long-term impacts of aerosols on the vertical development of clouds and precipitation. Nature Geosci 4, 888–894 (2011). https://doi.org/10.1038/ngeo1313__

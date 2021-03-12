@@ -226,6 +226,26 @@ In this paper, the authors proposed a bivariate meta-gaussian model to quantify 
 
 As a test of gaussianity and homoscedacity, they used Kolmogorov-Smirnov (K-S) and Bartlett tests.
 
+# Review of modern Hydrology
+
+__[Challenges in modeling and predicting floods and droughts: A review](https://onlinelibrary.wiley.com/doi/full/10.1002/wat2.1520)__
+
+In this paper, the authors discussed challenges for modern hydrologic modeling from following perspectives: 1) data, 2) hydrologic modeling, 3) process understanding, and 4) human-water interactions. For each item, they bring up challenges, as well as strategies.
+
+1. Data challenges:
+
+It is tied to lack of data, data accessibility, and data sharing. But more importantly, When data is available, an obstacle is how to choose relavent data, which is event identification. For floods (droughts), trade-offs are present when using peak-over(below)-threshold or annual max (min). It is important to select representative events while obtaining as more events as possible.
+
+2. Process understanding:
+
+It remains unknown for compounding flood/drought drivers from meteorologic and hydrologic perspective. Multi-variate modeling is the key to analyzing the dependencies between one another. The spatial dimension of flood/drought needs to be focuses, such as a severity area-frequency-duration curve instead of site-specified IDF curve. Nonstationary caused by climate change, human interactions is a main challenge for hydrologic evaluations.
+
+3. Modelling and prediction
+
+A right modelling tool should encapsulate physical hydrologic processes and also ackownlege uncertainties in between. Stochastic modelling is prevailing because of obvious uncertainties in and out model simulations. A big take from it is how to strengthen model capacity with 1) better understanding of hydrologic process, 2) incorporating spatial representativeness of hydrologic models, and 3) dissections of transition between flood and drought.
+
+Keys to combat challenges: 1) adopting spatial metrics to hydrologic calibration, 2) calibration on wet condition and evaluate on dry condition or vice versa for simulating transitions, 3) be able to represent non-stationary model parameters.
+
 # Hydrologic Regionalization
 
 __[Investigating regionalization techniques for large-scale hydrological modelling](https://www.sciencedirect.com/science/article/pii/S0022169419300496)__

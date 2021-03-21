@@ -162,3 +162,10 @@ Interestingly, they found flood magnitude for all models indicates a genearl dec
 "If on the one hand GCMs are responsible for regional runoff biases due to uncertainties in the representation of precipitation and sub-grid soil infiltration and flow; on the other hand the GIMs’ total runoff include contributions from surface runoff – function of saturation and infiltration excess – and subsurface runoff – function of impermeable area and water table depth"
 
 "The prevalence of infiltration (IE) or saturation (SE) excess runoff depends on the type of soil and its capacity to become saturated / infiltrate. A sandy soil in the southeast will yield a higher flux (i.e., will transmit water faster) than a clayey soil under a given hydraulic gradient, reducing the effects of high-intensity precipitation."
+
+
+__[Global Changes in 20‐Year, 50‐Year, and 100‐Year River Floods](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL091824)__
+
+In this paper, the authors emphasized the non-stationarity when constructing GEV. They extracted hundreads of years of streamflow globally, and classified based on Koppen-Geiger climate regimes.
+
+For the 20‐ and 50‐year return periods, we find a majority of increasing floods in temperate climate zones, but a majority of decreasing floods in arid, tropical, polar, and cold climate zones. For the 100‐year return periods (a smaller sample of sites with at least 70 years of data), we obtain slightly different results, with decreases in arid and temperate zones; mixed trends in cold zones; and increases at a small sample of tropical sites.

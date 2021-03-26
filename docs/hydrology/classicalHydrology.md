@@ -71,6 +71,13 @@ __[AutoRAPID: A Model for Prompt Streamflow Estimation and Flood Inundation Mapp
 
 In this paper, the authors coupled RAPID hydrologic routing module with AutoRoute for hydrodynamic part. For efficiency, they simulated 9 consecutive years of Mississippi river basin within only 45 mins (24 processors and 3-hr time step).
 
+__[Simulation of Hurricane Harvey flood event through coupled hydrologic‐hydraulic models: Challenges and next steps](https://onlinelibrary.wiley.com/doi/full/10.1111/jfr3.12716)__
+
+In this paper, the authors bridge the hydrologic-hydraulic modeling by using VIC+RAPID (hydrologic) and Flood2D-GPU, applied in Harrious county during Hurricane Harvey.
+
+They tested the sensitivity of modelling parameters including initial water depth, roughness, soil moisture, bathymetry, and reservious storage. They used gauged stage time series and HWM interpolated water depth to validate the model performance.
+
+"For a large flood event such as Hurricane Harvey, the effect of the initial water depths is insignificant. The Manning's n values may increase the peak water depth by ~1%, the flood extents by 65km2, and the high danger zone by ~6%. On the contrary, the bathymetry correction factors may reduce the flood extent by ~1.4% and the high‐danger zone by ~4%. Reducing the reservoir storage capacity to 1% may increase the flood extent by ~4% and the high‐danger zone by ~17%."
 
 # Modeling Toolkits
 

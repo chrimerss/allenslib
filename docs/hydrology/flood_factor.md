@@ -169,3 +169,16 @@ __[Global Changes in 20‐Year, 50‐Year, and 100‐Year River Floods](https://
 In this paper, the authors emphasized the non-stationarity when constructing GEV. They extracted hundreads of years of streamflow globally, and classified based on Koppen-Geiger climate regimes.
 
 For the 20‐ and 50‐year return periods, we find a majority of increasing floods in temperate climate zones, but a majority of decreasing floods in arid, tropical, polar, and cold climate zones. For the 100‐year return periods (a smaller sample of sites with at least 70 years of data), we obtain slightly different results, with decreases in arid and temperate zones; mixed trends in cold zones; and increases at a small sample of tropical sites.
+
+
+__[Future streamflow regime changes in the United States: assessment using functional classification](https://hess.copernicus.org/articles/24/3951/2020/)__
+
+The authors considered the temporal evolution of hydrologic regimes in current and future climate simulations. They simulated discrete time series of flow rate from ~600 US catchments from the VIC model to interpret how the hydrologic regimes will change at daily scale.
+
+In doing so, they project discrete flow rate onto a basis function (B-spine) with tunable parameters for each catchment. Then, they used a hierarchical clustering algorithm which allows for non-elliptical clusters, minimizing the total within-cluster variance. 
+
+One take from this project is that they not only limited by traditional evaluations, which is computation of KGE or Nash, but they also considered evaluations on catchment characteristics. For instance, regimes with intermittent flow are characterised by weak seasonality.
+
+Regime shifts turn out to only affect currently intermittent, strong winter, and NewYear's regimes. Currently intermittent regimes are mostly changing to weak winter regimes, currently weak winter regimes to intermittent or strong winter regimes, and currently strong winter regimes to weak winter or New Year's regimes, regime types relatively close to their current regime.
+
+Geographically, regime changes are expected according to most GCMs in the Rocky and Appalachian Mountains and to a lesser degree in the Pacific Northwest and the Midwest. In contrast, regimes of catchments in the Great Plains are predicted to be mostly unaffected by changes. 

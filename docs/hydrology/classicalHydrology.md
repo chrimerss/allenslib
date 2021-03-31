@@ -235,6 +235,12 @@ As a test of gaussianity and homoscedacity, they used Kolmogorov-Smirnov (K-S) a
 
 # Review of modern Hydrology
 
+[Martyn Clark](https://scholar.google.com/citations?user=xFGnDqsAAAAJ&hl=en)
+
+__[Improving the representation of hydrologic processes in Earth System Models](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015WR017096)__
+
+A good review paper discussing current status, challenges, and opportunities for hydrologic model communities. 
+
 __[Challenges in modeling and predicting floods and droughts: A review](https://onlinelibrary.wiley.com/doi/full/10.1002/wat2.1520)__
 
 In this paper, the authors discussed challenges for modern hydrologic modeling from following perspectives: 1) data, 2) hydrologic modeling, 3) process understanding, and 4) human-water interactions. For each item, they bring up challenges, as well as strategies.

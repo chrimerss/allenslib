@@ -399,3 +399,12 @@ The improvements of CREST V3.0 against V2.x are:
 3). According to free water storage, separating runoff into three components, including overland flow, interflow, and ground water.
 
 4). Improving the flow concentration module into a four-mechanism cell-to-cell routing, including overland flow, interflow, ground water, and river channel flow routings. Based on the arrival time of each upstream grid cell to its downstream outlet grid cell, the generated runoff is routed down along the flow concentration path generated according to the eight-flow-direction method.
+
+
+# Groundwater Hydrology
+
+[Ying Fan](https://scholar.google.com/citations?hl=en&user=oCJH1C4AAAAJ)
+
+__[River basins as groundwater exporters and importers: Implications for water cycle and climate modeling](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2008JD010636)__
+
+The authors designed the experiment to investigate the long-distance groundwater flow, which reveals the indication of regional and large-scale hydrologic processes. They used the precipitation surplus versus recharge ratio to indicate how groundwater is divided and whether the groundwater in one basin is importer or exporter. This groundwater budget is highly relied on the topography, climate, and basin characteristics (geology).

@@ -33,3 +33,9 @@ This paper introduces the first attempt to calibrate a hydrologic model based on
 __[Combining optical remote sensing, McFLI discharge estimation, global hydrologic modelling, and data assimilation to improve daily discharge estimates across an entire large watershed ](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR027794)__
 
 In this paper, the authors used LandSat to reconstruct river width and eventually use flow law to infer discharge. They assimulated the discharge with acknowledging all uncertainty terms and compared against GRADES as baseline, and they found a significant improvement. The reach-level routing is computationally efficient for global or large scale hydrologic modelling.
+
+__[In Quest of Calibration Density and Consistency in Hydrologic Modeling: Distributed Parameter Calibration against Streamflow Characteristics](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR024178)__
+
+In this article, the authors pointed out two ways of calibrating hydrologic models on a large scale: 1. hydrologic regionalization for model parameters based on basin characteristics or regressions; 2. regionalization on streamflow, and use it as the target to calibrate the model. This paper targets the latter one.
+
+They calibrated three sensitive parameters from the VIC model against four streamflow signatures: Qmean, Q10, Q90, and base flow index. These values are calculated from gauges II dataset. They present a significant improvement comparing the calibrated model and non-calibrated model. Also, they pointed out some regions that reluctant to calibrations, such as arid regions.

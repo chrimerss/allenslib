@@ -39,3 +39,8 @@ __[In Quest of Calibration Density and Consistency in Hydrologic Modeling: Distr
 In this article, the authors pointed out two ways of calibrating hydrologic models on a large scale: 1. hydrologic regionalization for model parameters based on basin characteristics or regressions; 2. regionalization on streamflow, and use it as the target to calibrate the model. This paper targets the latter one.
 
 They calibrated three sensitive parameters from the VIC model against four streamflow signatures: Qmean, Q10, Q90, and base flow index. These values are calculated from gauges II dataset. They present a significant improvement comparing the calibrated model and non-calibrated model. Also, they pointed out some regions that reluctant to calibrations, such as arid regions.
+
+__[Global Fully Distributed Parameter Regionalization Based on Observed Streamflow From 4,229 Headwater Catchments](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JD031485)__
+
+In this paper, the authors calibrated the gridded HBV model at daily scale globally to obtain a distributed parameters, and they regressed calibrated parameters to ungauged regions via a transfer function (regression).
+They are able to obtain a median KGE of 0.46, improved from 0.29 on average. They also analyzed regionalizations of those parameters to gain a physical understanding.

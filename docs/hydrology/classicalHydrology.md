@@ -259,6 +259,21 @@ A right modelling tool should encapsulate physical hydrologic processes and also
 
 Keys to combat challenges: 1) adopting spatial metrics to hydrologic calibration, 2) calibration on wet condition and evaluate on dry condition or vice versa for simulating transitions, 3) be able to represent non-stationary model parameters.
 
+## Comparison of global hydrologic model and land surface models
+
+__[Global evaluation of runoff from 10 state-of-the-art hydrological models](https://hess.copernicus.org/articles/21/2881/2017/hess-21-2881-2017.pdf)__
+
+In this paper, the authors compared six global hydrologic models (GHM) and four land surface models (LSM) to answer seven research questions:
+
+1. How do different models simulate runoff? -> differ remarkedly by models, underscoring the uncertainties in hydrologic modelling.
+2. How do different models perform in terms of long-term runoff trend? -> models share similar trends, although differ from observed trends.
+3. How do hydrologic models and land usrface models differ? -> GHM and LSM perform similarly in rain-dominated regions, but GHM is performing better in snow-dominated regions
+4. Are calibration and regionalization important or essential? -> calibrated model is able to obtain higher scores.
+5. What is the impact of forcing data? -> bias from precipitation propogated into model simulation
+6. How ensemble estimates improve the performance? -> ensemble mean perform slightly worse than the best calibrated model.
+7. Do all models show early bias in runoff timing in snow-dominated regions? -> early winter peak found in several models.
+
+
 # Hydrologic Regionalization
 
 __[Investigating regionalization techniques for large-scale hydrological modelling](https://www.sciencedirect.com/science/article/pii/S0022169419300496)__

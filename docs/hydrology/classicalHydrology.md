@@ -421,6 +421,12 @@ The improvements of CREST V3.0 against V2.x are:
 
 4). Improving the flow concentration module into a four-mechanism cell-to-cell routing, including overland flow, interflow, ground water, and river channel flow routings. Based on the arrival time of each upstream grid cell to its downstream outlet grid cell, the generated runoff is routed down along the flow concentration path generated according to the eight-flow-direction method.
 
+# National Water Model
+
+The performance or predictability of a typical hydrologic model with respect to infiltration excess runoff and saturation excess runoff.
+
+![image](https://user-images.githubusercontent.com/31950869/114811769-57d0c900-9d74-11eb-922e-208457019461.png)
+
 
 # Groundwater Hydrology
 

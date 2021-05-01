@@ -17,13 +17,17 @@ Research Assistant, Hydrometeorology and Remote Sensing Laboratory, university o
 
 Study area: Remote Sensing, Hydrology, Hydrometeorology, Deep learning
 
-Personal website: [Personal website](http://smartallen.me)
+Personal website: [Personal website](https://chrimerss.github.io/homepage/)
 
 [Goolge Scholar](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Zhi_Li232) | [CV](https://github.com/chrimerss/allenslib/blob/master/src/resume.pdf) 
 
 
 
 # Publications
+
+Chen, M., __Li, Z.__, Gao, S., Luo, X., Wing, O. E. J., Shen, X., Gourley, J. J., Kolar, R. L., & Hong, Y. (2021). A comprehensive flood inundation mapping for Hurricane Harvey using an integrated hydrological and hydraulic model, Journal of Hydrometeorology.
+
+__Li, Z.__, Chen, M., Gao, S., Luo, X., Gourley, J. J., Kirstetter, P., ... & Hong, Y. (2021). CREST-iMAP v1. 0: A fully coupled hydrologic-hydraulic modeling framework dedicated to flood inundation mapping and prediction. Environmental Modelling & Software, 105051.
 
 __Li, Z.__, Tang, G., Hong, Z., Chen, M., Gao, S., Kirstetter, P., Gourley, J.J., Wen, Y.,Yami, T., Nabih, S., Hong, Y., Two-decades of GPM IMERG Early and Final Run Products Intercomparison:Similarity and Difference in Climatology, Rates, and Extremes, Journal of Hydrology (2021). https://doi.org/10.1016/j.jhydrol.2021.125975
 

@@ -5,6 +5,12 @@ parent: NWP
 nav_order: 1
 ---
 
+# General
+
+[__The Weather Research and Forecasting Model: Overview, System Efforts, and Future Directions__](https://journals.ametsoc.org/view/journals/bams/98/8/bams-d-15-00308.1.xml#bib8)
+
+This article introduces a variety range of WRF coupled models, across different fields.
+
 # Extreme event simulations
 
 [__Extreme rainfall from Hurricane Harvey (2017): Empirical intercomparisons of WRF simulations and polarimetric radar fields__](https://www.sciencedirect.com/science/article/pii/S0169809518314327#bb0210)

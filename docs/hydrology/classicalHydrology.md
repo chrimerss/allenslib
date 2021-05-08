@@ -273,6 +273,12 @@ In this paper, the authors compared six global hydrologic models (GHM) and four 
 6. How ensemble estimates improve the performance? -> ensemble mean perform slightly worse than the best calibrated model.
 7. Do all models show early bias in runoff timing in snow-dominated regions? -> early winter peak found in several models.
 
+__[G-RUN ENSEMBLE: A Multi-Forcing Observation-Based Global Runoff Reanalysis](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR028787)__
+
+In this paper, the authos reconstructed global monthly runoff based on 21 different atmospheric forcings with a simple representation. They generated, evaluated, and published this dataset for public access. They ranked the different ensemble members in terms of long-term mean, interannual variability and percent change.
+
+![image](https://user-images.githubusercontent.com/31950869/117553444-51eaa280-b017-11eb-845f-73b4f1205a35.png)
+
 
 # Hydrologic Regionalization
 

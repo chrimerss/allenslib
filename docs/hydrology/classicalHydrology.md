@@ -129,6 +129,11 @@ __[The Landlab v1.0 OverlandFlow component: a Python tool for computing shallow-
 
 An efficient way for flood depth estimation, using simplified SWE. In particular, advection term is ignored, similar to LISFLOOD-FP. This model is hosted with Landlab python library.
 
+__[Estimating river channel bathymetry in large scale flood inundation models](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020WR028301)__
+
+Traditionally, flood water in large scale hydrodynamic models is assumed to be uniform along channels, yet such assumption violates in a dynamic representation of flood wave propagation. In this work, the authors tested the gradually varied flow in river channels to observe the difference with uniform flow method. They claim that the difference can be tremendous when applied in large scale simulations.
+
+
 ## Cellular Automata for Fluid
 
 __[Efficient Urban Inundation Model for Live Flood Forecasting with Cellular Automata and Motion Cost Fields](https://www.mdpi.com/2073-4441/12/7/1997/htm)__

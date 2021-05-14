@@ -97,3 +97,18 @@ In this article, the authors proposed a way to identify extreme precipitation ev
 __AghaKouchak, A., Behrangi, A., Sorooshian, S., Hsu, K., and Amitai, E. ( 2011), Evaluation of satellite‐retrieved extreme precipitation rates across the central United States, J. Geophys. Res., 116, D02115, doi:10.1029/2010JD014741.__
 
 In this paper, authors addresses the extreme precipitation estimation with four satellite products. The metrics used in evaluating these satellite performance can be considered. Also intriguing, PERSIANN shows less bias than TMPA in the results from a purely data exploratory perspective.
+
+
+# Climate change and extreme precipitation
+
+__[Andreas Prein](https://scholar.google.com.sg/citations?user=kX-KiyIAAAAJ&hl=en&oi=sra)__
+
+__[Increased rainfall volume from future convective storms in the US (Nature Climate Change)](https://www.nature.com/articles/s41558-017-0007-7)__
+
+The authors used the CONUS-I dataset to diagnose future extreme precipitation changes from the perspective of MCSs by using a storm tracking algorithm object-based diagnostic evaluation (MODE).
+
+What is interesting here is that they plotted the precipitation in terms of intensity-area curve, from which one can tell what the change would be for the storm characteristics. Finnaly, to attribute changes to warming environment, they compared the cloud top temperature for concatenated events.
+
+<p>
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-017-0007-7/MediaObjects/41558_2017_7_Fig3_HTML.jpg?as=webp">
+</p>

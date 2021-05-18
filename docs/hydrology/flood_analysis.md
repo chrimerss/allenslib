@@ -54,6 +54,13 @@ __[Global Maps of Streamflow Characteristics Based on Observations from Several 
 Analysis of global streamflow data, based on flow characteristics.
 
 
+__[Precipitation and floodiness](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2015GL066779)__
+
+In this paper, the authors factored a few terms to describe the relationship between flood and precipitation at monthly scales. They investigated floodiness (occurence above certain threshold), duration floodiness, max discharge within a 30 year time span. 
+
+1. precipitation and discharge appear to be relatively well correlated; however, it is not correlated as good as discharge.
+2. They disencouraged approaches that simply use precipitation as proxy to interpret floods.
+
 # Regional Flood analysis
 
 __[Combined modelling of US fluvial, pluvial and coastal flood hazard under current and future climates](https://www.essoar.org/pdfjs/10.1002/essoar.10504362.1)__

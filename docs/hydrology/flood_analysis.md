@@ -123,3 +123,10 @@ In this paper, authors proposed four hypothesis to investigate the dominant floo
 <p align="center">
 <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/533f5797-9242-473e-a65e-ba6459a497bf/grl54118-fig-0002-m.jpg">
 </p>
+
+
+# Flood flashiness
+
+__[Mapping Flash Flood Severity in the United States](https://journals.ametsoc.org/view/journals/hydr/18/2/jhm-d-16-0082_1.xml)__
+
+The authors introduced the flashiness index using US-wide gauges. They analyzed the factors (e.g., seasonality, flow accumulation, etc.) associated with flashiness.

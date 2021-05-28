@@ -182,3 +182,7 @@ One take from this project is that they not only limited by traditional evaluati
 Regime shifts turn out to only affect currently intermittent, strong winter, and NewYear's regimes. Currently intermittent regimes are mostly changing to weak winter regimes, currently weak winter regimes to intermittent or strong winter regimes, and currently strong winter regimes to weak winter or New Year's regimes, regime types relatively close to their current regime.
 
 Geographically, regime changes are expected according to most GCMs in the Rocky and Appalachian Mountains and to a lesser degree in the Pacific Northwest and the Midwest. In contrast, regimes of catchments in the Great Plains are predicted to be mostly unaffected by changes. 
+
+__[Increases in temperature do not translate to increased flooding](https://www.nature.com/articles/s41467-019-13612-5#additional-information)__
+
+In this paper, the authors fights back to a common opinion that increase in temperature "euqal" to increase in flooding. They pointed out the study by Yin et al. using flood frequency analysis lack of evidence because it is not associated with rainfall events. In addition, they argue the definition for flash flood used in their paper is not appropriate. They argue for extreme streamflow, it is most likely modulated by preceding soil moisture condition.

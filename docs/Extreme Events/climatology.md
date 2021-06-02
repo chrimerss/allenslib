@@ -112,3 +112,11 @@ What is interesting here is that they plotted the precipitation in terms of inte
 <p>
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-017-0007-7/MediaObjects/41558_2017_7_Fig3_HTML.jpg?as=webp">
 </p>
+
+__[Monitoring and understanding trends in extreme storms (BAMS)](https://journals.ametsoc.org/view/journals/bams/94/4/bams-d-11-00262.1.xml?tab_body=pdf)__
+
+Extreme precipitation changes are analyzed using trustworthy rain gauges over the US since 1948. About 76% of all stations showing increasing, among which 15% shows significant increase. From the central United States to the North Atlantic, these exhibit a high degree of spatial coherence. 
+
+2. Hurricane/TC activities are found to increase according to Power Dissipation Index. Connections with large scale oscillation and Atlantic Cyclones are a matter of debate. In addition, anthropogenic emissions and volcanic activities are less certain in terms of their roles in contributing to extreme precipitation.
+3. Winter storms are discussed with ENSO, North Atlantic Oscillation, Arctic Oscillation.
+

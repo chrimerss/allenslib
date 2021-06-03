@@ -120,3 +120,21 @@ Extreme precipitation changes are analyzed using trustworthy rain gauges over th
 2. Hurricane/TC activities are found to increase according to Power Dissipation Index. Connections with large scale oscillation and Atlantic Cyclones are a matter of debate. In addition, anthropogenic emissions and volcanic activities are less certain in terms of their roles in contributing to extreme precipitation.
 3. Winter storms are discussed with ENSO, North Atlantic Oscillation, Arctic Oscillation.
 
+__[Future changes to the intensity and frequency of short-duration extreme rainfall (Rev. Geophys.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014RG000464)__
+
+A comprehensive review on climate change studies including theoritical explainations.
+
+A common conclusion to these studies is that subdaily extreme rainfall is intensifying more rapidly than rainfall measured at daily time scales. This could have significant societal consequences, since floods produced by short-duration rainfall (often referred to as “flash” floods).
+
+1. Hourly precipitation with temperature scaling ratio is discussed.
+2. Moisture availability is discussed - Trends in precipitation extremes in the United States also have been linked to precipitable water changes
+3. Influence of Rainfall Type on Scaling - convective extremes are by nature more intense and have shorter durations than large-scale rainfall and (b) the proportion of extreme rainfall which is convective increases with atmospheric temperature. higher CC scaling is found for convective system.
+4. Cloud dynamics play a role in extreme precipitation changes.
+5. Clausius-Claypean - In some dry areas, scaling appears to be lower than CC
+6. Insights from Global Climate Models - Current convection parameterization schemes are not able to represent rainfall from storms that continually regenerate in the same location as a result of the storm dynamics or storms that are locally organized because of topographical influence.
+7. Rainfall-flood association - it discusses how to define extreme rainfall
+8. Relationship between rainfall duration and catchment size - smaller catchments are sensitive to short but intense bursts of rainfall, sometimes lasting only an hour or less, whereas larger catchments are sensitive to extended periods of heavy rainfall lasting for several days or longer.
+
+<p align="center">
+  <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/f3d36bc9-7ecb-4ef7-9dae-d5a7c7e9c50c/rog20045-fig-0004-m.jpg">
+</p>

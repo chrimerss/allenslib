@@ -62,3 +62,28 @@ To do that, they conducted simulations on changing aerosol loadings with WRF-Che
 
 " Aerosols can impact precipitation through ACI by 1) producing more cloud droplets of smaller drop size that changes cloud microphysics (Twomey 1977), 2) releasing latent heat as a result of changes in microphysical processes that modulate cloud dynamics (e.g., Wang 2005; Khain et al. 2005; van den Heever et al. 2006; Tao et al. 2007; Rosenfeld et al. 2008; Fan et al. 2012; Altaratz et al. 2014), and 3) changing atmospheric stability through radiation feedback from microphysical changes (Fan et al. 2013; Morrison and Grabowski 2012)."
 
+# Techniques for ice precipitation observations
+
+## Quasi-vertical profile (QVP)
+
+__[Quasi-vertical profiles: A new way to look at polarimetric radar data](https://journals.ametsoc.org/view/journals/atot/33/3/jtech-d-15-0020_1.xml)__
+<p align="center">
+  <img src="https://journals.ametsoc.org/view/journals/atot/33/3/images/full-jtech-d-15-0020_1-f2.jpg">
+</p>
+
+
+## Range-defined quasi-vertical profile (RD-QVP)
+
+__[Polarimetric Radar and Surface-Based Precipitation-Type Observations of Ice Pellet to Freezing Rain Transitions](https://journals.ametsoc.org/view/journals/wefo/32/6/waf-d-17-0054_1.xml)__
+
+<p align="center">
+<img src="https://journals.ametsoc.org/view/journals/wefo/32/6/images/full-waf-d-17-0054_1-f1.jpg">
+</p>
+
+## Columnar Vertical Profile (CVP)
+
+__[Polarimetric Radar Retrievals in Ice Using In Situ Aircraft Measurements](https://journals.ametsoc.org/view/journals/atot/37/9/jtechD200011.xml)__
+
+<p align="center">
+<img src="https://journals.ametsoc.org/view/journals/atot/37/9/full-jtechD200011-f4.jpg">
+</p>

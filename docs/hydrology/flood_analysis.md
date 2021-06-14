@@ -135,3 +135,27 @@ In this paper, authors proposed four hypothesis to investigate the dominant floo
 __[Mapping Flash Flood Severity in the United States](https://journals.ametsoc.org/view/journals/hydr/18/2/jhm-d-16-0082_1.xml)__
 
 The authors introduced the flashiness index using US-wide gauges. They analyzed the factors (e.g., seasonality, flow accumulation, etc.) associated with flashiness.
+
+# Spatial dependence of flood
+
+__[Manuela I. Brunner](https://scholar.google.com.sg/citations?user=4nScIoMAAAAJ&hl=en&oi=ao)__
+
+__[Spatial Dependence of Floods Shaped by Spatiotemporal Variations in Meteorological and Land-Surface Processes (GRL)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL088000)__
+
+1. Flood identification
+
+  - POT: flow rate exceeding 25th percentile of 30-year annual maxima and minimum 10 days time lag between events.
+  - compile events with all catchments with binary matrix.
+  - identify regional flood that only affect single catchment.
+
+2. Spatial pattern of flood occurence
+
+flood connectedness: co-experience of flood events.
+F-madogram measures spatial dependence as a function of distance between a pair of stations.
+
+3. Pair with hydrometeorologic drivers
+
+
+<p align="center">
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/df908b05-a9f3-4916-a963-779df51a6d6e/grl60746-fig-0001-m.png">
+</p>

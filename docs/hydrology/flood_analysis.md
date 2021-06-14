@@ -159,3 +159,16 @@ F-madogram measures spatial dependence as a function of distance between a pair 
 <p align="center">
 <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/df908b05-a9f3-4916-a963-779df51a6d6e/grl60746-fig-0001-m.png">
 </p>
+
+__[Joint Trends in Flood Magnitudes and Spatial Extents Across Europe (GRL)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087464)__
+
+Flood Synchrony scale measure: __the maximum distance from a  station within which at least 50% of the stations have the annual maximum flood discharge at the same time as the reference station__. A 7-day delay is allowed to account for travel time in EU weather and routing system.
+
+They classified flood by its generating mechanisms: 1) convective rainfall; 2) snowfall; 3) rain-on-snow; 4) soil excess rainfall.
+
+An increase/decrease in flood synchrony is shown:
+
+<p align="center">
+<img src="
+https://agupubs.onlinelibrary.wiley.com/cms/asset/7384a60c-615c-4437-a98b-ed7a7597481a/grl60423-fig-0002-m.png">
+</p>

@@ -167,7 +167,7 @@ They first introduce the flood synchrony scale, defined as the maximum radius ar
 ![image](https://user-images.githubusercontent.com/31950869/121837791-23a65580-cc9c-11eb-990f-fb6e6ef24a9c.png)
 
 
-__[Joint Trends in Flood Magnitudes and Spatial Extents Across Europe (GRL)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087464)__
+__[Joint Trends in Flood Magnitudes and Spatial Extents Across Europe (GRL)(https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087464)__
 
 Flood Synchrony scale measure: __the maximum distance from a  station within which at least 50% of the stations have the annual maximum flood discharge at the same time as the reference station__. A 7-day delay is allowed to account for travel time in EU weather and routing system.
 

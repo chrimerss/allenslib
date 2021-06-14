@@ -169,6 +169,5 @@ They classified flood by its generating mechanisms: 1) convective rainfall; 2) s
 An increase/decrease in flood synchrony is shown:
 
 <p align="center">
-<img src="
-https://agupubs.onlinelibrary.wiley.com/cms/asset/7384a60c-615c-4437-a98b-ed7a7597481a/grl60423-fig-0002-m.png">
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/7384a60c-615c-4437-a98b-ed7a7597481a/grl60423-fig-0002-m.png">
 </p>

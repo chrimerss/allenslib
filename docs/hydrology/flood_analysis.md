@@ -160,6 +160,13 @@ F-madogram measures spatial dependence as a function of distance between a pair 
 <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/df908b05-a9f3-4916-a963-779df51a6d6e/grl60746-fig-0001-m.png">
 </p>
 
+__[Growing Spatial Scales of Synchronous River Flooding in Europe (GRL)](chrome-extension://dagcmkpagjlhakfdhnbomgmjdpkdklff/enhanced-reader.html?openApp&pdf=https%3A%2F%2Fagupubs.onlinelibrary.wiley.com%2Fdoi%2Fpdfdirect%2F10.1029%2F2018GL081883)__
+
+They first introduce the flood synchrony scale, defined as the maximum radius around an individual river gauge within which at least half of the other river gauges also record flooding almost simultaneously.
+
+![image](https://user-images.githubusercontent.com/31950869/121837791-23a65580-cc9c-11eb-990f-fb6e6ef24a9c.png)
+
+
 __[Joint Trends in Flood Magnitudes and Spatial Extents Across Europe (GRL)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087464)__
 
 Flood Synchrony scale measure: __the maximum distance from a  station within which at least 50% of the stations have the annual maximum flood discharge at the same time as the reference station__. A 7-day delay is allowed to account for travel time in EU weather and routing system.

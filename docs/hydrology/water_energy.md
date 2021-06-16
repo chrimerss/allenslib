@@ -19,3 +19,12 @@ The authors investigated the long-term explaination of monthly anomaly of precip
 
 1. Runoff anomalies of humid basins should be independent of the seasonal distribution of the precipitation anomaly. (In humid regions, 70%-80% of runoff variance is explained by annual precipitation)
 2. the increase in runoff caused by a positive precipitation anomaly is amplified by an accompanying decrease in surface net radiation, possibly induced by increased cloud cover
+
+# Global Earth System Model
+
+__[The potential to reduce uncertainty in regional runoff projections from climate models (Nature Climate Change)](https://www.nature.com/articles/s41558-019-0639-x)__
+
+It tells the ESM runoff is highly biased and need cautions when directly using it for regional studies.
+
+1. uncertainty in projected runoff is even larger than uncertainty in precipitation in many regions 
+2. It is unclear why diverse biases across ESM.

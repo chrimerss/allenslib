@@ -8,7 +8,7 @@ nav_order: 3
 
 # Global Flood Analysis
 
-__[Global modeling of seasonal mortality rates from river floods](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020EF001541)__
+__[Global modeling of seasonal mortality rates from river floods (Earth's Future)](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020EF001541)__
 
 In this paper published in Earth's Future, the authors specifically dissect the seasonal response of the global flood events (including the peak timing, peak distribution, flood impact, mortality rate) with the aid of global hydrological model LISFLOOD (GloFAS-Reanalysis dataset v3.0: https://data.jrc.ec.europa.eu/collection/id-00288)
 
@@ -60,6 +60,13 @@ In this paper, the authors factored a few terms to describe the relationship bet
 
 1. precipitation and discharge appear to be relatively well correlated; however, it is not correlated as good as discharge.
 2. They disencouraged approaches that simply use precipitation as proxy to interpret floods.
+
+__[A global streamflow reanalysis for 1980–2018 (J, Hydrol.)](https://www.sciencedirect.com/science/article/pii/S2589915519300331?via%3Dihub)__
+
+Refined and extended results for Global Flood Awareness System (GloFAS).
+
+In this paper, they described detailed calibration process to produce the 38 year reanalysis results at daily step.
+
 
 # Regional Flood analysis
 

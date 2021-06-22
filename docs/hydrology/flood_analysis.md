@@ -129,6 +129,30 @@ In this paper, authors proposed four hypothesis to investigate the dominant floo
 <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/533f5797-9242-473e-a65e-ba6459a497bf/grl54118-fig-0002-m.jpg">
 </p>
 
+__[The Relative Importance of Different Flood-Generating Mechanisms Across Europe](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR024841)__
+
+Three major flood driving mechanisms are identified:
+
+1. Extreme precipitation: In extreme precipitation floods, the maximum annual flow results from the largest precipitation event of that year. 
+2. Soil Moisture excess: In soil moisture excess floods, the maximum annual flow is caused by the largest daily soil moisture excess event. It is defined as the daily precipitation amount minus the available soil moisture storage capacity.
+3. Snowmelt: in snowmelt floods, the maximum annual flow is caused by the largest daily snowmelt or rain-on-snow event of the year.
+
+They also quantified flood seasonality with circular method.
+<p align="center">
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/df4b1aea-cb26-4d68-a916-4f6879ede2ca/wrcr23990-fig-0001-m.png">
+</p>
+
+<p align="center">
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/adaf1d3a-6ef0-4864-a35b-110f9ea18df8/wrcr23990-fig-0002-m.png">
+</p>
+
+A striking feature is that in Euro, flood dependence on extreme precipitation is weak while it is more or less based off snowmelt and soil moisture excess (most important).
+
+<p align="center">
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/c0cda346-2de5-48e3-97dc-020d74763235/wrcr23990-fig-0003-m.png">
+</p>
+
+The disconnect between precipitation extremes and flooding helps to contextualize flood trends. For example, observations indicate that annual maximum daily precipitation is increasing (Westra et al., 2013), but such a persistent increase is not found in observed annual maximum floods in Europe (Hall et al., 2014). Similarly, model simulations of European river floods at 1.5, 2, and 3 °C global warming indicate a very weak correlation between changes in precipitation extremes and changes in flood magnitudes (Thober et al., 2018). These observations are not very surprising when we consider that most annual peak floods are in fact not caused by annual peak precipitation. Our results point to the processes (snowmelt and soil moisture excess) that likely better explain flood trends in Europe (Blöschl et al., 2017).
 
 # Flood flashiness
 

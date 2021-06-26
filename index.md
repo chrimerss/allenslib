@@ -17,11 +17,10 @@ Research Assistant, Hydrometeorology and Remote Sensing Laboratory, university o
 
 Study area: Remote Sensing, Hydrology, Hydrometeorology, Deep learning
 
-Personal website: [Personal website](https://chrimerss.github.io/homepage/)
-
-[Goolge Scholar](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Zhi_Li232) | [CV](https://github.com/chrimerss/allenslib/blob/master/src/resume.pdf) 
+[Personal website](https://chrimerss.github.io/homepage/){: .btn .btn-blue }
 
 
+[Goolge Scholar](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ&hl=en){: .btn .btn-green } | [Research Gate](https://www.researchgate.net/profile/Zhi_Li232){: .btn .btn-green } | [CV](https://github.com/chrimerss/allenslib/blob/master/src/resume.pdf){: .btn .btn-green } 
 
 # Publications
 

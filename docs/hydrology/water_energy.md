@@ -28,3 +28,12 @@ It tells the ESM runoff is highly biased and need cautions when directly using i
 
 1. uncertainty in projected runoff is even larger than uncertainty in precipitation in many regions 
 2. It is unclear why diverse biases across ESM.
+
+# Flow intermettence
+
+__[Global prevalence of non-perennial rivers and streams Nature](https://www.nature.com/articles/s41586-021-03565-5.pdf?origin=ppub)__
+
+Authors use predictive tools (data-driven), to map the probability of flow intermettence over the globe. Importantly, they rethink the importance of non-perennial, even challenge that traditional continuum-based hydrologic models overlook the nature of in-continuous flow. " temporary fragmentation by seasonal drying is a widespread phenomenon on Earth"
+
+They also put forward recommendations. For instance, to explore the regime change in terms of intermettence under a changing climate. Say, how many reaches with non-perennial feature will turn to perennial?
+

@@ -20,6 +20,10 @@ The authors investigated the long-term explaination of monthly anomaly of precip
 1. Runoff anomalies of humid basins should be independent of the seasonal distribution of the precipitation anomaly. (In humid regions, 70%-80% of runoff variance is explained by annual precipitation)
 2. the increase in runoff caused by a positive precipitation anomaly is amplified by an accompanying decrease in surface net radiation, possibly induced by increased cloud cover
 
+__[Multimodel Estimate of the Global Terrestrial Water Balance: Setup and First Results](https://journals.ametsoc.org/view/journals/hydr/12/5/2011jhm1324_1.xml)__
+
+This study articulates the framework of WaterMIP, analogy to CMIP. They intercompared 6 LSM and 5 GHM over the globe. Unsurprisingly, a large model spread is clear for different models. They recommend not only considering mutl-models for climate simulation, but also include uncertainty measures at the same time.
+
 # Global Earth System Model
 
 __[The potential to reduce uncertainty in regional runoff projections from climate models (Nature Climate Change)](https://www.nature.com/articles/s41558-019-0639-x)__

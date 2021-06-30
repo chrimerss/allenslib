@@ -284,6 +284,14 @@ In this paper, the authos reconstructed global monthly runoff based on 21 differ
 
 ![image](https://user-images.githubusercontent.com/31950869/117553444-51eaa280-b017-11eb-845f-73b4f1205a35.png)
 
+__[Understanding each other's models: an introduction and a standard representation of 16 global water models to support intercomparison, improvement, and communication (GMD)](https://gmd.copernicus.org/articles/14/3843/2021/gmd-14-3843-2021.html)__
+
+A WaterMIP project that conceptualizes 16 different Global Water Models, including six Earth System Model (ESM), nine Global Hydrologic Model (GHM), and one Global Vegetation Model. Models are set up for three period simulations - pre-industrial (1661-1860), historical (1861-2005), and future (2006-2099).
+
+![image](https://gmd.copernicus.org/articles/14/3843/2021/gmd-14-3843-2021-t06-web.png)
+
+
+
 
 # Hydrologic Regionalization
 

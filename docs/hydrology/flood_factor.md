@@ -101,6 +101,22 @@ In their introduction, they mentioned two factors playing important role in floo
 
 They designed two experiments to tackle these two issues: they replaced detection rating-curve with streamflow rating-curve to simulate detention-free scenario; they replaced upper soil layer parameters with lower layer parameters to simulate less compaction scenario. Soil storage is further investigated by giving an uniform soil type (silt) and hydraulic conductivity throughout the catchment.
 
+# Atmosphere
+
+__[Key Factors Influencing the Severity of Fluvial Flood Hazard from Tropical Cyclones](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-20-0250.1/JHM-D-20-0250.1.xml)__
+
+In this paper, they investigated some determining factors related to Tropical Cyclones that potentially influence the flood severity (factored by area, magnitude, and duration) using the GloFAS-ERA5 framework.
+
+1. Intensity - pressure and wind speed: 
+2. Translation speed - forward motion speed: clearly severe floods occur by slow-moving storms
+3. Size and shape:
+4. Precipitation: total precipitation presents the most influential impact factor.
+5. Antecedent soil moisture: more saturated antecedent soil conditions tend to have greater flood severity while duration and magnitude are negatively correlated
+6. Orography and gradient: 
+
+![img](https://journals.ametsoc.org/view/journals/hydr/22/7/full-JHM-D-20-0250.1-f6.jpg)
+
+
 # Climate Change
 
 __[Continental‑scale convection‑permitting modeling of the current and future climate of North America](https://link.springer.com/article/10.1007/s00382-016-3327-9)__

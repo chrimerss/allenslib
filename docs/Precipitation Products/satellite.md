@@ -71,6 +71,10 @@ __[Cross validation of observations from GPM dual-frequnecy precipitation radar 
 
 In this paper, the authors introduced volume matching to collocate ground radar space-borne radar.
 
+__[Empirical conversion of the vertical profile of reflectivity from Ku-band to S-band frequency](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgrd.50138)__
+
+A comparison between Ku-band radar (space-borne radar) and S-band radar (ground radar). Pre-adjustment needs to be made for straitiform precipitation, including within ML layer. This study uses a simple linear melting model to convert S-band to Ku-band reflectivity. 
+
 ## Precipitation detection
 
 __[Detection of Intense Ice Precipitation with GPM/DPR](https://journals.ametsoc.org/view/journals/atot/35/3/jtech-d-17-0120.1.xml)__

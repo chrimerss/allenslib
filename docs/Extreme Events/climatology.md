@@ -138,3 +138,11 @@ A common conclusion to these studies is that subdaily extreme rainfall is intens
 <p align="center">
   <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/f3d36bc9-7ecb-4ef7-9dae-d5a7c7e9c50c/rog20045-fig-0004-m.jpg">
 </p>
+
+# Hydroclimatology
+
+__[Hydroclimatic trends during 1950–2018 over global land](https://link.springer.com/article/10.1007%2Fs00382-021-05684-1)__
+
+the authors updated hydroclimatologic variables: precipitation, streamflow, evaporation from the period 1950 to 2018. He specifically analyzed the historical trends over global land surface.
+
+

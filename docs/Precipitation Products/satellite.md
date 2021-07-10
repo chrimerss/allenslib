@@ -71,6 +71,10 @@ __[Cross validation of observations from GPM dual-frequnecy precipitation radar 
 
 In this paper, the authors introduced volume matching to collocate ground radar space-borne radar.
 
+__[Changes in the TRMM Version-5 and Version-6 Precipitation Radar Products Due to Orbit Boost](https://www.jstage.jst.go.jp/article/jmsj/87A/0/87A_0_93/_pdf/-char/en)__
+
+First paper introduced empirical conversions between Ku-band radar and S-band radar by Liao and Mengeghini (2009).
+
 __[Empirical conversion of the vertical profile of reflectivity from Ku-band to S-band frequency](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgrd.50138)__
 
 A comparison between Ku-band radar (space-borne radar) and S-band radar (ground radar). Pre-adjustment needs to be made for straitiform precipitation, including within ML layer. This study uses a simple linear melting model to convert S-band to Ku-band reflectivity. 

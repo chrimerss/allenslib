@@ -67,6 +67,13 @@ Refined and extended results for Global Flood Awareness System (GloFAS).
 
 In this paper, they described detailed calibration process to produce the 38 year reanalysis results at daily step.
 
+[__Evaluation of river flood extent simulated with multiple global hydrological models and climate forcings (ERL)__](https://iopscience.iop.org/article/10.1088/1748-9326/ac188d/pdf)
+
+The authors used 11 global hydrologic models to feed into CaMaFlood, to derive global flood extent based on three climate reanalyses dataset. They come up with an idea to threshold low-level flood by eliminating 2-year or below flood due to flood protection measures.
+
+1. All models exhibit overestimation of flood extent, yet with flood protection, all models underestimate
+2. Models in geneneral, are consistent and do not vary significantly across structures and forcing data.
+
 
 # Regional Flood analysis
 

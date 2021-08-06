@@ -74,6 +74,9 @@ The authors used 11 global hydrologic models to feed into CaMaFlood, to derive g
 1. All models exhibit overestimation of flood extent, yet with flood protection, all models underestimate
 2. Models in geneneral, are consistent and do not vary significantly across structures and forcing data.
 
+[__Satellite imaging reveals increased proportion of population exposed to floods (Nature)__](https://www.nature.com/articles/s41586-021-03695-w)
+
+This article extracted near 1000 flood events from DFO event reports and cloud-free MODIS imagery with which the authors analyzed flood exposures to global residents using high-resolution settlement dataset. A nice structured paper to alert local communities in the face of climate change.
 
 # Regional Flood analysis
 

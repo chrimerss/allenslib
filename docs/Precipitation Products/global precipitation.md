@@ -83,4 +83,10 @@ Conclusion: IMERG has three rooms for further improvement: (1) precipitation cla
 A decent overview of all the state-of-the-art satellite precipitation products and their deficiencies over continents.
 
 
+# Approaching with hydrologic utility
 
+__[Are gridded precipitation datasets a good option for streamflow simulation across the Juruá river basin, Amazon?](https://www.sciencedirect.com/science/article/pii/S0022169421008234?casa_token=bSroRiVzQGEAAAAA:rrQBAOGLMGu7jrbtAzevhB5gVljXVZ6xi6kIffz4ePoVcgSJK6ZuRvRqLmLCqJrr_uJSJkqrVL0N)__
+
+The authors compared 19 global precipitation products with regard to two lumped hydrologic models to inform which global precipitation products work better.
+
+In fact, IMERG and CMORPH apprea to be the most efficient one, although the others highly depend on basin characteristics and uncertainty via error propagation. 

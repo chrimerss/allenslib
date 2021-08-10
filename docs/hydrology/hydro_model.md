@@ -5,6 +5,16 @@ parent: Hydrology
 nav_order: 12
 ---
 
+# Global hydrologic model
+
+## PCR-GLOBWB
+
+__[PCR-GLOBWB 2: a 5 arcmin global hydrological and water resources model (GMD)](https://gmd.copernicus.org/articles/11/2429/2018/)__
+
+Model structure is as follows. This paper detailed description of each modeling component: irrigation and water use, land surface, groundwater, and surface water routing.
+
+![model_struc](https://gmd.copernicus.org/articles/11/2429/2018/gmd-11-2429-2018-f01-web.png)
+
 # Vector-based runoff routing
 
 ## MizuRoute

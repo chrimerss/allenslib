@@ -124,6 +124,11 @@ In this paper, they investigated some determining factors related to Tropical Cy
 
 ![img](https://journals.ametsoc.org/view/journals/hydr/22/7/full-JHM-D-20-0250.1-f6.jpg)
 
+__[Tropical Cyclones' Contribution to Seasonal Precipitation and Streamflow Over the Southeastern and Southcentral United States (GRL)](chrome-extension://dagcmkpagjlhakfdhnbomgmjdpkdklff/enhanced-reader.html?openApp&pdf=https%3A%2F%2Fagupubs.onlinelibrary.wiley.com%2Fdoi%2Fpdfdirect%2F10.1029%2F2021GL094738)__
+
+the authors innovatively investigated the contributions of TC to streamflow, given most of the studies focusing on TC to precipitation or other atmospheric factors. This study helps to understand the main atmospheric driver for regional flooding.
+
+As a result, TC account for 12% of seasonal streamflow and 6% of seasonal precipitation. TC constitudes over 10% of the Peak-Over-Threshold events.
 
 # Climate Change
 

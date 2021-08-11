@@ -5,6 +5,14 @@ parent: Hydrology
 nav_order: 4
 ---
 
+# Overview
+
+__[Causes, impacts and patterns of disastrous river floods (Nat. Rev. Earth Environ.](https://www.nature.com/articles/s43017-021-00195-3)__
+
+A detailed review paper which discusses causative factors trigerring extreme floods, including atmospheric drivers (from near-term to long-term), antecedent conditions (soils and groundwater), subsurface contributions, river networks, land-use changes, anthporogenic alterations (straightening/deepning channels or retention measures).
+
+In addition, flood impacts are discussed towards socio-ecnomic hydrology.
+
 # Terrain
 
 __[The Need for a High-Accuracy, Open-Access Global DEM](https://www.frontiersin.org/articles/10.3389/feart.2018.00225/full)__

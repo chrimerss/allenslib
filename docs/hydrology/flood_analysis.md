@@ -119,7 +119,7 @@ __[On the seasonality of flooding across the continental United States](https://
 
 In this paper, author comprehensively discussed US flood seasonality from meteorological point of view as well as anthropogenic effects such as urbanization and flow regulation. But he claims climatology plays a main role, and urbanisation does not contribute much to the flood seasonality shifts.
 
-__[The changing nature of flooding across the central United States](https://www.nature.com/articles/nclimate2516)__
+__[The changing nature of flooding across the central United States (Nat. Climate Change)](https://www.nature.com/articles/nclimate2516)__
 
 In this paper, the authors investigated the flood changes (i.e., flood magnitude and flood frequency) with respect to rainfall changes in the Central US. They attribute most of the flood changes to extreme rainfall changes.
 
@@ -130,6 +130,12 @@ Spatial heterogeneities in flood peak distributions due to orographic precipitat
 Winter–spring extratropical systems account for a large fraction of eastern U.S. flood peaks, especially in the northeastern and southeastern United States (Fig. 1b). We use the frequency of March–April flood peaks as a surrogate for winter–spring extratropical flood peaks. A combination of snowmelt and rain on snow determines the local maximum in flood peak occurrence in the northeastern United States (Fig. 1b), where March–April peaks account for up to 60% of annual peaks. Organized thunderstorm systems embedded in winter–spring extratropical systems, often associated with severe weather, are important flood agents in the southeastern United States (Fig. 1b). March–April peaks account for more than 50% of annual flood peaks in south Georgia, north Florida, and southeastern Alabama (Fig. 1b).
 
 Warm-season thunderstorm systems are also important flood agents in urban watersheds along the urban megalopolis of the eastern United States
+
+__[Changing climate shifts timing of European floods (Science)](https://science.sciencemag.org/content/357/6351/588)__
+
+The authors analyzed nearly 5000 hydrometric stations over EU for the past five decades and found clear patterns of change in flood timing. Warmer temperatures have led to earlier spring snowmelt floods throughout northeastern Europe; delayed winter storms associated with polar warming have led to later winter floods around the North Sea and some sectors of the Mediterranean coast; and earlier soil moisture maxima have led to earlier winter floods in western Europe.
+
+
 
 # Flood generation mechanisms
 

@@ -108,9 +108,6 @@ __[A COMPREHENSIVE DATABASE OF FLOOD EVENTS IN THE CONTIGUOUS UNITED STATES FROM
 
 The authors constructed US flood database based on gauge data and precipitation data to separate baseflow from flood events.
 
-
-
-
 # FLood seasonality
 
 __[Gabriele Villarini](https://scholar.google.com.sg/citations?user=KlCa6esAAAAJ&hl=en&oi=ao)__
@@ -119,9 +116,19 @@ __[On the seasonality of flooding across the continental United States](https://
 
 In this paper, author comprehensively discussed US flood seasonality from meteorological point of view as well as anthropogenic effects such as urbanization and flow regulation. But he claims climatology plays a main role, and urbanisation does not contribute much to the flood seasonality shifts.
 
+## Northeast US
+
+__[The Seasonal Nature of Extreme Hydrological Events in the Northeastern United States](https://journals.ametsoc.org/view/journals/hydr/16/5/jhm-d-14-0237_1.xml)__
+
+A long-term trend analysis is done for precipitation and streamflow separatly from the perspective of large scale atmospheric circulation. The authors ablate warm season changes from lumped one, and they found most robust and significant changes are present for warm-season precipitation and streamflow, although precipitation extremes are more obvious than streamflow.
+
+## Central US
+
 __[The changing nature of flooding across the central United States (Nat. Climate Change)](https://www.nature.com/articles/nclimate2516)__
 
 In this paper, the authors investigated the flood changes (i.e., flood magnitude and flood frequency) with respect to rainfall changes in the Central US. They attribute most of the flood changes to extreme rainfall changes.
+
+## Eastern US
 
 __[Mixture Distributions and the Hydroclimatology of Extreme Rainfall and Flooding in the Eastern United States](https://doi.org/10.1175/2010JHM1242.1)__
 
@@ -131,11 +138,11 @@ Winter–spring extratropical systems account for a large fraction of eastern U.
 
 Warm-season thunderstorm systems are also important flood agents in urban watersheds along the urban megalopolis of the eastern United States
 
+## EU
+
 __[Changing climate shifts timing of European floods (Science)](https://science.sciencemag.org/content/357/6351/588)__
 
 The authors analyzed nearly 5000 hydrometric stations over EU for the past five decades and found clear patterns of change in flood timing. Warmer temperatures have led to earlier spring snowmelt floods throughout northeastern Europe; delayed winter storms associated with polar warming have led to later winter floods around the North Sea and some sectors of the Mediterranean coast; and earlier soil moisture maxima have led to earlier winter floods in western Europe.
-
-
 
 # Flood generation mechanisms
 

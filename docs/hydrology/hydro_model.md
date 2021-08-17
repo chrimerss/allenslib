@@ -33,3 +33,9 @@ __[Representation of bi-directional fluxes between groundwater and surface water
 In this article, the authors enabled streamflow and groundwater interaction in bi-direction to a comceptual model, meaning streamflow can seepage to groundwater when groundwater level is lower than stream water level which is calculated using the rating curve.
 
 It is an inspirational research that encourages us to account for this two-way interaction especially in intermittent streams where streamflow loss is a main contributor.
+
+## Inclusion of reservoir module
+
+__[Accuracy vs. Realism: DOes including reservoirs improve hydrologic models? - frontiers](file:///Users/allen/Downloads/accuracy-vs-realism-does-including-reservoirs-improve-hydrological-models.pdf)__
+
+This study, the authors proposed adding a reservoir module to lumped hydrologic models to better enhance the realism and accuracy. Indeed, they found reservoir module significantly improves hydrologic responses than without it.

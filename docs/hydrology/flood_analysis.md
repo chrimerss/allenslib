@@ -144,6 +144,15 @@ __[Changing climate shifts timing of European floods (Science)](https://science.
 
 The authors analyzed nearly 5000 hydrometric stations over EU for the past five decades and found clear patterns of change in flood timing. Warmer temperatures have led to earlier spring snowmelt floods throughout northeastern Europe; delayed winter storms associated with polar warming have led to later winter floods around the North Sea and some sectors of the Mediterranean coast; and earlier soil moisture maxima have led to earlier winter floods in western Europe.
 
+## Australia
+
+__[Changes in Antecedent Soil Moisture Modulate Flood Seasonality in a Changing Climate (WRR)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR026300)__
+
+This article investigated the role of interdependence of annual maximum rainfall, soil moisture, and flood in Australia.
+
+![seasonality](https://agupubs.onlinelibrary.wiley.com/cms/asset/a586fdd0-4919-4a30-8080-7b1a497cc62d/wrcr24486-fig-0004-m.jpg)
+Fig. Map of seasonality and seasonality strength for three variables. Top down: rainfall, soil moisture, and flow.
+
 # Flood generation mechanisms
 
 __[Field Studies of Hillslope Flow Processes (Dunne 1978)](https://www.researchgate.net/profile/Thomas-Dunne-2/publication/243780862_Field_Studies_of_Hillslope_Flow_Processes/links/55b6de3b08aec0e5f437fbe6/Field-Studies-of-Hillslope-Flow-Processes.pdf)__

@@ -215,3 +215,9 @@ Geographically, regime changes are expected according to most GCMs in the Rocky 
 __[Increases in temperature do not translate to increased flooding](https://www.nature.com/articles/s41467-019-13612-5#additional-information)__
 
 In this paper, the authors fights back to a common opinion that increase in temperature "euqal" to increase in flooding. They pointed out the study by Yin et al. using flood frequency analysis lack of evidence because it is not associated with rainfall events. In addition, they argue the definition for flash flood used in their paper is not appropriate. They argue for extreme streamflow, it is most likely modulated by preceding soil moisture condition.
+
+## Regional
+
+__[An extremeness threshold determines the regional response of floods to changes in rainfall extremes](https://www.nature.com/articles/s43247-021-00248-x)__
+
+In this article, authors coupled a hydrologic model with SMILE (Single Model Initial-condition Large Ensembles) to investigate the impact of climate change to precipitation extremes and flood extremes in Switzerland and Germany. They found although the mean precipitation and flood magnitudes decrease in a warmer climate, extreme values (defined as 10-year, 20-year, 50-year, 100-year return) will change positively, especially for precipitation.

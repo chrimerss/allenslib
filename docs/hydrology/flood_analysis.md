@@ -199,6 +199,10 @@ __[Mapping Flash Flood Severity in the United States](https://journals.ametsoc.o
 
 The authors introduced the flashiness index using US-wide gauges. They analyzed the factors (e.g., seasonality, flow accumulation, etc.) associated with flashiness.
 
+__[On the Impact of Rainfall Spatial Variability, Geomorphology, and Climatology on Flash Floods - WRR](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR029124)__
+
+The author compared modelled flashiness indices to simulated flashiness indices and performed metrics analyzing the first-order dependence with rainfall variablity climatology and basin property.
+
 # Spatial dependence of flood
 
 __[Manuela I. Brunner](https://scholar.google.com.sg/citations?user=4nScIoMAAAAJ&hl=en&oi=ao)__

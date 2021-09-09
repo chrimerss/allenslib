@@ -7,6 +7,10 @@ nav_order: 12
 
 # Global hydrologic model
 
+__[Technical review of large-scale hydrological models for implementation in operational flood forecasting schemes on continental level](https://www.sciencedirect.com/science/article/pii/S1364815215300529)__
+
+
+
 ## PCR-GLOBWB
 
 __[PCR-GLOBWB 2: a 5 arcmin global hydrological and water resources model (GMD)](https://gmd.copernicus.org/articles/11/2429/2018/)__
@@ -23,6 +27,15 @@ __[A Vector-Based River Routing Model for Earth System Models: Parallelization a
 
 This paper presents a global implementation of MizuRoute modeling, coupled with Earth System Models. They specifically investigated the impact of parallelization on runoff simulations.
 
+## RAPID
+
+__[Implementation of a vector-based river network routing scheme in the community WRF-Hydro modeling framework for flood discharge simulation](https://www.sciencedirect.com/science/article/pii/S1364815217313531#bib12)__
+
+Paper described the process coupling vector-based routing and WRF-Hydro for flood forecast.
+
+They assessed the impact of LSM resolutions on vector routing results.
+
+"as a river goes downstream and aggregates a larger contributing area, the model errors resulted from various upstream locations tend to be cancelled out."
 
 # Improvement to hydrologic processes
 

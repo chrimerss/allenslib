@@ -92,6 +92,10 @@ In this article, the authors proposed a way to identify extreme precipitation ev
 4. include light rain within the threshold basis;
 5. repeat 2 until all grids in EXT are examined
 
+__[Contribution of large-scale midlatitude disturbances to hourly precipitation extremes in the United States](https://link.springer.com/article/10.1007/s00382-018-4123-5)__
+
+The authors analyzed the US extreme precipitation rates, attributed to jet streams and cutoff lows. Over 95% of 1-h annual maximum precipitation along west coast coincident with jet stream while 30% of interior western US is impacted by cutoff lows.
+
 # Intense precipitation evaluations
 
 __AghaKouchak, A., Behrangi, A., Sorooshian, S., Hsu, K., and Amitai, E. ( 2011), Evaluation of satellite‐retrieved extreme precipitation rates across the central United States, J. Geophys. Res., 116, D02115, doi:10.1029/2010JD014741.__

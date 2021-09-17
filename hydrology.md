@@ -23,3 +23,23 @@ A hierarchical review paper, published by BAMS, discusses available data sources
 
 "Although the latest generation of reanalysis products, e.g., MERRA-2 or ERA5, show improvements over their predecenssors, trends in many of their water cycle components remain uncertain. Besides, global scale changes are particularly difficult to capture in renalaysis since the moisture and energy balance are not constrained."
 
+[__Global Drought and Flood: Observation, Modeling, and Prediction (AGU book)__](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1002/9781119427339)
+
+1. [Progress, Challenges, and Opportunities in Remote Sensing of Drought](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch1)
+2. [Remote Sensing of Evapotranspiration for Global Drought Monitoring](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch2)
+3. [Drought Monitoring Using Reservoir Data Collected via Satellite Remote Sensing](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch3)
+4. [Automatic Near-Real-Time Flood Mapping from Geostationary Low Earth Orbiting Satellite Observations](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch4)
+5. [Global Flood Observation with Multiple Satellites: Applications in Rio Salado (Argentina) and the Eastern Nile Basin (Pages: 99-121)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch5)
+6. [Integrating Earth Observation Data of Floods with Large-Scale Hydrodynamic Models (Pages: 123-135)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch6)
+7. [Global Integrated Drought Monitoring with a Multivariate Framework (Pages: 137-145)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch7)
+8. [A Probabilistic Framework for Agricultural Drought Forecasting Using the Ensemble Data Assimilation and Bayesian Multivariate Modeling (Pages: 147-164)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch8)
+9. [Integrating Soil Moisture Active/Passive Observations with Rainfall Data Using an Analytic Model for Drought Monitoring at the Continental Scale (Pages: 165-180)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch9)
+10. [Global Flood Models (Pages: 181-200)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch10)
+11. [Calibration of Global Flood Models: Progress, Challenges, and Opportunities (Pages: 201-211)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch11)
+12. [Digital Elevation Model and Drainage Network Data Sets for Global Flood and Drought Modeling (Pages: 213-235)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch12)
+13. [Fundamental Data Set for Global Drought and Flood Modeling: Land Use and Land Cover (Pages: 237-249)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch13)
+14. [Global River Flood Risk Under Climate Change (Pages: 251-270)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch14)
+15. [Direct Tangible Damage Classification and Exposure Analysis Using Satellite Images and Media Data (Pages: 271-287)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch15)
+16. [Flood Risk and Monitoring Data for Preparedness and Response: From Availability to Use (Pages: 289-306)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch16)
+17. [Global Flood Partnership (Pages: 307-322)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch17)
+18. [Drought and Flood Monitoring and Forecasting: Challenges and Opportunities Ahead (Pages: 323-326)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch18)

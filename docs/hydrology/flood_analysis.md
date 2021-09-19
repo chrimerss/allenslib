@@ -116,6 +116,10 @@ __[On the seasonality of flooding across the continental United States](https://
 
 In this paper, author comprehensively discussed US flood seasonality from meteorological point of view as well as anthropogenic effects such as urbanization and flow regulation. But he claims climatology plays a main role, and urbanisation does not contribute much to the flood seasonality shifts.
 
+__[Peak Runoff Timing Is Linked to Global Warming Trajectories (Earths Future](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021EF002083)__
+
+The authors analyzed CMIP5 models using Bayesian Mean Ensenble approach to extract runoff time series over the United States and compared the peak timings. They found  In snowmelt-dominated areas, annual maxima are projected to shift to earlier dates due to the corresponding changes in snow accumulation timing. For regions in which the occurrence of springtime extreme soil wetness shifts to later time, we find that peak annual runoff is also projected to be delayed.
+
 ## Northeast US
 
 __[The Seasonal Nature of Extreme Hydrological Events in the Northeastern United States](https://journals.ametsoc.org/view/journals/hydr/16/5/jhm-d-14-0237_1.xml)__

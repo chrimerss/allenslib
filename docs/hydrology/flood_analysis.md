@@ -178,6 +178,12 @@ In this paper, authors proposed four hypothesis to investigate the dominant floo
 <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/533f5797-9242-473e-a65e-ba6459a497bf/grl54118-fig-0002-m.jpg">
 </p>
 
+__[How Do Climate and Catchment Attributes Influence Flood Generating Processes? A Large-Sample Study for 671 Catchments Across the Contiguous USA (WRR)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR028300)__
+
+<p align="center">
+  <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/02bd5a27-5425-4471-a322-34c2cb33543f/wrcr25155-fig-0005-m.jpg">
+</p>
+
 __[The Relative Importance of Different Flood-Generating Mechanisms Across Europe](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR024841)__
 
 Three major flood driving mechanisms are identified:

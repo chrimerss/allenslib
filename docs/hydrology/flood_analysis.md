@@ -159,6 +159,12 @@ Fig. Map of seasonality and seasonality strength for three variables. Top down: 
 
 # Flood generation mechanisms
 
+__[Event-based classification for global study of river flood generating processes (Hydrol. Process)](https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.13678)__
+
+They classified global streamflow data into six classes: snow/rain flood, snowmelt flood, excess rain, short rain flood, long rain flood, and others.
+
+<img src="https://onlinelibrary.wiley.com/cms/asset/2a9f1150-7f32-408a-bb3e-00af1922fe92/hyp13678-fig-0003-m.jpg">
+
 __[Field Studies of Hillslope Flow Processes (Dunne 1978)](https://www.researchgate.net/profile/Thomas-Dunne-2/publication/243780862_Field_Studies_of_Hillslope_Flow_Processes/links/55b6de3b08aec0e5f437fbe6/Field-Studies-of-Hillslope-Flow-Processes.pdf)__
 
 ![image](https://user-images.githubusercontent.com/31950869/120361683-be338b80-c2cf-11eb-8bab-e93728aef9ba.png)

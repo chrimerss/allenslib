@@ -97,7 +97,7 @@ They summarized main three approaches to study on this topic:
 2) paired catchment with contrast experiment variable.  
 3) Model simulations.  
 
-# Urban Detention
+# Manmade structure
 
 __[Exploring storage and runoff generation processes for urban flooding through a physically based watershed model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014WR016085)__
 
@@ -108,6 +108,10 @@ In their introduction, they mentioned two factors playing important role in floo
 2. Another major source of storage in urban watersheds is within the soil column. Even highly urbanized watersheds frequently have as much pervious cover as impervious. It would be a mistake to ignore the important role that infiltration can play in the flood response of urban watersheds.
 
 They designed two experiments to tackle these two issues: they replaced detection rating-curve with streamflow rating-curve to simulate detention-free scenario; they replaced upper soil layer parameters with lower layer parameters to simulate less compaction scenario. Soil storage is further investigated by giving an uniform soil type (silt) and hydraulic conductivity throughout the catchment.
+
+__[Direct Integration of Numerous Dams and Reservoirs Outflow in Continental Scale Hydrologic Modeling](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR029544)__
+
+The authors routed streamflow using RAPID and output flood inundation using AutoRoute after nudging observed reservoir release to model output. They found a significant improvement regarding flow metrics with incorporating reservoir module.
 
 # Atmosphere
 

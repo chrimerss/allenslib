@@ -55,6 +55,12 @@ __[Understanding the re-infiltration process to simulating streamflow in North C
 
 In this paper, the authors comprehensively investigated the significance of run-on infiltration for WRF-Hydro. A few model parameters are cross-correlated with reinfiltration ratio (defined as reinfiltration / total infiltration).
 
+__[Soil Moisture Responses to Rainfall: Implications for Runoff Generation WRR](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR028827)__
+
+In this paper, the authors intend to investigate the storm impact on soil moisture in not only vertical direction but also lateral flow in hillslopes driven by preferential flow etc using field measurements. They address (1) how do soil moisture responses to storms vary spatiallly and temporally, (2) what are the controls on these responses? (3) what factors influence relationship between runoff and soil moisture responses?
+
+They showed in nearly 40% of storms, soil moisture peaked earlier to runoff, indicating potential subsurface contributions from hillslopes to runoff at outlet.
+
 # Urbanization
 __Zhou, Z., J. A. Smith, L. Yang, M. L. Baeck, M. Chaney, M.-C. Ten Veldhuis, H. Deng, and S. Liu (2017), The complexities of urban flood response: Flood frequency analyses for the Charlotte metropolitan region, Water Resour. Res., 53, 7401–7425, doi:10.1002/2016WR019997.__
 
@@ -109,7 +115,7 @@ In their introduction, they mentioned two factors playing important role in floo
 
 They designed two experiments to tackle these two issues: they replaced detection rating-curve with streamflow rating-curve to simulate detention-free scenario; they replaced upper soil layer parameters with lower layer parameters to simulate less compaction scenario. Soil storage is further investigated by giving an uniform soil type (silt) and hydraulic conductivity throughout the catchment.
 
-__[Direct Integration of Numerous Dams and Reservoirs Outflow in Continental Scale Hydrologic Modeling](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR029544)__
+__[Direct Integration of Numerous Dams and Reservoirs Outflow in Continental Scale Hydrologic Modeling WRR](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR029544)__
 
 The authors routed streamflow using RAPID and output flood inundation using AutoRoute after nudging observed reservoir release to model output. They found a significant improvement regarding flow metrics with incorporating reservoir module.
 

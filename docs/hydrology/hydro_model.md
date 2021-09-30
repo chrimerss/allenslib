@@ -37,6 +37,14 @@ They assessed the impact of LSM resolutions on vector routing results.
 
 "as a river goes downstream and aggregates a larger contributing area, the model errors resulted from various upstream locations tend to be cancelled out."
 
+## AutoRoute
+
+__[AutoRAPID: A Model for Prompt Streamflow Estimation and Flood Inundation Mapping over Regional to Continental Extents](https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.12476)__
+
+A rapid flood inundation mapping tool for large scale flood simulations.
+
+
+
 # Improvement to hydrologic processes
 
 ## Surface-groundwater exchange

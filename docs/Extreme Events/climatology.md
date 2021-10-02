@@ -7,6 +7,28 @@ nav_order: 3
 
 # long-term extreme precipitation
 
+## West US
+
+Main driving agent is the Atmospheric river
+
+__[Hourly storm characteristics along the U.S. West Coast: Role of atmospheric rivers in extreme precipitation GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017GL074193)__
+
+Despite generally lower hourly intensities, precipitation totals along the U.S. West Coast (USWC) are comparable to those in southeast U.S. (SEUS). Storm durations, more so than hourly intensities, strongly modulate precipitation-total variability over the USWC, where the correlation coefficients between storm durations and storm totals range from 0.7 to 0.9. Atmospheric rivers (ARs) contribute 30–50% of annual precipitation on the USWC and make such large contributions to extreme storms that 60–100% of the most extreme storms, i.e., storms with precipitation-total return intervals longer than 2 years, are associated with ARs.
+
+## US
+[ENSO and Wintertime Extreme Precipitation Events over the Continuous US](https://journals.ametsoc.org/doi/pdf/10.1175/2007JCLI1705.1)
+
+1. EOFs are used to analyze daily precipitation fields with compositing 500-mb heights
+2. study domain CONUS but special focues on coastal regions
+3. From PCs to infer large flood events;
+4. Inspect how ENSO impact extreme precipitation (Gumbel PDF)
+
+__Prat, O. P., & Nelson, B. R. (2015). Evaluation of precipitation estimates over CONUS derived from satellite, radar, and rain gauge data sets at daily to annual scales (2002–2012). Hydrology and Earth System Sciences, 19(4), 2037.__
+
+The author adopts adaptive absolute rain rates to define extreme (i.e., WMMD=17.3 mm/day, 2 in/day, 4 in/day).
+
+## China
+
 [Spatial and temporal variation of extreme precipitation over the Yangtze River Basin](https://doi.org/10.1016/j.quaint.2007.09.001) 
 
 1. Extreme precipitation analysis in Yangtze River in China
@@ -15,6 +37,17 @@ nav_order: 3
   c. wavelet transform to decompose time series into time-frequency space to discover the periodicity;
   
 2. Extreme events is defined as daily precipitation exceeding 95th percentile
+
+
+__Miao, C., H. Ashouri, K. Hsu, S. Sorooshian, and Q. Duan, 2015: Evaluation of the PERSIANN-CDR Daily Rainfall Estimates in Capturing the Behavior of Extreme Precipitation Events over China. J. Hydrometeor., 16, 1387–1396, https://doi.org/10.1175/JHM-D-14-0174.1__
+
+The main purpose of this study is to analyze the climatology of long-range rainfall simulation, particularly for PERSIANN-CDR, and also to validate the accuracy of it.
+
+Three indices are used to perform evaluation: 1. percentile indices RR99, RR95; 2. Absolute threshold indices (R20mm etc.); 3. Maximum indices (Rx1day, Rx5day etc.)
+
+The conclusion is that overall PERSIANN-CDR shows an agreement with ground observations for long-term climatological studies except for some reserved regions like Tibetan Plateau.
+
+## Globe
 
 [Westra, S., L.V. Alexander, and F.W. Zwiers, 2013: Global Increasing Trends in Annual Maximum Daily Precipitation. J. Climate, 26, 3904–3918, https://doi.org/10.1175/JCLI-D-12-00502.1](https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-12-00502.1)
 
@@ -33,13 +66,6 @@ nav_order: 3
 2. different percent of change under global warming are tested to project the potential increase in extreme precipitation.
 
 
-[ENSO and Wintertime Extreme Precipitation Events over the Continuous US](https://journals.ametsoc.org/doi/pdf/10.1175/2007JCLI1705.1)
-
-1. EOFs are used to analyze daily precipitation fields with compositing 500-mb heights
-2. study domain CONUS but special focues on coastal regions
-3. From PCs to infer large flood events;
-4. Inspect how ENSO impact extreme precipitation (Gumbel PDF)
-
 [Comparison of the GPCP and CMAP Merged Gauge–Satellite Monthly Precipitation Products for the Period 1979–2001](https://journals.ametsoc.org/doi/pdf/10.1175/JHM-392.1)
 
 1. Normalized precipitation (remove climatological mean and divided by standard deviation)
@@ -47,17 +73,7 @@ nav_order: 3
 3. An interesting plot with x the month and y axis the year. In between is the spatial correlation
     Due to the variability nature of precipitation, the EOF modes only explain little amount of variations.
     
-__Miao, C., H. Ashouri, K. Hsu, S. Sorooshian, and Q. Duan, 2015: Evaluation of the PERSIANN-CDR Daily Rainfall Estimates in Capturing the Behavior of Extreme Precipitation Events over China. J. Hydrometeor., 16, 1387–1396, https://doi.org/10.1175/JHM-D-14-0174.1__
 
-The main purpose of this study is to analyze the climatology of long-range rainfall simulation, particularly for PERSIANN-CDR, and also to validate the accuracy of it.
-
-Three indices are used to perform evaluation: 1. percentile indices RR99, RR95; 2. Absolute threshold indices (R20mm etc.); 3. Maximum indices (Rx1day, Rx5day etc.)
-
-The conclusion is that overall PERSIANN-CDR shows an agreement with ground observations for long-term climatological studies except for some reserved regions like Tibetan Plateau.
-
-__Prat, O. P., & Nelson, B. R. (2015). Evaluation of precipitation estimates over CONUS derived from satellite, radar, and rain gauge data sets at daily to annual scales (2002–2012). Hydrology and Earth System Sciences, 19(4), 2037.__
-
-The author adopts adaptive absolute rain rates to define extreme (i.e., WMMD=17.3 mm/day, 2 in/day, 4 in/day).
 
 __[Stationary and non‐stationary detection of extreme precipitation events and trends of average precipitation from 1980 to 2010 in the Paraná River basin, Brazil](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.6265)__
 

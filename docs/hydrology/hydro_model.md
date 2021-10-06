@@ -60,3 +60,9 @@ It is an inspirational research that encourages us to account for this two-way i
 __[Accuracy vs. Realism: DOes including reservoirs improve hydrologic models? - frontiers](file:///Users/allen/Downloads/accuracy-vs-realism-does-including-reservoirs-improve-hydrological-models.pdf)__
 
 This study, the authors proposed adding a reservoir module to lumped hydrologic models to better enhance the realism and accuracy. Indeed, they found reservoir module significantly improves hydrologic responses than without it.
+
+## Importance of routing in Global Climate Models
+
+__[On the Suitability of GCM Runoff Fields for River Discharge Modeling: A Case Study Using Model Output from HadGEM2 and ECHAM5](https://journals.ametsoc.org/view/journals/hydr/13/1/jhm-d-10-05011_1.xml)__
+
+The authors compared direct runoff output from GCMs, routed runoff, and offline global hydrological model (PCR-GLOBWB). The importance of routing, especially for small basins is underlined.

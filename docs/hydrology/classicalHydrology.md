@@ -451,6 +451,10 @@ The performance or predictability of a typical hydrologic model with respect to 
 [![image](https://user-images.githubusercontent.com/31950869/114811769-57d0c900-9d74-11eb-922e-208457019461.png)](https://www.youtube.com/watch?v=fDSTGXISxE8)
 
 
+[Towards Real-Time Continental Scale Streamflow Simulation in Continuous and Discrete Space†](https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.12586)
+
+A continental simulation of US hourly streamflow by the NWM coupled with RAPID. They attributed problems with US streamflow simulation to snow melting dynamics, terrain routing, soils and groundwater which are spatially distinct over the US.
+
 # Groundwater Hydrology
 
 [Ying Fan](https://scholar.google.com/citations?hl=en&user=oCJH1C4AAAAJ)

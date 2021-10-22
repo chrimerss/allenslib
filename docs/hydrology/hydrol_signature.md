@@ -33,4 +33,9 @@ In this paper, the authors reviewed the basic concepts of hydrologic signatures 
 
     4.2 scaling
 
-    4.3 uncertainties
+__[A Ranking of Hydrological Signatures Based on Their Predictability in Space](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR022606)__
+
+An investigation of predictability of hydrologic signatures are conducted using a data-driven approach (random forest) and a hydrologic simulation (SNOW-17+SAC).
+
+1. We found that climatic attributes are by far the most influential predictors for signatures that can be well predicted based on catchment attributes
+2. We found that spatial smoothness is a simple yet powerful way to gain insights into the drivers of hydrological signatures. Scores are pool in places where there exists an abrupt change in space

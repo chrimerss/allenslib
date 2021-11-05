@@ -81,7 +81,7 @@ In this paper, the authors evaluated the flood magnitude, frequency, travel time
 
 "It demonstrates that antecedent soil moisture could play an important role in assessing the impact of urbanization on flood peaks"
 
-__[by Smith et al. 2001]()__
+__[The Regional Hydrology of Extreme Floods in an Urbanizing Drainage Basin by Smith et al. 2001](https://journals.ametsoc.org/view/journals/hydr/3/3/1525-7541_2002_003_0267_trhoef_2_0_co_2.xml)__
 
 The authors characterize the response time (V/P) by the flow volume (V) that is calculated as the integral of flows 1 day prior to the peak flow and 2 days after divided by the flow rate (P). 
 

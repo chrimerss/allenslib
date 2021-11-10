@@ -290,7 +290,9 @@ A WaterMIP project that conceptualizes 16 different Global Water Models, includi
 
 ![image](https://gmd.copernicus.org/articles/14/3843/2021/gmd-14-3843-2021-t06-web.png)
 
+__[Developments in hydrometric network design: A review (Rev. Geophys.)](https://doi.org/10.1029/2007RG000243)__
 
+The number of hydrometric networks or gauges have been under a decline in a lot of countries in recent years.
 
 
 # Hydrologic Regionalization

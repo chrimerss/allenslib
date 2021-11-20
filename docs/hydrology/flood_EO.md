@@ -55,3 +55,12 @@ Using ground-based cameras to segment flooded areas, which could also be used as
 
 
 SOURCE: Elliott, J., Walters, R. & Wright, T. The role of space-based observation in understanding and responding to active tectonics and earthquakes. Nat Commun 7, 13844 (2016). https://doi.org/10.1038/ncomms13844
+
+
+# Estimating discharge from satellite
+
+__[RODEO: An algorithm and Google Earth Engine application for river discharge retrieval from Landsat](https://www.sciencedirect.com/science/article/pii/S1364815221002966#!)__
+
+A GEE application that produces rating curves and discharge time series on-the-fly/.
+
+They relate river width to modeled discharge data (GRADES), so called rating curve, and produce time series of discharge over the globe. They assessed the performance at ~500 in-situ gauge locations, achieving an median KGE value of 0.3.

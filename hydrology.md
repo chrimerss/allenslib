@@ -6,7 +6,7 @@ has_children: true
 nav_order: 3
 ---
 
-# Synthesis
+# Synthesis/Opnions
 
 [Overview about rainfall-runoff modelling](https://drive.google.com/open?id=1bwZbFXydSEWXUHGnEBmoow_iF37Zabaz)
 
@@ -43,3 +43,13 @@ A hierarchical review paper, published by BAMS, discusses available data sources
 16. [Flood Risk and Monitoring Data for Preparedness and Response: From Availability to Use (Pages: 289-306)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch16)
 17. [Global Flood Partnership (Pages: 307-322)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch17)
 18. [Drought and Flood Monitoring and Forecasting: Challenges and Opportunities Ahead (Pages: 323-326)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch18)
+
+[__Should we apply bias correction? HESS__](https://hess.copernicus.org/preprints/9/5355/2012/hessd-9-5355-2012.pdf)
+
+According to the recommendation of the Joint Working Group on Forecast Verification Research (JWGFVR), the comparison should be performed between gridded data sets (WWRP 2009-1), with the grid resolution of the models degraded by a factor of 3–4 to take into account numerical filter effects (see e.g. Bauer et al., 2011).
+
+Cases of bias:
+1. imperfect physical schemes
+2. boundary feedbacks for RCM, which is strongly sensitive to model physics.
+3. climate variability (model simulation cannot represent the full length of climate)
+4. uncertainty using RCM to drive hydrologic model

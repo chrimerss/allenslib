@@ -150,7 +150,7 @@ __[Changes in Future Flash Flood–Producing Storms in the United States](https:
 
 The authors adopted datasets from Dr. Liu for 13-year convective-permitting model and coupled with Noah-MP community model to investigate the flood (i.e., flash flood) response due to a warming climate. They compared CRTL and PWG precipitation against NCEP stage IV dataset using the SSMI index to investigate the structural similarity. But not much traditional quantification has been done. Without any doubts, climate change changes the frequency of flash flood and rainfall intensity. 7.5%/K increase in hourly max. rain rates is observed, but medium rain rates are on par with Clausius-Clapeyron theory.
 
-__[Using machine learning models, remote sensing, and GIS to investigate the effects of changing climates and land uses on flood probability](https://www.sciencedirect.com/science/article/pii/S0022169420311240)__
+[__Using machine learning models, remote sensing, and GIS to investigate the effects of changing climates and land uses on flood probability__](https://www.sciencedirect.com/science/article/pii/S0022169420311240)
 
 In this article, the authors seek to investigate flood risks based on a host of environmental variables, including hydrometrological, topographic, and geological factors. Climate change is factored based on statistical downscaling from long series of gauge data for the change of precipitation, and ANN based methods take account the landuse changes. It is insightful to consider the varibles that could affect flood risks.
 
@@ -225,6 +225,10 @@ Geographically, regime changes are expected according to most GCMs in the Rocky 
 __[Increases in temperature do not translate to increased flooding](https://www.nature.com/articles/s41467-019-13612-5#additional-information)__
 
 In this paper, the authors fights back to a common opinion that increase in temperature "euqal" to increase in flooding. They pointed out the study by Yin et al. using flood frequency analysis lack of evidence because it is not associated with rainfall events. In addition, they argue the definition for flash flood used in their paper is not appropriate. They argue for extreme streamflow, it is most likely modulated by preceding soil moisture condition.
+
+__[Examining why trends in very heavy precipitation should not be mistaken for trends in very high river discharge](https://link.springer.com/article/10.1007/s10584-015-1476-1)__
+
+This study attempts to affirm that "heavy precipitation does not necessarily lead to high stream discharge".
 
 ## Regional
 

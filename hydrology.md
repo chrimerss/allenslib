@@ -53,3 +53,9 @@ Cases of bias:
 2. boundary feedbacks for RCM, which is strongly sensitive to model physics.
 3. climate variability (model simulation cannot represent the full length of climate)
 4. uncertainty using RCM to drive hydrologic model
+
+__[Emerging trends in global freshwater availability. Nature](https://doi.org/10.1038/s41586-018-0123-1)__
+
+**HIGHLY RECOMMENDED**
+
+In this article, authors addressed the global map of changes in fresh water availability with satellite observations and also climate models for projection. Very detailed global-regional analysis across the all continents. The impact of elevated precipitation, human-induced irrigation(mining), climate change, glacier depletion, and so on. 

@@ -27,6 +27,12 @@ __Prat, O. P., & Nelson, B. R. (2015). Evaluation of precipitation estimates ove
 
 The author adopts adaptive absolute rain rates to define extreme (i.e., WMMD=17.3 mm/day, 2 in/day, 4 in/day).
 
+__[U.S. Hydrologic Design Standards Insufficient Due to Large Increases in Frequency of Rainfall Extremes](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL083235)__
+
+Authors investigated the observed ARI (Annual recurrence interval) of extreme rainfall versus NOAA Atlas 14 product to show the trend.
+
+The motivation is to amplify that Evidence for intensifying rainfall extremes has not translated into “actionable” information needed by engineers and risk analysts.
+
 ## China
 
 [Spatial and temporal variation of extreme precipitation over the Yangtze River Basin](https://doi.org/10.1016/j.quaint.2007.09.001) 

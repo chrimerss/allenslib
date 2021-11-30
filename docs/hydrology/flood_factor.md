@@ -230,6 +230,13 @@ __[Examining why trends in very heavy precipitation should not be mistaken for t
 
 This study attempts to affirm that "heavy precipitation does not necessarily lead to high stream discharge".
 
+__[Influence of changes in rainfall and soil moisture on trends in flooding](https://www.sciencedirect.com/science/article/pii/S0022169419304998?via%3Dihub)__
+
+This study, authors emphysized the importance of soil modulating in floods, and it cannot be neglected in flood studies.
+
+"smaller catchments are less sensitive to changes in antecedent moisture with larger rainfalls (and hence floods) less likely to be influenced by soil moisture storage"
+
+
 ## Regional
 
 __[An extremeness threshold determines the regional response of floods to changes in rainfall extremes](https://www.nature.com/articles/s43247-021-00248-x)__

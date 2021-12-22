@@ -15,3 +15,11 @@ The authors examine the changes in Arctive river discharge from three aspects: 1
 
 In doing so, they extracted Landsat-derived discharge data using river width as proxy. Then, they assimilate these data to two popular global large dataset.
 
+# CYGNSS
+
+A nice blog introducing what CYGNSS can do in Atmospheric Science or Hydrology:https://earthobservatory.nasa.gov/blogs/fromthefield/2021/12/15/five-years-and-counting-happy-birthday-to-the-cygnss-octuplets/
+
+1. Hurricane tracks
+2. River outflow to ocean
+3. Flood inundation extent
+4. Soil moisture

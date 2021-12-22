@@ -23,3 +23,7 @@ A nice blog introducing what CYGNSS can do in Atmospheric Science or Hydrology:h
 2. River outflow to ocean
 3. Flood inundation extent
 4. Soil moisture
+
+__[First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model](https://iopscience.iop.org/article/10.1088/1748-9326/ac0ddf)__
+
+The authors find five soil moisture products (i.e., four from satellite and one from land surface model) to analyze their uncertainties and limitations using Triple Collocation. They also fused satellite products into land surface models to improve the accuracy. They can attribute the pixels gained greatest improvement to each satellite soil moisture product.

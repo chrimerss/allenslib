@@ -23,6 +23,12 @@ A hierarchical review paper, published by BAMS, discusses available data sources
 
 "Although the latest generation of reanalysis products, e.g., MERRA-2 or ERA5, show improvements over their predecenssors, trends in many of their water cycle components remain uncertain. Besides, global scale changes are particularly difficult to capture in renalaysis since the moisture and energy balance are not constrained."
 
+__[Human domination of the global water cycle absent from depictions and perceptions](https://www.nature.com/articles/s41561-019-0374-y)__
+
+The authors reviewed around 300 open-source water cycle diagrams and made complete revisit of the perceiption.
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41561-019-0374-y/MediaObjects/41561_2019_374_Fig3_HTML.png?as=webp">
+
 [__Global Drought and Flood: Observation, Modeling, and Prediction (AGU book)__](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1002/9781119427339)
 
 1. [Progress, Challenges, and Opportunities in Remote Sensing of Drought](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch1)

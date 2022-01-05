@@ -9,6 +9,8 @@ nav_order: 12
 
 __[Physically based modeling in catchment hydrology at 50: Survey and outlook WRR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015WR017780)__
 
+__[Why do we have so many different hydrological models? A review based on the case of Switzerland](https://wires.onlinelibrary.wiley.com/doi/10.1002/wat2.1574)__
+
 
 
 # Global hydrologic model

@@ -27,3 +27,10 @@ A nice blog introducing what CYGNSS can do in Atmospheric Science or Hydrology:h
 __[First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model](https://iopscience.iop.org/article/10.1088/1748-9326/ac0ddf)__
 
 The authors find five soil moisture products (i.e., four from satellite and one from land surface model) to analyze their uncertainties and limitations using Triple Collocation. They also fused satellite products into land surface models to improve the accuracy. They can attribute the pixels gained greatest improvement to each satellite soil moisture product.
+
+__[Description of the UCAR/CU Soil Moisture Product](https://www.mdpi.com/2072-4292/12/10/1558)__
+
+
+# Landsat
+
+__[The changing face of floodplains in the Mississippi River Basin detected by a 60-year land use change dataset Sci. Rep.](https://www.nature.com/articles/s41597-021-01048-w)__

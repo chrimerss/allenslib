@@ -16,3 +16,13 @@ in this paper, the authors analyzed publications regarding atmosperic model and 
 3. improvement of model parameters and uncertainties
 4. parameter transfer and regionalization
 5. hyper-resolution simulation.
+
+# Land-Atmosphere coupling
+
+## Soil moisture reshape/reintensify storms
+
+__[Sensitivity in the Overland Reintensification of Tropical Cyclone Erin (2007) to Near-Surface Soil Moisture Characteristics](https://journals.ametsoc.org/view/journals/mwre/139/12/2011mwr3593.1.xml)__
+
+__[Impacts of Soil Moisture on the Numerical Simulation of a Post-Landfall Storm](https://link.springer.com/article/10.1007%2Fs13351-019-8002-8)__
+
+The authors suggested the increased soil moisture with SLAB scheme before storm’s landfall tends to produce a weaker storm after landfall and has negative impacts on storm track simulation, because wetter soils tend to cool down ambient environment and thus resulting in a less conducive condition for storm maintanance.

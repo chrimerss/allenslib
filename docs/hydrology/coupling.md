@@ -26,3 +26,7 @@ __[Sensitivity in the Overland Reintensification of Tropical Cyclone Erin (2007)
 __[Impacts of Soil Moisture on the Numerical Simulation of a Post-Landfall Storm](https://link.springer.com/article/10.1007%2Fs13351-019-8002-8)__
 
 The authors suggested the increased soil moisture with SLAB scheme before storm’s landfall tends to produce a weaker storm after landfall and has negative impacts on storm track simulation, because wetter soils tend to cool down ambient environment and thus resulting in a less conducive condition for storm maintanance.
+
+__[Enhancement of inland penetration of monsoon depressions in the Bay of Bengal due to prestorm ground wetness](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/wrcr.20301)__
+
+SOM analysis showed that dry states are more likely to occur during monsoon season compared to wet states; however, the probability of genesis of MLPS during a wet-state day is about four times higher compared to a dry state day. These maps showed that in general, the mean inland penetration of wet-state MDs is longer than the MDs that form during dry state.

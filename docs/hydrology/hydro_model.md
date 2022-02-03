@@ -30,15 +30,17 @@ Model structure is as follows. This paper detailed description of each modeling 
 
 ![model_struc](https://gmd.copernicus.org/articles/11/2429/2018/gmd-11-2429-2018-f01-web.png)
 
-# Vector-based runoff routing
+# Runoff routing models
 
-## MizuRoute
+## Vector-based routing
+
+### MizuRoute
 
 __[A Vector-Based River Routing Model for Earth System Models: Parallelization and Global Applications](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002434)__
 
 This paper presents a global implementation of MizuRoute modeling, coupled with Earth System Models. They specifically investigated the impact of parallelization on runoff simulations.
 
-## RAPID
+### RAPID
 
 __[Implementation of a vector-based river network routing scheme in the community WRF-Hydro modeling framework for flood discharge simulation](https://www.sciencedirect.com/science/article/pii/S1364815217313531#bib12)__
 
@@ -52,13 +54,17 @@ __[Towards Real-Time Continental Scale Streamflow Simulation in Continuous and D
 
 RAPID routing with reservoir regulation included
 
-## AutoRoute
+### AutoRoute
 
 __[AutoRAPID: A Model for Prompt Streamflow Estimation and Flood Inundation Mapping over Regional to Continental Extents](https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.12476)__
 
 A rapid flood inundation mapping tool for large scale flood simulations.
 
+## Raster routing
 
+### MOSART (used in CESM)
+
+__[A Physically Based Runoff Routing Model for Land Surface and Earth System Models](https://journals.ametsoc.org/view/journals/hydr/14/3/jhm-d-12-015_1.xml)__
 
 # Improvement to hydrologic processes
 

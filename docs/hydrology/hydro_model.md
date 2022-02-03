@@ -107,3 +107,9 @@ __[Global Fully Distributed Parameter Regionalization Based on Observed Streamfl
 
 In this paper, the authors calibrated the gridded HBV model at daily scale globally to obtain a distributed parameters, and they regressed calibrated parameters to ungauged regions via a transfer function (regression).
 They are able to obtain a median KGE of 0.46, improved from 0.29 on average. They also analyzed regionalizations of those parameters to gain a physical understanding.
+
+__[Toward seamless hydrologic predictions across spatial scales](https://hess.copernicus.org/articles/21/4323/2017/)__
+
+A general protocol of how to apply parameterization of earth system models in predicting hydrologic response across scales.
+
+The most common parameterization techniques found in the literature are (1) look-up tables (LUTs), (2) manual or automatic calibration, (3) hydrologic response units (HRUs), (4) representative elementary watersheds (REWs), (5) a priori regularization functions, (6) simultaneous regionalization/regularization functions, and (7) dissimilarity-based metrics to transfer model parameters.

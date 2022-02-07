@@ -34,3 +34,7 @@ SOM analysis showed that dry states are more likely to occur during monsoon seas
 __[Possible relation between land surface feedback and the post-landfall structure of monsoon depressions GRL](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009GL037781)__
 
 warmer, wetter (cooler, drier) land surface can intensify (weaken) the landfalling MDs over the Indian monsoon region
+
+__[Land surface-precipitation feedback analysis for a landfalling monsoon depression in the Indian region JAMES](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016MS000829)__
+
+Detailed analysis of land-atmosphere interaction through water budget equation and formulation of recycling ratio.

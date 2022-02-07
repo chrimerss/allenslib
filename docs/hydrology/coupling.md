@@ -30,3 +30,7 @@ The authors suggested the increased soil moisture with SLAB scheme before stormâ
 __[Enhancement of inland penetration of monsoon depressions in the Bay of Bengal due to prestorm ground wetness](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/wrcr.20301)__
 
 SOM analysis showed that dry states are more likely to occur during monsoon season compared to wet states; however, the probability of genesis of MLPS during a wet-state day is about four times higher compared to a dry state day. These maps showed that in general, the mean inland penetration of wet-state MDs is longer than the MDs that form during dry state.
+
+__[Possible relation between land surface feedback and the post-landfall structure of monsoon depressions GRL](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009GL037781)__
+
+warmer, wetter (cooler, drier) land surface can intensify (weaken) the landfalling MDs over the Indian monsoon region

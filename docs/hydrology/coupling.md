@@ -38,3 +38,8 @@ warmer, wetter (cooler, drier) land surface can intensify (weaken) the landfalli
 __[Land surface-precipitation feedback analysis for a landfalling monsoon depression in the Indian region JAMES](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016MS000829)__
 
 Detailed analysis of land-atmosphere interaction through water budget equation and formulation of recycling ratio.
+
+
+__[The Inland Maintenance and Reintensification of Tropical Storm Bill (2015). Part I: Contributions of the Brown Ocean Effect](https://journals.ametsoc.org/view/journals/hydr/22/10/JHM-D-20-0150.1.xml#bib1)__
+
+They used reanalysis data to investigate the TCMI and non-TCMI storms associated with 2-week antecedent environments. It was found that TCMI storms present greater latent heat than non-TCMI storms. The ET 24-hour to storm trajectory is also much greater for TCMI.

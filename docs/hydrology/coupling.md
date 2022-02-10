@@ -43,3 +43,7 @@ Detailed analysis of land-atmosphere interaction through water budget equation a
 __[The Inland Maintenance and Reintensification of Tropical Storm Bill (2015). Part I: Contributions of the Brown Ocean Effect](https://journals.ametsoc.org/view/journals/hydr/22/10/JHM-D-20-0150.1.xml#bib1)__
 
 They used reanalysis data to investigate the TCMI and non-TCMI storms associated with 2-week antecedent environments. It was found that TCMI storms present greater latent heat than non-TCMI storms. The ET 24-hour to storm trajectory is also much greater for TCMI.
+
+__[A global spatiotemporal analysis of inland tropical cyclone maintenance or intensification](https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.3693)__
+
+They classified historical TCs from 1979-2008 into warm-core TC, cold-core TC, and hybrid, and used MERRA to analyze meteorological variables. They found the 850 hPa temperature gradient to be significantly associated with TCMI, provided by latent heat fluxes.

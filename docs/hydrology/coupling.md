@@ -47,3 +47,7 @@ They used reanalysis data to investigate the TCMI and non-TCMI storms associated
 __[A global spatiotemporal analysis of inland tropical cyclone maintenance or intensification](https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.3693)__
 
 They classified historical TCs from 1979-2008 into warm-core TC, cold-core TC, and hybrid, and used MERRA to analyze meteorological variables. They found the 850 hPa temperature gradient to be significantly associated with TCMI, provided by latent heat fluxes.
+
+__[PhD thesis Brown Ocean effect](https://getd.libs.uga.edu/pdfs/andersen_theresa_k_201308_phd.pdf)__
+
+Landfalling TCs are more likely to intensify over regions with above average rainfall antecedent to the warmest months of the hurricane season, which allows soils to be sufficiently warm and moist to transfer energy back to the storm.

@@ -21,6 +21,10 @@ in this paper, the authors analyzed publications regarding atmosperic model and 
 
 ## Soil moisture reshape/reintensify storms
 
+__[The role of anomalous soil moisture on the inland reintensification of Tropical Storm Erin (2007)](https://link.springer.com/article/10.1007/s11069-011-9966-6)__
+
+https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11069-011-9966-6/MediaObjects/11069_2011_9966_Fig9_HTML.gif?as=webp
+
 __[Sensitivity in the Overland Reintensification of Tropical Cyclone Erin (2007) to Near-Surface Soil Moisture Characteristics](https://journals.ametsoc.org/view/journals/mwre/139/12/2011mwr3593.1.xml)__
 
 __[Impacts of Soil Moisture on the Numerical Simulation of a Post-Landfall Storm](https://link.springer.com/article/10.1007%2Fs13351-019-8002-8)__

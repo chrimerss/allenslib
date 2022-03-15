@@ -142,6 +142,8 @@ While the DPR NS and DPR MS retrievals are nearly identical, the DPR HS retrieva
 
 # PERSIANN
 
+__[The PERSIANN family of global satellite precipitation data: a review and evaluation of products](https://hess.copernicus.org/articles/22/5801/2018/)__
+
 The author reviewed three product: PERSIANN, PERSIANN-CCS, PERSIANN-CDR.
 
 PERSIANN:

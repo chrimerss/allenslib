@@ -21,3 +21,8 @@ __[Abiotic and biotic controls of soil moisture spatiotemporal variability and t
 
 __[On the spatiotemporal variability of soil moisture and evapotranspiration in a mountainous basin within the North American monsoon region WRR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009WR008240)__
 
+## Soil moisture vs. discharge
+
+__[Can ASCAT-derived soil wetness indices reduce predictive uncertainty in well-gauged areas? A comparison with in situ observed soil moisture in an assimilation application Adv. Water Resour.](https://www.sciencedirect.com/science/article/pii/S0309170812000772?via%3Dihub)__
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0309170812000772-gr3.jpg">

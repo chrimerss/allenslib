@@ -54,3 +54,9 @@ They classified historical TCs from 1979-2008 into warm-core TC, cold-core TC, a
 __[PhD thesis Brown Ocean effect](https://getd.libs.uga.edu/pdfs/andersen_theresa_k_201308_phd.pdf)__
 
 Landfalling TCs are more likely to intensify over regions with above average rainfall antecedent to the warmest months of the hurricane season, which allows soils to be sufficiently warm and moist to transfer energy back to the storm.
+
+## Dry soil moisture propogate to reduce downwind precipitation
+
+__[Drought self-propagation in drylands due to land–atmosphere feedbacks](https://www.nature.com/articles/s41561-022-00912-7)__
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41561-022-00912-7/MediaObjects/41561_2022_912_Fig4_HTML.png?as=webp">

@@ -1,0 +1,23 @@
+---
+layout: default
+title: Soil moisture
+parent: Hydrology
+nav_order: 14
+---
+
+# Hysteresis in soil moisture
+
+Review of hysteresis in Hydrology:
+
+__[A review and synthesis of hysteresis in hydrology and hydrological modeling: Memory, path-dependency, or missing physics?](https://www.sciencedirect.com/science/article/pii/S0022169418304591?via%3Dihub#!)__
+
+## Mean soil moisture vs. soil moisture spatial variation
+
+__[Hysteresis of soil moisture spatial heterogeneity and the “homogenizing” effect of vegetation WRR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009WR008611)__
+
+__[Abiotic and biotic controls of soil moisture spatiotemporal variability and the occurrence of hysteresis WRR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014WR016102)__
+
+## Soil moisture vs. evapotranspiration
+
+__[On the spatiotemporal variability of soil moisture and evapotranspiration in a mountainous basin within the North American monsoon region WRR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009WR008240)__
+

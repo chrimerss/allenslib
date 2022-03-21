@@ -67,7 +67,9 @@ __[Feedback between the Land Surface and Rainfall at Convective Length Scales](h
 
 The authors investigated the impact of 10-20 km scale MCS and how soil states reshape the development of MCS. They look at subsequent rainfall development and also the displacement from soil states to rainfall.
 
+<p align="center"
 <img src="https://d3n9xgu0z4cjsp.cloudfront.net/view/journals/hydr/5/4/images/i1525-7541-5-4-625-f12.gif">
+</p>
 
 ## Dry soil moisture propogate to reduce downwind precipitation
 

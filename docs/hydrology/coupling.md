@@ -71,6 +71,10 @@ The authors investigated the impact of 10-20 km scale MCS and how soil states re
 <img src="https://d3n9xgu0z4cjsp.cloudfront.net/view/journals/hydr/5/4/images/i1525-7541-5-4-625-f12.gif">
 </p>
 
+__[Modeling soil moisture-precipitation feedback in the Sahel: Importance of spatial scale versus convective parameterization](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2013GL058511)__
+
+This study raises awareness that precipitation-soil-moisture feedback is highly dependent on convective parameterization in a numeric simulation, which may mislead the investigation. This is especially important when dealing with GCMs or RCMs which normally cannot resolve convective-scale precipitation.
+
 ## Dry soil moisture propogate to reduce downwind precipitation
 
 __[Drought self-propagation in drylands due to land–atmosphere feedbacks](https://www.nature.com/articles/s41561-022-00912-7)__

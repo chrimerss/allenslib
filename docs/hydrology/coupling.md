@@ -55,7 +55,7 @@ __[PhD thesis Brown Ocean effect](https://getd.libs.uga.edu/pdfs/andersen_theres
 
 Landfalling TCs are more likely to intensify over regions with above average rainfall antecedent to the warmest months of the hurricane season, which allows soils to be sufficiently warm and moist to transfer energy back to the storm.
 
-__[Dry soils can intensify mesoscale convective systems](https://www.pnas.org/doi/10.1073/pnas.2007998117)__
+__[Dry soils can intensify mesoscale convective systems PNAS](https://www.pnas.org/doi/10.1073/pnas.2007998117)__
 
 In this article, the authors composites ~6000 MCS events and analyzed the role that dry soils can reintensify the MCSs.
 How this works?

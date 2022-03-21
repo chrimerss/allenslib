@@ -63,6 +63,12 @@ Dry soils enhance sensible heat flux, although at the expense of latent heat flu
 
 <img src="https://www.pnas.org/cms/10.1073/pnas.2007998117/asset/c25251aa-7324-4907-baec-61251c252493/assets/images/large/pnas.2007998117fig05.jpg">
 
+__[Feedback between the Land Surface and Rainfall at Convective Length Scales](https://journals.ametsoc.org/view/journals/hydr/5/4/1525-7541_2004_005_0625_fbtlsa_2_0_co_2.xml#i1525-7541-5-4-625-f04)__
+
+The authors investigated the impact of 10-20 km scale MCS and how soil states reshape the development of MCS. They look at subsequent rainfall development and also the displacement from soil states to rainfall.
+
+<img src="https://d3n9xgu0z4cjsp.cloudfront.net/view/journals/hydr/5/4/images/i1525-7541-5-4-625-f12.gif">
+
 ## Dry soil moisture propogate to reduce downwind precipitation
 
 __[Drought self-propagation in drylands due to land–atmosphere feedbacks](https://www.nature.com/articles/s41561-022-00912-7)__

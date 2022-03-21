@@ -71,9 +71,14 @@ The authors investigated the impact of 10-20 km scale MCS and how soil states re
 <img src="https://d3n9xgu0z4cjsp.cloudfront.net/view/journals/hydr/5/4/images/i1525-7541-5-4-625-f12.gif">
 </p>
 
-__[Modeling soil moisture-precipitation feedback in the Sahel: Importance of spatial scale versus convective parameterization](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2013GL058511)__
+__[Modeling soil moisture-precipitation feedback in the Sahel: Importance of spatial scale versus convective parameterization GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2013GL058511)__
 
 This study raises awareness that precipitation-soil-moisture feedback is highly dependent on convective parameterization in a numeric simulation, which may mislead the investigation. This is especially important when dealing with GCMs or RCMs which normally cannot resolve convective-scale precipitation.
+
+__[Reconciling spatial and temporal soil moisture effects on afternoon rainfall Nat. Commun.](https://www.nature.com/articles/ncomms7443#citeas)__
+
+The authors investigated both the positive feedback and negative feedback from satellite observed precipitation and soil moisture. In some regions, negative feedback is present (dry soil -> precipitation) such as Central US, Western Amazon, but in general, most of the places show positive feedback (wet soils -> precipitation).
+
 
 ## Dry soil moisture propogate to reduce downwind precipitation
 

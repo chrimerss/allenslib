@@ -79,6 +79,8 @@ __[Reconciling spatial and temporal soil moisture effects on afternoon rainfall 
 
 The authors investigated both the positive feedback and negative feedback from satellite observed precipitation and soil moisture. In some regions, negative feedback is present (dry soil -> precipitation) such as Central US, Western Amazon, but in general, most of the places show positive feedback (wet soils -> precipitation).
 
+Also, precipitation is triggered preferentially over **heterogeneous** soil moisture conditions.
+
 
 ## Dry soil moisture propogate to reduce downwind precipitation
 

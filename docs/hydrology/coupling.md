@@ -55,6 +55,14 @@ __[PhD thesis Brown Ocean effect](https://getd.libs.uga.edu/pdfs/andersen_theres
 
 Landfalling TCs are more likely to intensify over regions with above average rainfall antecedent to the warmest months of the hurricane season, which allows soils to be sufficiently warm and moist to transfer energy back to the storm.
 
+__[Dry soils can intensify mesoscale convective systems](https://www.pnas.org/doi/10.1073/pnas.2007998117)__
+
+In this article, the authors composites ~6000 MCS events and analyzed the role that dry soils can reintensify the MCSs.
+How this works?
+Dry soils enhance sensible heat flux, although at the expense of latent heat flux. It deepens and warms PBL, creating a temperature gradient that is favorable for intense MCSs. At a synaptic scale, dry soils modulate moisture convergence via thermal wind and wind shear.
+
+<img src="https://www.pnas.org/cms/10.1073/pnas.2007998117/asset/c25251aa-7324-4907-baec-61251c252493/assets/images/large/pnas.2007998117fig05.jpg">
+
 ## Dry soil moisture propogate to reduce downwind precipitation
 
 __[Drought self-propagation in drylands due to land–atmosphere feedbacks](https://www.nature.com/articles/s41561-022-00912-7)__

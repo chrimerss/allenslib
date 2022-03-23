@@ -81,6 +81,9 @@ The authors investigated both the positive feedback and negative feedback from s
 
 Also, precipitation is triggered preferentially over **heterogeneous** soil moisture conditions.
 
+__[Afternoon rain more likely over drier soils. Nature](https://www.nature.com/articles/nature11377#citeas)__
+
+The authors found negative feedback from satellite observations but an opposite signal in global climate models. They inferred that the coarse-scale climate models, which cannot resolve convective precipitation, is likely the case that they do not reconcile with observations.
 
 ## Dry soil moisture propogate to reduce downwind precipitation
 

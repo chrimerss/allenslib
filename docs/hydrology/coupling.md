@@ -85,6 +85,14 @@ __[Afternoon rain more likely over drier soils. Nature](https://www.nature.com/a
 
 The authors found negative feedback from satellite observations but an opposite signal in global climate models. They inferred that the coarse-scale climate models, which cannot resolve convective precipitation, is likely the case that they do not reconcile with observations.
 
+__[Frequency of Sahelian storm initiation enhanced over mesoscale soil-moisture patterns Nat. Geos.](https://www.nature.com/articles/ngeo1173)__
+
+Idealized soil-moisture-induced flows (blue arrows) under light synoptic winds (black arrow) create an ascent region (large red arrow) where the shallow, strong current opposes the mean wind. The preferred location for convective initiation in this study coincides with the ascent region induced by the heating gradient at the downwind edge of the dry patch. Additional convergence over the dry patch is provided by a deep, weaker current at its upwind edge, and cross-wind gradients in soil moisture.
+
+<p align="center">
+  <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fngeo1173/MediaObjects/41561_2011_Article_BFngeo1173_Fig4_HTML.jpg?as=webp">
+</p>
+
 ## Dry soil moisture propogate to reduce downwind precipitation
 
 __[Drought self-propagation in drylands due to land–atmosphere feedbacks](https://www.nature.com/articles/s41561-022-00912-7)__

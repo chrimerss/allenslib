@@ -66,7 +66,9 @@ __[PhD thesis Brown Ocean effect](https://getd.libs.uga.edu/pdfs/andersen_theres
 
 Landfalling TCs are more likely to intensify over regions with above average rainfall antecedent to the warmest months of the hurricane season, which allows soils to be sufficiently warm and moist to transfer energy back to the storm.
 
+__[Influence of Land Cover and Soil Moisture based Brown Ocean Effect on an Extreme Rainfall Event from a Louisiana Gulf Coast Tropical System](https://www.nature.com/articles/s41598-019-53031-6)__
 
+The authors use WRF to discuss the impact of Brown Ocean to extreme rainfall event for Hurricane Florence. They purposely changed land cover to which favors storm reintensification such as open water, etc.
 
 
 ### Negative feedback

@@ -19,7 +19,18 @@ in this paper, the authors analyzed publications regarding atmosperic model and 
 
 # Land-Atmosphere coupling
 
-## Soil moisture reshape/reintensify storms
+## Soil moisture and atmosphere feedback
+
+### Positive feedback
+
+__[A soil moisture–rainfall feedback mechanism 1. Theory and observations](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/97WR03499)__
+
+A theoritical examination or explaination of how soil moisture impact rainfall, one of the pioneering work to address such.
+
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/31950869/162550250-e98f599c-b5c6-461f-914e-0ec3badfc9ac.png">
+
+
+
 
 __[The role of anomalous soil moisture on the inland reintensification of Tropical Storm Erin (2007)](https://link.springer.com/article/10.1007/s11069-011-9966-6)__
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11069-011-9966-6/MediaObjects/11069_2011_9966_Fig9_HTML.gif?as=webp">
@@ -54,6 +65,11 @@ They classified historical TCs from 1979-2008 into warm-core TC, cold-core TC, a
 __[PhD thesis Brown Ocean effect](https://getd.libs.uga.edu/pdfs/andersen_theresa_k_201308_phd.pdf)__
 
 Landfalling TCs are more likely to intensify over regions with above average rainfall antecedent to the warmest months of the hurricane season, which allows soils to be sufficiently warm and moist to transfer energy back to the storm.
+
+
+
+
+### Negative feedback
 
 __[Dry soils can intensify mesoscale convective systems PNAS](https://www.pnas.org/doi/10.1073/pnas.2007998117)__
 

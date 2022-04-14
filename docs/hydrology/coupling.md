@@ -23,6 +23,8 @@ in this paper, the authors analyzed publications regarding atmosperic model and 
 
 ### Positive feedback
 
+__[Marshall Shepherd - Brown Ocean](https://scholar.google.com.sg/citations?view_op=list_works&hl=en&hl=en&user=0tsoNUYAAAAJ&sortby=pubdate&citft=1&email_for_op=chrimerss%40gmail.com)__
+
 __[A soil moisture–rainfall feedback mechanism 1. Theory and observations](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/97WR03499)__
 
 A theoritical examination or explaination of how soil moisture impact rainfall, one of the pioneering work to address such.

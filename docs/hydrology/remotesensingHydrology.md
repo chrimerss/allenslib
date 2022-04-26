@@ -34,3 +34,8 @@ __[Description of the UCAR/CU Soil Moisture Product](https://www.mdpi.com/2072-4
 # Landsat
 
 __[The changing face of floodplains in the Mississippi River Basin detected by a 60-year land use change dataset Sci. Rep.](https://www.nature.com/articles/s41597-021-01048-w)__
+
+## Placement bias of the global river gauge network
+__[Assessing placement bias of the global river gauge network](https://www.nature.com/articles/s41893-022-00873-0)__
+Installed gauges favor high human footprint, developed regions while ignoring rural regions. This paper calls attention to where should next gauges be installed.
+

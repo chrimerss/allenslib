@@ -17,3 +17,5 @@ Hydrologic connectivity herein is defined quantitatively as the inversed in-chan
 Stream connectivity is defined using the Graph Theory which considers network as nodes and edges, and the adjancency matrix is constructed to compute a weighted score.
 
 They collected three years of stream network data, in conjuction with hydrologic model MIKE SHE, to reveal the yearly changes in connectivity and thus water conveyance. They illustrated that earlier years have better flood delivery.
+
+__[Dinf flow direction calculation WRR](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.79.977&rep=rep1&type=pdf)__

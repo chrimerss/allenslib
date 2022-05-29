@@ -39,3 +39,7 @@ __[The changing face of floodplains in the Mississippi River Basin detected by a
 __[Assessing placement bias of the global river gauge network](https://www.nature.com/articles/s41893-022-00873-0)__
 Installed gauges favor high human footprint, developed regions while ignoring rural regions. This paper calls attention to where should next gauges be installed.
 
+__[Multi-sensor remote sensing for drought characterization: current status, opportunities and a roadmap for the future](https://www.sciencedirect.com/science/article/pii/S0034425721000316)__
+
+A collection of remote sensing satellites for drought monitoring.
+

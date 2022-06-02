@@ -165,6 +165,10 @@ A common conclusion to these studies is that subdaily extreme rainfall is intens
   <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/f3d36bc9-7ecb-4ef7-9dae-d5a7c7e9c50c/rog20045-fig-0004-m.jpg">
 </p>
 
+__[Resilience to Extreme Rainfall Starts with Science BAMS](https://journals.ametsoc.org/view/journals/bams/102/4/BAMS-D-20-0267.1.xml)__
+
+In this article, the authors call for attention to update storm database to guide building resilient society. The out-of-date NOAA Atlas 14 poses hurdles to design up-to-date flood infrastructure and resilient measures.
+
 # Hydroclimatology
 
 __[Hydroclimatic trends during 1950–2018 over global land](https://link.springer.com/article/10.1007%2Fs00382-021-05684-1)__

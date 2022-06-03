@@ -39,3 +39,7 @@ An investigation of predictability of hydrologic signatures are conducted using 
 
 1. We found that climatic attributes are by far the most influential predictors for signatures that can be well predicted based on catchment attributes
 2. We found that spatial smoothness is a simple yet powerful way to gain insights into the drivers of hydrological signatures. Scores are pool in places where there exists an abrupt change in space
+
+__[Large Scale Evaluation of Relationships Between Hydrologic Signatures and Processes WRR](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031751)__
+
+The authors used worldwide CZO (Critical Zone Observation) to map hydrologic signature to present dominant hydrologic processes within each watershed.

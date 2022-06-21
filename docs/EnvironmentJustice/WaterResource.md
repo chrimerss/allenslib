@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Water Resource
-parent: EnvJustice
+parent: Environmental Justice
 nav_order: 1
 ---
 

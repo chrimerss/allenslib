@@ -15,6 +15,10 @@ __[Global river hydrography and network routing: baseline data and new approache
 
 The authors laid out high-level comparisons between vector-based and raster-based routing.
 
+__[More complex is not necessarily better in large scale hydrological modelling - A model complexity experiment across the contiguous United States](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-21-0284.1/BAMS-D-21-0284.1.xml?tab_body=pdf)__
+
+The authors used semi-distributed models and flexible structure and parameter set to conduct US-continental scale model evaluation. The results suggest in contrast that increases in number of soil layers do not imporve model performance but separation of fast flow/slow flow do so.
+
 
 # Global hydrologic model
 

@@ -65,3 +65,6 @@ __[Emerging trends in global freshwater availability. Nature](https://doi.org/10
 **HIGHLY RECOMMENDED**
 
 In this article, authors addressed the global map of changes in fresh water availability with satellite observations and also climate models for projection. Very detailed global-regional analysis across the all continents. The impact of elevated precipitation, human-induced irrigation(mining), climate change, glacier depletion, and so on. 
+
+# Local state flood policies and planning
+__[The State Flood Assessment](https://texasfloodassessment.org/doc/State-Flood-Assessment-report-86th-Legislation.pdf)__

@@ -169,6 +169,14 @@ __[Resilience to Extreme Rainfall Starts with Science BAMS](https://journals.ame
 
 In this article, the authors call for attention to update storm database to guide building resilient society. The out-of-date NOAA Atlas 14 poses hurdles to design up-to-date flood infrastructure and resilient measures.
 
+__[Declining tropical cyclone frequency under global warming Nat Climate Change](https://www.nature.com/articles/s41558-022-01388-4)__
+
+The authors reconstructed long-term TC frequency to show a decreasing trend in most of regionos, especially during the periods of post-industrialization
+
+<src img="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-022-01388-4/MediaObjects/41558_2022_1388_Fig2_HTML.png?as=webp">
+
+Beyond findings, the authors attributed the changes to (1) mid-tropospheric upward mass flux, (2) environmental vertical wind shear, and (3) saturation deficit (mid-tropospheric dryness).
+
 # Hydroclimatology
 
 __[Hydroclimatic trends during 1950–2018 over global land](https://link.springer.com/article/10.1007%2Fs00382-021-05684-1)__

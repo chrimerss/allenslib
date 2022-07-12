@@ -240,6 +240,10 @@ This study, authors emphysized the importance of soil modulating in floods, and 
   <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0022169419304998-ga1_lrg.jpg">
 </p>
 
+__[Ambitious partnership needed for reliable climate prediction NCC](https://www.nature.com/articles/s41558-022-01384-8)__
+
+The authors call kilometer-scale climate projection datta to capture convective precipitation and empower disaster-related studies.
+
 
 ## Regional
 

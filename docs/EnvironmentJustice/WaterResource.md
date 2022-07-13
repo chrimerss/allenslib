@@ -18,6 +18,10 @@ __[Too much and not enough Nat Sustainability](https://www.nature.com/articles/s
 
 __[Indigenous flood control and management knowledge and flood disaster risk reduction in Nigeria's coastal communities: An empirical analysis](https://www.sciencedirect.com/science/article/abs/pii/S2212420921000455)__
 
+__[Exploring the integration of local and scientific knowledge in early warning systems for disaster risk reduction: a review](https://link.springer.com/epdf/10.1007/s11069-022-05468-8?sharing_token=GLlBp6dbdpL7Vjs6fuB-Lfe4RwlQNchNByi7wbcMAY7RsoLXhjzfsUSvPd7GIkYCozLZN4Q8uR_zKb-_anrE8kANNw79S5mIHb7Z2KmXjD_gTS4aBzdVT5YjF1tt92lOnVpCnr5nsj20JvFNz6-wh58p1fEXPHQ5AcMOskleNvA%3D)__
+
+"The monitoring and forecasting component of the EWS has to go from giving a warning about what the weather will be to a warning about what the weather will do. The World Meteorological Organization calls this impact-based forecasting (IBF), developing a forecast of the potential consequences of a climate hazard event in terms of its effects on people, infrastructure, etc."
+
 # Actionable knowledge
 __[Actionable knowledge and the art of engagement](https://www.sciencedirect.com/science/article/abs/pii/S1877343520300026)__
 

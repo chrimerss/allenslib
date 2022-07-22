@@ -29,6 +29,12 @@ In this big paper, the authors proposed a framework to address the scientific pr
 
 Even though this is a conceptual paper, it really motivates researchers to dive into and look for answers to benefit our human society.
 
+__[Tracking the weight of Hurricane Harvey’s stormwater using GPS data Sci Adv.](https://www.science.org/doi/10.1126/sciadv.aau2477)__
+
+The authors showed how to use GPS data as a vertical displacement to estimate terristrial water storage changes during Hurricane Harvey event. They proposed a way to invert modeling to derive surface water and ground water by closing the water budget.
+
+<img src="https://www.science.org/cms/10.1126/sciadv.aau2477/asset/451cda92-c917-4c10-b212-ac51740eea01/assets/graphic/aau2477-f1.jpeg">
+
 # Coupled hydrologic/hydraulic modeling for flood innudation
 
 __A high resolution coupled hydrologic–hydraulic model (HiResFlood-UCI) for flash flood modeling__

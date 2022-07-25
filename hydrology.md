@@ -60,6 +60,10 @@ Cases of bias:
 3. climate variability (model simulation cannot represent the full length of climate)
 4. uncertainty using RCM to drive hydrologic model
 
+__[The terrestrial water cycle in a warming world. Nat. Clim. Chang.](https://doi.org/10.1038/s41558-022-01412-7)__
+
+The authors advocate the use of a simply model to describe complex climate change schcemes, instead of using complex model. The underlying rational is that error/uncertainties propagate from the atmosphere to land surface by admitting more uncertainties in land surface processes. So, if atmospheric component is available, use readily available and less uncertain and less complex variables (simple model) instead of complex indices.
+
 __[Emerging trends in global freshwater availability. Nature](https://doi.org/10.1038/s41586-018-0123-1)__
 
 **HIGHLY RECOMMENDED**

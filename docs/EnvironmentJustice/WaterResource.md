@@ -14,6 +14,10 @@ THe authors use a global 30 meter hydraulic simulation to project future 1-in-10
 
 __[Too much and not enough Nat Sustainability](https://www.nature.com/articles/s41893-021-00766-8)__
 
+__[Inequities in the distribution of flood risk under floodplain restoration and climate change scenarios](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10290)__
+
+Scenario-based exploration of how climate change and floodplain restoration could contribute/reduce flood risks for community.
+
 # Incorporating indigenous knowledge
 
 __[Indigenous flood control and management knowledge and flood disaster risk reduction in Nigeria's coastal communities: An empirical analysis](https://www.sciencedirect.com/science/article/abs/pii/S2212420921000455)__

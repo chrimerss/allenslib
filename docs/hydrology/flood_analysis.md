@@ -78,6 +78,10 @@ The authors used 11 global hydrologic models to feed into CaMaFlood, to derive g
 
 This article extracted near 1000 flood events from DFO event reports and cloud-free MODIS imagery with which the authors analyzed flood exposures to global residents using high-resolution settlement dataset. A nice structured paper to alert local communities in the face of climate change.
 
+__[Predicting flood damage probability across the conterminous United States](https://iopscience.iop.org/article/10.1088/1748-9326/ac4f0f)__
+
+As we all know, FEMA has mapped US flood plains at relatively high resolution for different frequencies, but many regions are unmapped due to costly computational resources. This study actually reported that over 68% of the flood events were outside of the mapped flood-plains, and 16.2% were in unmapped flood-plains. This should araise people's awareness that either past floodplain data is outdated or incomplete.
+
 # Regional Flood analysis
 
 __[Combined modelling of US fluvial, pluvial and coastal flood hazard under current and future climates](https://www.essoar.org/pdfjs/10.1002/essoar.10504362.1)__

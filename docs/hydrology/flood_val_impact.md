@@ -33,6 +33,11 @@ In this paper, the authors proposed two ways of evaluating probabilistic flood m
 
 They applied this methorology to LISFLOOD-FP model, at odds with two SAR derived flood map.
 
+__[A Path Towards Short-Term Probabilistic Flash Flood Prediction BAMS](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-22-0026.1/BAMS-D-22-0026.1.xml?tab_body=pdf)__
+
+The authors started claiming that annual flash flood warnings issued by NWS average 4287. The improvement of accuracy according to the contigency table has been slow since 1997, with POD around 0.85-0.89, FAR around 0.5. So to say, false alarms regarding flash flooding is present and calling immediate attention. The authors propose a probabilistic prototype PRO-FLASH for flash flood warning underlying the FACET umbrella.
+
+They envisioned two approches: (1) probability-related binary warning (flash flooding or no flash flooding) and (2) probability-related category warning (minor, moderate, major risks).
 
 # Flood events validations
 

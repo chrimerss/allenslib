@@ -70,5 +70,15 @@ __[Emerging trends in global freshwater availability. Nature](https://doi.org/10
 
 In this article, authors addressed the global map of changes in fresh water availability with satellite observations and also climate models for projection. Very detailed global-regional analysis across the all continents. The impact of elevated precipitation, human-induced irrigation(mining), climate change, glacier depletion, and so on. 
 
+# Science advances
+__[Where should hydrology go? An early-career perspective on the next IAHS Scientific Decade: 2023-2032](https://eartharxiv.org/repository/view/3353/)__
+
+The Early-Career community proposed three themes to work on for the next decade:  
+1. Tipping points and thresholds in Hydrology 
+2. intensification of hydrological cycle
+3. water services under pressure
+
+
+
 # Local state flood policies and planning
 __[The State Flood Assessment](https://texasfloodassessment.org/doc/State-Flood-Assessment-report-86th-Legislation.pdf)__

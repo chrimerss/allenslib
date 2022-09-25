@@ -148,8 +148,12 @@ __[Leveraging machine learning for predicting flash flood damage in the Southeas
 
 [List of publications using ML to predict flood risks](https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1748-9326/15/2/024011/2/ERL_15_2_024011_suppdata.pdf?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1612538885&Signature=KTVxXl2J%2FXVLzEdA5HeauUEHD7k%3D)
 
-# Flood damages
+# Flood hazard, vulnerability, risk, and resilience
 
 __[Review article “Assessment of economic flood damage”](https://gfzpublic.gfz-potsdam.de/rest/items/item_241074_1/component/file_241073/content)__
 
 In this paper, the authors reviewed a set of literatures that concern the flood damages in varying angles.
+
+__[Flood resilience: a systematic review, Journal of Environmental Planning and Management](https://www.tandfonline.com/doi/full/10.1080/09640568.2019.1641474)__
+
+Kerri McClymont, David Morrison, Lindsay Beevers & Esther Carmen (2020) Flood resilience: a systematic review, Journal of Environmental Planning and Management, 63:7, 1151-1176, DOI: 10.1080/09640568.2019.1641474

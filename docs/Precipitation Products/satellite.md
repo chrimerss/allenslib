@@ -79,6 +79,10 @@ __[Empirical conversion of the vertical profile of reflectivity from Ku-band to 
 
 A comparison between Ku-band radar (space-borne radar) and S-band radar (ground radar). Pre-adjustment needs to be made for straitiform precipitation, including within ML layer. This study uses a simple linear melting model to convert S-band to Ku-band reflectivity. 
 
+__[Progress from TRMM to GPM](https://www.jstage.jst.go.jp/article/jmsj/99/3/99_2021-035/_html/-char/en)__
+
+The authors elucidated the progress made from TRMM satellite to GPM satellite, especially on the precipitation radar.
+
 ## Precipitation detection
 
 __[Detection of Intense Ice Precipitation with GPM/DPR](https://journals.ametsoc.org/view/journals/atot/35/3/jtech-d-17-0120.1.xml)__

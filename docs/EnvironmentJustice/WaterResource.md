@@ -13,6 +13,11 @@ __[Flood exposure and poverty in 188 countries Nat Comm](https://www.nature.com/
 THe authors use a global 30 meter hydraulic simulation to project future 1-in-100-year flood events, overlaid with population data and socioeconomic profiles.
 
 __[Too much and not enough Nat Sustainability](https://www.nature.com/articles/s41893-021-00766-8)__
+We have too much intensity-based studies while not having enough impact-based studies, including the impact of hazards, exposures, and vulnerabilities that are closely tied to people's living conditions.
+
+__[Large and inequitable flood risks in Los Angeles, California Nat. Sustain.](https://www.nature.com/articles/s41893-022-00977-7)__
+
+This article, the authors produced 3-m flood map based on 1-in-100-year flood events. They mapped the inundated area with social economic indicators such as vulnerabilities and exposures, represented in a composite indicator: Gini coefficient. It was found that flood risks are disproportionately higher for non-Hispanic Black and disadvantaged populations.
 
 __[Inequities in the distribution of flood risk under floodplain restoration and climate change scenarios](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10290)__
 

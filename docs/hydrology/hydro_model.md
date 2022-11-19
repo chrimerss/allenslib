@@ -117,3 +117,9 @@ __[Toward seamless hydrologic predictions across spatial scales](https://hess.co
 A general protocol of how to apply parameterization of earth system models in predicting hydrologic response across scales.
 
 The most common parameterization techniques found in the literature are (1) look-up tables (LUTs), (2) manual or automatic calibration, (3) hydrologic response units (HRUs), (4) representative elementary watersheds (REWs), (5) a priori regularization functions, (6) simultaneous regionalization/regularization functions, and (7) dissimilarity-based metrics to transfer model parameters.
+
+# Model evaluation
+
+__[When best is the enemy of good – critical evaluation of performance criteria in hydrological models (HESS)](https://hess.copernicus.org/preprints/hess-2022-380/hess-2022-380.pdf)__
+
+The authors compared a comprehensive list of evaluation factors such as NSE, KGE, KGE', and other variants to showcase their deficiencies in some extent, particularly the counter-balancing errors. Depending on the overall perspective, authors urge careful selection of evaluation criterion for hydrological model calibration and validation.

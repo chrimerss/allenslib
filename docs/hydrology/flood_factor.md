@@ -254,7 +254,7 @@ In this article, authors coupled a hydrologic model with SMILE (Single Model Ini
 
 ## Climate change + Flash flood review
 
-|Title|Journal|Climate Model|Flood model|
-|-----|-------|-------------|-----------|
-|[Assessment of future flash flood inundations in coastal regions under climate change scenarios—A case study of Hadahe River basin in northeastern China](https://www.sciencedirect.com/science/article/pii/S0048969719334709?casa_token=_tXepO-W8cIAAAAA:_NG5dEyg870IDtV8BND6Z0bozg2XtkU3cAi0NWPSfturgd3xvRLntNx_FBxBzt1tzOnrAiJMpg#bb0260)|Science of Total Environment|NASA downscaled climate output (0.25-deg/daily)|FLO-2D|
+|Title|Journal|Climate Model|Flood model|Domain|
+|-----|-------|-------------|-----------|------|
+|[Assessment of future flash flood inundations in coastal regions under climate change scenarios—A case study of Hadahe River basin in northeastern China](https://www.sciencedirect.com/science/article/pii/S0048969719334709?casa_token=_tXepO-W8cIAAAAA:_NG5dEyg870IDtV8BND6Z0bozg2XtkU3cAi0NWPSfturgd3xvRLntNx_FBxBzt1tzOnrAiJMpg#bb0260)|Science of Total Environment|NASA downscaled climate output (0.25-deg/daily)|FLO-2D|Regional (25m)|
 

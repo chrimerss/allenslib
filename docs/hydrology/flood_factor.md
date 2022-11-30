@@ -244,6 +244,14 @@ __[Ambitious partnership needed for reliable climate prediction NCC](https://www
 
 The authors call kilometer-scale climate projection datta to capture convective precipitation and empower disaster-related studies.
 
+__[Reconciling disagreement on global river flood changes in a warming climate NCC](https://www.nature.com/articles/s41558-022-01539-7)__
+This paper answers the call "If temperature increases, why not floods?". In literature, there are abundant evidances that model shows widespread increases in flood severity and spatial scales, which contradicts observations showing decrease in flood frequency and occurrences. Therefore, the novelty of this paper is to classify different flood-generating mechanisms: excess rainfall, snow-melting, soil saturation, etc. In doing so, they found, snow-driven floods will decrease in the future, while excess rainfall-driven floods will increase.
+
+<p align="center">
+  <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-022-01539-7/MediaObjects/41558_2022_1539_Fig1_HTML.png?as=webp">
+ </p>
+
+A companion comment paper is also published in NCC __[Floods differ in a warmer future](https://www.nature.com/articles/s41558-022-01541-z)__
 
 ## Regional
 

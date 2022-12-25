@@ -169,6 +169,14 @@ __[Resilience to Extreme Rainfall Starts with Science BAMS](https://journals.ame
 
 In this article, the authors call for attention to update storm database to guide building resilient society. The out-of-date NOAA Atlas 14 poses hurdles to design up-to-date flood infrastructure and resilient measures.
 
+__[Potential Impacts of Future Extreme Precipitation Changes on Flood Engineering Design Across the Contiguous United States](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021WR031432)__
+
+This study benchmarks global climate model output (CESM2-LE) 24-hr precipitation on NOAA Atlas 14 to show the changes in extreme precipitation. It presents a spatially varied differences in extreme precipitation changes. 
+
+<p aligh="center">
+  <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/3a60f5c8-b7c5-4381-952e-22bf4f3d8161/wrcr25930-fig-0003-m.jpg">
+</p>
+
 __[Declining tropical cyclone frequency under global warming Nat Climate Change](https://www.nature.com/articles/s41558-022-01388-4)__
 
 The authors reconstructed long-term TC frequency to show a decreasing trend in most of regionos, especially during the periods of post-industrialization
@@ -176,6 +184,7 @@ The authors reconstructed long-term TC frequency to show a decreasing trend in m
 <src img="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-022-01388-4/MediaObjects/41558_2022_1388_Fig2_HTML.png?as=webp">
 
 Beyond findings, the authors attributed the changes to (1) mid-tropospheric upward mass flux, (2) environmental vertical wind shear, and (3) saturation deficit (mid-tropospheric dryness).
+  
 
 # Hydroclimatology
 

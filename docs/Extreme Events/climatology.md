@@ -174,7 +174,7 @@ __[Potential Impacts of Future Extreme Precipitation Changes on Flood Engineerin
 This study benchmarks global climate model output (CESM2-LE) 24-hr precipitation on NOAA Atlas 14 to show the changes in extreme precipitation. It presents a spatially varied differences in extreme precipitation changes. 
 
 <p aligh="center">
-  <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/3a60f5c8-b7c5-4381-952e-22bf4f3d8161/wrcr25930-fig-0003-m.jpg">
+  <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/3a60f5c8-b7c5-4381-952e-22bf4f3d8161/wrcr25930-fig-0003-m.jpg?as=webp">
 </p>
 
 __[Declining tropical cyclone frequency under global warming Nat Climate Change](https://www.nature.com/articles/s41558-022-01388-4)__

@@ -13,6 +13,14 @@ In this paper, the author proposed a framework which integrates data from precip
 
 <img src="../../src/flashflood_Framework.png"> 
 
+__[Mapping Flash Flood Severity in the United States](https://journals.ametsoc.org/view/journals/hydr/18/2/jhm-d-16-0082_1.xml)__
+
+First study to derive the flashiness index over the continetnal US by utlizing machine learning trained on stream gauges.
+
+<p align="center">
+  <img src="https://journals.ametsoc.org/view/journals/hydr/18/2/images/full-jhm-d-16-0082_1-f7.jpg">
+</p>
+
 __Ombadi, M., et al. (2018). "Developing Intensity-Duration-Frequency (IDF) Curves from Satellite-based Precipitation: Methodology and Evaluation" Water Resources Research__
 
 In this paper, the author tried to develop IDF curve through 3 steps: 1. bias adjustment, 2. Point-to-Area transformation, 3. develop IDF curve with IR satellite data PERSIANN-CDR. The results are compared with NOAA Atlas 14.

@@ -11,6 +11,8 @@ __[Physically based modeling in catchment hydrology at 50: Survey and outlook WR
 
 __[Why do we have so many different hydrological models? A review based on the case of Switzerland](https://wires.onlinelibrary.wiley.com/doi/10.1002/wat2.1574)__
 
+__[100 Years of Progress in Hydrology](https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0019.1.xml)__
+
 __[Global river hydrography and network routing: baseline data and new approaches to study the world's large river systems](https://onlinelibrary.wiley.com/doi/10.1002/hyp.9740)__
 
 The authors laid out high-level comparisons between vector-based and raster-based routing.

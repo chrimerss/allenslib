@@ -73,6 +73,12 @@ In this paper, the authors intend to investigate the storm impact on soil moistu
 
 They showed in nearly 40% of storms, soil moisture peaked earlier to runoff, indicating potential subsurface contributions from hillslopes to runoff at outlet.
 
+__[Should flood regimes change in a warming climate? The role of antecedent moisture conditions GRL](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL069448)__
+
+The authors claim that antecedent soil moisture is a main driver that explains the decreasing trend in floods in some continents. They used the Antecedent Precipitation Index to approximate antecedent soil moisture using global rain gauges.
+
+
+
 # Urbanization
 __Zhou, Z., J. A. Smith, L. Yang, M. L. Baeck, M. Chaney, M.-C. Ten Veldhuis, H. Deng, and S. Liu (2017), The complexities of urban flood response: Flood frequency analyses for the Charlotte metropolitan region, Water Resour. Res., 53, 7401–7425, doi:10.1002/2016WR019997.__
 

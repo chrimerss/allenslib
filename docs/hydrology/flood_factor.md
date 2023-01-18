@@ -279,7 +279,7 @@ In this article, authors coupled a hydrologic model with SMILE (Single Model Ini
 
 __[Spatial Attribution of Declining Colorado River Streamflow under Future Warming JH](https://www.sciencedirect.com/science/article/pii/S0022169423000677)__
 
-This paper explains the decline in Colorado River Streamflow because of the decrease in snowmelt. One figure that could be insightful is the perceptual Model shown below.
+This paper explains the decline in Colorado River Streamflow because of the decrease in snowmelt. One figure that could be insightful is the perceptual Figure shown below.
 
 <p align="center">
   <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0022169423000677-gr6.jpg">

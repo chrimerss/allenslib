@@ -82,6 +82,13 @@ __[Predicting flood damage probability across the conterminous United States](ht
 
 As we all know, FEMA has mapped US flood plains at relatively high resolution for different frequencies, but many regions are unmapped due to costly computational resources. This study actually reported that over 68% of the flood events were outside of the mapped flood-plains, and 16.2% were in unmapped flood-plains. This should araise people's awareness that either past floodplain data is outdated or incomplete.
 
+__[Use of Hydrological Models in Global Stochastic Flood Modeling](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR032743)__
+
+This study compared two global hydrological models - PCR-GLOBWB and CaMa-Flood to investigate global flood modeling. They used the co-occurrence matrix to understand the model predictability compared to in-situ stream gauges.
+
+![image](https://user-images.githubusercontent.com/31950869/213754727-9343e86b-ade3-4cf5-88e0-c0a7acc5189c.png)
+
+
 # Regional Flood analysis
 
 __[Combined modelling of US fluvial, pluvial and coastal flood hazard under current and future climates](https://www.essoar.org/pdfjs/10.1002/essoar.10504362.1)__

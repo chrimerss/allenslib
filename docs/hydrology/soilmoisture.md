@@ -31,6 +31,8 @@ __[Can ASCAT-derived soil wetness indices reduce predictive uncertainty in well-
 
 __[A signature-based approach to quantify soil moisture dynamics under contrasting land-uses](https://onlinelibrary.wiley.com/doi/10.1002/hyp.14553)__
 
+The authors applied streamflow signatures to quantify the soil moisture signature. 
+
 <p align="center">
   <img src="https://onlinelibrary.wiley.com/cms/asset/371cbb5b-482d-4487-a53c-d565c2b68116/hyp14553-fig-0002-m.jpg">
 </p>

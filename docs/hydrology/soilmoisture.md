@@ -26,3 +26,11 @@ __[On the spatiotemporal variability of soil moisture and evapotranspiration in 
 __[Can ASCAT-derived soil wetness indices reduce predictive uncertainty in well-gauged areas? A comparison with in situ observed soil moisture in an assimilation application Adv. Water Resour.](https://www.sciencedirect.com/science/article/pii/S0309170812000772?via%3Dihub)__
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0309170812000772-gr3.jpg">
+
+# Soil moisture signature
+
+__[A signature-based approach to quantify soil moisture dynamics under contrasting land-uses](https://onlinelibrary.wiley.com/doi/10.1002/hyp.14553)__
+
+<p align="center">
+  <img src="https://onlinelibrary.wiley.com/cms/asset/371cbb5b-482d-4487-a53c-d565c2b68116/hyp14553-fig-0002-m.jpg">
+</p>

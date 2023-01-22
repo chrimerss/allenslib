@@ -52,3 +52,7 @@ The author attempted to train an ensemble ML models to predict the flash flood d
 1. For the binary classification, the author presented a ROC curve to demonstrate the accuracy but as they didn't mention the distribution of the data sample, meaning that it could be biased because of the sample distribution;
 
 2. For the regression model, I'm wondering if train the network based upon the result of classfication would be better because it is a way to reduce trainable data and also people are not aware of which no damage caused in the event;
+
+__[Flash Flood Risk Assessment in the Context of Economic Change Scenarios](https://journals.ametsoc.org/view/journals/wcas/15/1/WCAS-D-21-0141.1.xml)__
+
+The authors used a flood inundation model to retrospectively analyze one flash flood event and associate it with economic losses. They used GDP by different CMIP models to project future economic losses by a similar event.

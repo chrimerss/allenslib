@@ -72,6 +72,13 @@ __[Influence of Land Cover and Soil Moisture based Brown Ocean Effect on an Extr
 
 The authors use WRF to discuss the impact of Brown Ocean to extreme rainfall event for Hurricane Florence. They purposely changed land cover to which favors storm reintensification such as open water, etc.
 
+__[Impact of Soil Moisture Initializations on WRF-Simulated North American Monsoon System](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JD033858)__
+
+This study initializes soil moisture based on five sets of experiemnts: wet, dry, normal, GLDAS, and SMAP. It was found that initial soil moisture affects precipitation through modulating both surface energy partition and atmospheric circulation. It also showed the soil memory by defining how long it takes for the differences in soil moisture from the initializations to reach zero.
+
+<p align="center">
+  <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/035ad946-980d-46a6-8dcf-e373c859091b/jgrd56795-fig-0011-m.jpg">
+</p>
 
 ### Negative feedback
 

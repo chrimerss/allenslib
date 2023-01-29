@@ -64,6 +64,14 @@ __[A global spatiotemporal analysis of inland tropical cyclone maintenance or in
 
 They classified historical TCs from 1979-2008 into warm-core TC, cold-core TC, and hybrid, and used MERRA to analyze meteorological variables. They found the 850 hPa temperature gradient to be significantly associated with TCMI, provided by latent heat fluxes.
 
+__[Quantifying Surface Energy Fluxes in the Vicinity of Inland-Tracking Tropical Cyclones](https://journals.ametsoc.org/view/journals/apme/52/12/jamc-d-13-035.1.xml)__
+
+They identified 4 storms globally and use a 1D soil model to resolve water transport with GLDAS as input forcing. They found the soil texture has large impact on heat release and thus the magnitude of re-intensification.
+
+<p align="center">
+  <img src="https://journals.ametsoc.org/view/journals/apme/52/12/full-jamc-d-13-035.1-f1.jpg">
+</p>
+
 __[PhD thesis Brown Ocean effect](https://getd.libs.uga.edu/pdfs/andersen_theresa_k_201308_phd.pdf)__
 
 Landfalling TCs are more likely to intensify over regions with above average rainfall antecedent to the warmest months of the hurricane season, which allows soils to be sufficiently warm and moist to transfer energy back to the storm.

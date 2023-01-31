@@ -125,3 +125,12 @@ The most common parameterization techniques found in the literature are (1) look
 __[When best is the enemy of good – critical evaluation of performance criteria in hydrological models (HESS)](https://hess.copernicus.org/preprints/hess-2022-380/hess-2022-380.pdf)__
 
 The authors compared a comprehensive list of evaluation factors such as NSE, KGE, KGE', and other variants to showcase their deficiencies in some extent, particularly the counter-balancing errors. Depending on the overall perspective, authors urge careful selection of evaluation criterion for hydrological model calibration and validation.
+
+__[Insights From Dayflow: A Historical Streamflow Reanalysis Dataset for the Conterminous United States WRR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR032312)__
+
+This study coupled VIC-RAPID from Lin et al. 2019, but assimilated USGS stream gauges into their modeling framework. They can obtain 50% gauges having KGE>0.5. They benchmarked on w/o data assimilation and see the improvement.
+
+<p align="center">
+  <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/b360091c-4282-4aa1-8284-2d70640dfa0b/wrcr26432-fig-0007-m.jpg">
+</p>
+

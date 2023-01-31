@@ -86,6 +86,12 @@ This study initializes soil moisture based on five sets of experiemnts: wet, dry
   <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/035ad946-980d-46a6-8dcf-e373c859091b/jgrd56795-fig-0011-m.jpg">
 </p>
 
+__[Simulating the Effects of Land Surface Characteristics on Planetary Boundary Layer Parameters for a Modeled Landfalling Tropical Cyclone  Atmosphere](https://www.mdpi.com/2073-4433/13/1/138)__
+
+This study, authors looked into four scenarios with WRF Nature Hurricane simulation - Wet Rough Run, Wet Smooth RUn, Dry Rough Run, and Dry Smooth Run by perturbing both soil moisture and roughness length (because of changes in frictional velocity).
+
+It was found that Wet Smooth run produce most intensive hurricanes by minimum pressure and wind speed. They also separated outer rainband and inner rain band to show the difference.
+
 ### Negative feedback
 
 __[Dry soils can intensify mesoscale convective systems PNAS](https://www.pnas.org/doi/10.1073/pnas.2007998117)__

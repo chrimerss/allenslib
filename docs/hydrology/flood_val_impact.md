@@ -146,6 +146,10 @@ __[Leveraging machine learning for predicting flash flood damage in the Southeas
 <img src="https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1748-9326/15/2/024011/2/erlab6eddf1_hr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1612539253&Signature=MXNSBIabN7Mrkj71QELL62I126A%3D">
 </p>
 
+__[Fluvial flood losses in the contiguous United States under climate change](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003328?af=R)__
+
+In this paper, the authors used the NWS storm reports to identify flood damages from the joint probablity of the property damage and heavy precipitation indicators. They projected future changes in flood damages under RCP4.5 and RCP8.5 for 32 GCMs used.
+
 [List of publications using ML to predict flood risks](https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1748-9326/15/2/024011/2/ERL_15_2_024011_suppdata.pdf?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1612538885&Signature=KTVxXl2J%2FXVLzEdA5HeauUEHD7k%3D)
 
 # Flood hazard, vulnerability, risk, and resilience

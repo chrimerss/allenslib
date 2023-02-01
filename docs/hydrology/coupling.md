@@ -92,6 +92,11 @@ This study, authors looked into four scenarios with WRF Nature Hurricane simulat
 
 It was found that Wet Smooth run produce most intensive hurricanes by minimum pressure and wind speed. They also separated outer rainband and inner rain band to show the difference.
 
+__[Influence of ASCAT soil moisture on prediction of track and intensity of landfall tropical cyclones](https://www.tandfonline.com/doi/full/10.1080/01431161.2022.2164232)__
+
+The authors assimilated ASCAT satellite soil moisture onto the coupled land-atmosphere model. They show the improvement of storm prediction by using observation in lieu of reanalysis data sets.
+
+
 ### Negative feedback
 
 __[Dry soils can intensify mesoscale convective systems PNAS](https://www.pnas.org/doi/10.1073/pnas.2007998117)__

@@ -220,6 +220,17 @@ A striking feature is that in Euro, flood dependence on extreme precipitation is
 
 The disconnect between precipitation extremes and flooding helps to contextualize flood trends. For example, observations indicate that annual maximum daily precipitation is increasing (Westra et al., 2013), but such a persistent increase is not found in observed annual maximum floods in Europe (Hall et al., 2014). Similarly, model simulations of European river floods at 1.5, 2, and 3 °C global warming indicate a very weak correlation between changes in precipitation extremes and changes in flood magnitudes (Thober et al., 2018). These observations are not very surprising when we consider that most annual peak floods are in fact not caused by annual peak precipitation. Our results point to the processes (snowmelt and soil moisture excess) that likely better explain flood trends in Europe (Blöschl et al., 2017).
 
+__[Controls on Flood Trends Across the United States WRR](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021WR031673)__
+
+This study integrates flood generating mechanisms into a framework to analyze flood trends based on stream gauge data. To identify antecedent conditions, they estimated the average concentration time for individual catchments based on their areas.
+
+$$t_c=0.1*A^{0.3}$$
+
+They use network analysis to cluster stream gauges based on a similarity metric, consisting of synchronization, generating process similarity, and magnitudes similarity
+
+<img width="1448" alt="image" src="https://user-images.githubusercontent.com/31950869/216780617-fe1f91a1-2dab-4a4a-81dd-2fe84cd7618e.png">
+
+
 # Flood flashiness
 
 __[Mapping Flash Flood Severity in the United States](https://journals.ametsoc.org/view/journals/hydr/18/2/jhm-d-16-0082_1.xml)__

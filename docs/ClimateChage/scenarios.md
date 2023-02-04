@@ -17,3 +17,8 @@ This is a description paper of designing ScenarioMIPs and their inter-scenario p
 <p align="center">
   <img src="https://esd.copernicus.org/articles/12/253/2021/esd-12-253-2021-f01-web.png">
 </p>
+
+
+__[Future global streamflow declines are probably more severe than previously estimated Nat Water](https://www.nature.com/articles/s44221-023-00030-7#peer-review)__
+
+In this article, the authors used historical gauges to infer streamflow elasticity around the globe. They found CMIP6 model output may provide an optimistic picture of streamflow predictions while the reconstruction of historical flow shows more severe declines.

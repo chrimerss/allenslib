@@ -66,6 +66,12 @@ The authors advocate the use of a simply model to describe complex climate chang
 
 __[Emerging trends in global freshwater availability. Nature](https://doi.org/10.1038/s41586-018-0123-1)__
 
+__[Are soils overrated in hydrology? HESS Opinions](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-125/)__
+
+The authors argue soil properties are a "consequence", rather than a "cause" of water movement. Traditional hydrology that builds on top-down approach to prescribe soils may not be sufficient according to the experiment and observations. It is not the soil that determines the hydrology, it is the interaction between ecosystem and climate.
+
+
+
 **HIGHLY RECOMMENDED**
 
 In this article, authors addressed the global map of changes in fresh water availability with satellite observations and also climate models for projection. Very detailed global-regional analysis across the all continents. The impact of elevated precipitation, human-induced irrigation(mining), climate change, glacier depletion, and so on. 

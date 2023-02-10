@@ -70,7 +70,15 @@ __[Are soils overrated in hydrology? HESS Opinions](https://egusphere.copernicus
 
 The authors argue soil properties are a "consequence", rather than a "cause" of water movement. Traditional hydrology that builds on top-down approach to prescribe soils may not be sufficient according to the experiment and observations. It is not the soil that determines the hydrology, it is the interaction between ecosystem and climate.
 
+__[Global water resources and the role of groundwater in a resilient water future Nat Reivews](https://www.nature.com/articles/s43017-022-00378-6)__
 
+This review article written by [Bridget Scanlon](https://scholar.google.com.sg/citations?user=1mmDFhcAAAAJ&hl=en&oi=ao), one of the giant in groundwater modeling and observation using GRACE.
+
+It lays out current status of challenges in water security from groundwater consumption and recharging. Also discussed current implementations of nature-based solutions. 
+
+<p align="center">
+  <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43017-022-00378-6/MediaObjects/43017_2022_378_Fig1_HTML.png?as=webp">
+</p>
 
 **HIGHLY RECOMMENDED**
 

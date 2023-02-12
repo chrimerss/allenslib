@@ -29,6 +29,13 @@ They also laid out some mainstream approaches to investigate flood regime change
 
 __[The Need for a High-Accuracy, Open-Access Global DEM](https://www.frontiersin.org/articles/10.3389/feart.2018.00225/full)__
 
+
+__[Scaling of Floods With Geomorphologic Characteristics and Precipitation Variability Across the Conterminous United States WRR](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR032815)__
+
+In this paper, the authors investigated the geomorphological impact on flood duration, peak, and volume based on a bayesian framework that used to scaling thos geomorphological factors to targets. They used a hierarchical clustering analysis to isolate regions with high dependence on each of those factors.
+
+
+
 # Canopy interception
 
 __[Canopy precipitation interception in urban forests in relation to stand structure](https://link.springer.com/article/10.1007/s11252-017-0689-7)__

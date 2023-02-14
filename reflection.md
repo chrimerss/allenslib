@@ -64,3 +64,46 @@ Authors again emphysized the underpinning importance of co-evolving modeling of 
 |24.|raising public awareness of human-induced changes in hydrological conditions|
 |25.|transboundary water resources management, and water conflicts|
 |26.|impact of large-scale water structures and large-scale water transfer|
+
+
+__[Where should hydrology go? An early-career perspective on the next IAHS Scientific Decade: 2023-2032](https://www.tandfonline.com/doi/full/10.1080/02626667.2023.2170754?src=)__
+
+Three main themes are discussed among Early Career Scientists in Europe regarding next decadal focal point of Hydrology:
+
+1. The tipping point of hydrologic science
+
+This involves three questions: How can hydrological tipping points and thresholds be identified?
+
+At what scales are the identified tipping points and thresholds relevant and how do these scales interact?
+
+Which non-hydrological tipping points affect hydrological systems?
+
+What needs to be included in hydrological models to simulate and predict tipping points and thresholds? How reliable are modelled tipping points and thresholds?
+
+How can we use our knowledge of tipping points and complex systems to mitigate the impacts of environmental and climate change?
+
+2. Intensification of water cycle
+
+What is the impact of an intensified hydrological cycle on the environment, ecosystem services and society?
+
+What areas are most at risk of the intensification of the hydrological cycle?
+
+How reliable are extreme event predictions that are based on extrapolating relatively short data series and how can this reliability be improved?
+
+How can early-warning systems be improved so that extreme events can be accurately predicted?
+
+Which mitigation strategies are suitable in the context of ongoing intensification of the hydrological cycle?
+
+3. Water services under pressure
+
+How can we assess quantitative and qualitative water availability for sustainable water services?
+
+What hydrological knowledge is missing to provide solutions to support water services?
+
+How can the development of pressures on water services be identified, monitored and predicted?
+
+What are the scales and spatiotemporal distributions of pressures on water services?
+
+<p align="center">
+  <img src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/thsj20/0/thsj20.just-accepted/02626667.2023.2170754/20230209/images/large/thsj_a_2170754_f0003_c.jpeg">
+</p>

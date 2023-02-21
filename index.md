@@ -17,12 +17,14 @@ Research Assistant, Hydrometeorology and Remote Sensing Laboratory, university o
 
 Study area: Remote Sensing, Hydrology, Hydrometeorology, Deep learning
 
-[Personal website](https://chrimerss.github.io/homepage/){: .btn .btn-blue }
+[Personal website](http://hydrors.us/){: .btn .btn-blue }
 
 
-[Goolge Scholar](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ&hl=en){: .btn .btn-green } | [Research Gate](https://www.researchgate.net/profile/Zhi_Li232){: .btn .btn-green } | [CV](https://github.com/chrimerss/allenslib/blob/master/src/resume.pdf){: .btn .btn-green } 
+[Goolge Scholar](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ&hl=en){: .btn .btn-green } | [Research Gate](https://www.researchgate.net/profile/Zhi_Li232){: .btn .btn-green } | [CV](http://129.146.44.153/?page_id=47){: .btn .btn-green } 
 
 # Publications
+
+Not updated after 2021, a full list can be seen at [Publications](http://hydrors.us/?page_id=19)
 
 Chen, M., __Li, Z.__, Gao, S., Luo, X., Wing, O. E. J., Shen, X., Gourley, J. J., Kolar, R. L., & Hong, Y. (2021). A comprehensive flood inundation mapping for Hurricane Harvey using an integrated hydrological and hydraulic model, Journal of Hydrometeorology.
 

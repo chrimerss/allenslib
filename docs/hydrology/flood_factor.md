@@ -159,11 +159,19 @@ In this paper, they investigated some determining factors related to Tropical Cy
 
 ![img](https://journals.ametsoc.org/view/journals/hydr/22/7/full-JHM-D-20-0250.1-f6.jpg)
 
-__[Tropical Cyclones' Contribution to Seasonal Precipitation and Streamflow Over the Southeastern and Southcentral United States (GRL)](chrome-extension://dagcmkpagjlhakfdhnbomgmjdpkdklff/enhanced-reader.html?openApp&pdf=https%3A%2F%2Fagupubs.onlinelibrary.wiley.com%2Fdoi%2Fpdfdirect%2F10.1029%2F2021GL094738)__
+__[Tropical Cyclones' Contribution to Seasonal Precipitation and Streamflow Over the Southeastern and Southcentral United States GRL](chrome-extension://dagcmkpagjlhakfdhnbomgmjdpkdklff/enhanced-reader.html?openApp&pdf=https%3A%2F%2Fagupubs.onlinelibrary.wiley.com%2Fdoi%2Fpdfdirect%2F10.1029%2F2021GL094738)__
 
 the authors innovatively investigated the contributions of TC to streamflow, given most of the studies focusing on TC to precipitation or other atmospheric factors. This study helps to understand the main atmospheric driver for regional flooding.
 
 As a result, TC account for 12% of seasonal streamflow and 6% of seasonal precipitation. TC constitudes over 10% of the Peak-Over-Threshold events.
+
+__[Quantifying Flood Frequency Associated with Clustered Mesoscale Convective Systems in the United States](https://journals.ametsoc.org/view/journals/hydr/23/11/JHM-D-22-0038.1.xml)__
+
+The authors used the event storm reports to link flood events with MCS clusters identified using a tracking algorithm. It is found that clustered MCS not only producing greater rainfall volumes that are conducive for flooding, but also moisten soils that generate greater surface runoff than non-clustered MCSs. It is also found that flood durations are closely related to the clustered MCSs.
+
+<p align="center">
+  <img src="https://journals.ametsoc.org/view/journals/hydr/23/11/full-JHM-D-22-0038.1-f7.jpg">
+</p>
 
 # Climate Change
 

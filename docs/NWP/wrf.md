@@ -30,3 +30,12 @@ configurations:
 In all simulations, the 6-hourly analyses from the Global Forecast System (GFS), developed by the National Centers for Environmental Prediction (NCEP), were used as the initial and boundary conditions of the model. The simulation was performed in ‘‘predictive’’ mode, with observations only updated at boundaries throughout the simulation (i.e., no observation assimilation). The simulation began at 1200 UTC 21 September 2005, and continued until 1200 UTC 25 September 2005. The model settings were based on the Noah land surface model (Chen and Dudhia 2001), the Rapid Radiative Transfer Model (RRTM) longwave radiation scheme (Mlawer et al. 1997), the Dudhia shortwave radiation model (Dudhia 1989), and the Yonsei University (YSU) planetary boundary layer scheme (Hong et al. 2006; Hong and Dudhia 2003).
 
  
+# Assimilating soil moisture into WRF framework
+
+__[Examining the Impact of SMAP Soil Moisture Retrievals on Short-Range Weather Prediction under Weakly and Strongly Coupled Data Assimilation with WRF-Noah](https://journals.ametsoc.org/view/journals/mwre/147/12/mwr-d-19-0017.1.xml)__
+
+This study provides a pseudo data assimilation of soil moisture from SMAP into WRF framework. They did cycling experiments and integration to investigate the impacts.
+
+<p align="center">
+ <img src="https://journals.ametsoc.org/view/journals/mwre/147/12/full-mwr-d-19-0017.1-f5.jpg">
+</p>

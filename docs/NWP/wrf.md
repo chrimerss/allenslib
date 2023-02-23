@@ -39,3 +39,11 @@ This study provides a pseudo data assimilation of soil moisture from SMAP into W
 <p align="center">
  <img src="https://journals.ametsoc.org/view/journals/mwre/147/12/full-mwr-d-19-0017.1-f5.jpg">
 </p>
+
+__[Soil moisture background error covariance and data assimilation in a coupled land-atmosphere model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015WR017548)__
+
+The authors used 1DVar to assimilate in-situ soil moisture into WRF model. They firstly calculated the background error produced by forecasts and update soil moisture based on cycling experiments.
+
+<p align="center">
+ <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/ba0cfb4f-b54d-4779-9874-ad8503b61ccc/wrcr22436-fig-0001-m.jpg">
+</p>

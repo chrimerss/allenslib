@@ -29,6 +29,14 @@ The authors reviewed around 300 open-source water cycle diagrams and made comple
 
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41561-019-0374-y/MediaObjects/41561_2019_374_Fig3_HTML.png?as=webp">
 
+__[Hydrologic connectivity constrains partitioning of global terrestrial water fluxes Science](https://www.science.org/doi/10.1126/science.aaa5931)__
+
+Soils evaporate only about 6% water of total water; however, plant transpiration evaporates about 65%. It is a testimony that soil is a substrate not a cause.
+
+<p align="center">
+  <img src="https://www.science.org/cms/10.1126/science.aaa5931/asset/4fdc6fdb-58ee-4924-8232-16e445d37659/assets/graphic/349_175_f3.jpeg">
+</p>
+
 [__Global Drought and Flood: Observation, Modeling, and Prediction (AGU book)__](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1002/9781119427339)
 
 1. [Progress, Challenges, and Opportunities in Remote Sensing of Drought](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch1)

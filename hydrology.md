@@ -84,6 +84,10 @@ It lays out current status of challenges in water security from groundwater cons
 
 In this article, authors addressed the global map of changes in fresh water availability with satellite observations and also climate models for projection. Very detailed global-regional analysis across the all continents. The impact of elevated precipitation, human-induced irrigation(mining), climate change, glacier depletion, and so on. 
 
+__[AI tools such as ChatGPT will disrupt hydrology, too](https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.14843)__
+
+This article articulates the caveats and opportunities of using ChatGPT in hydrology. Currently, ChatGPT has limited knowledge about hydrology (not because it does not know, but more of the ability to understands hydrologic questions). Proper use of it is imperative. However, we should perceive it as a tool instead of a threat.
+
 # Science advances
 __[Where should hydrology go? An early-career perspective on the next IAHS Scientific Decade: 2023-2032](https://eartharxiv.org/repository/view/3353/)__
 

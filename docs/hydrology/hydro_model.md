@@ -120,6 +120,12 @@ A general protocol of how to apply parameterization of earth system models in pr
 
 The most common parameterization techniques found in the literature are (1) look-up tables (LUTs), (2) manual or automatic calibration, (3) hydrologic response units (HRUs), (4) representative elementary watersheds (REWs), (5) a priori regularization functions, (6) simultaneous regionalization/regularization functions, and (7) dissimilarity-based metrics to transfer model parameters.
 
+__[A Robust Strategy to Account for Data Sampling Variability in the Development of Hydrological Models WRR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR033703)__
+
+The authors argued that traditional approaches in hydrologic calibration and validation (based on one period) cannot generalize model performance because the data sampling variability is not accounted for.
+
+In this paper, they proposed a new way to account for data sampling varibility in hydrologic model evaluation, taken the insight from stochastic gradient descent. As such, confidence is generated to address hydrologic evaluations.
+
 # Model evaluation
 
 __[When best is the enemy of good – critical evaluation of performance criteria in hydrological models (HESS)](https://hess.copernicus.org/preprints/hess-2022-380/hess-2022-380.pdf)__

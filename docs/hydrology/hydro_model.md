@@ -306,3 +306,7 @@ They classified the model domain into data-rich channel and data-sparse flood pl
 __[Improvement of Two-Dimensional Flow-Depth Prediction Based on Neural Network Models By Preprocessing Hydrological and Geomorphological Data](https://link.springer.com/article/10.1007/s11269-021-02776-9)__
 
 In this paper, the authors used a set of hydrologic variables e.g., Runoff, roughness, FAR, slope with a latent time to predict flood depth at next time step. The models they used are RNNs, benchmarked on traditional ANNs. One highlight is that they did multi-dimensional cluster to seperate the watershed into different properties based on environmental variables.
+
+__[U-FLOOD – Topographic deep learning for predicting urban pluvial flood water depth](https://www.sciencedirect.com/science/article/pii/S0022169421009483)__
+
+This paper uses a topographic deep learning approach to predict the pluvial flood hazard in urban areas. The approach consists of a convolutional neural network that takes as input a set of spatial variables derived from high-resolution topographic data and rainfall. The results are comparable against Mike model.

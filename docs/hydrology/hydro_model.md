@@ -310,3 +310,7 @@ In this paper, the authors used a set of hydrologic variables e.g., Runoff, roug
 __[U-FLOOD – Topographic deep learning for predicting urban pluvial flood water depth](https://www.sciencedirect.com/science/article/pii/S0022169421009483)__
 
 This paper uses a topographic deep learning approach to predict the pluvial flood hazard in urban areas. The approach consists of a convolutional neural network that takes as input a set of spatial variables derived from high-resolution topographic data and rainfall. The results are comparable against Mike model.
+
+__[A Framework for Modeling Flood Depth Using a Hybrid of Hydraulics and Machine Learning Sci. Rep.](https://www.nature.com/articles/s41598-020-65232-5)__
+
+The authors use ANN and RF to emulate the behavior of a 2d hydrodynamic model FaSTMECH for a short river reach in Utah.

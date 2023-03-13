@@ -84,6 +84,18 @@ __[Should flood regimes change in a warming climate? The role of antecedent mois
 
 The authors claim that antecedent soil moisture is a main driver that explains the decreasing trend in floods in some continents. They used the Antecedent Precipitation Index to approximate antecedent soil moisture using global rain gauges.
 
+# Groundwater
+
+__[Groundwater shapes North American river floods ERL](https://iopscience.iop.org/article/10.1088/1748-9326/acbecc)__
+
+This article stresses the importance of groundwater (or other antecedent catchment wetness) to flood generating by using gauged streamflow and other hydrometeorological variables.
+
+Key takeaways are:
+1. Baseflow affects the magnitude of annual flooding at time scales from days to decades
+2. Flood magnitudes are often more strongly correlated to variations in antecedent basedflow than antecedent soil moisture and short-term extreme precipitation
+3. Groundwater is important in shaping North American river floods and often decouples the spatial patterns of flood trends from those of shifting precipitation extremes and soil moisture.
+
+
 
 
 # Urbanization

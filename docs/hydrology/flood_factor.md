@@ -24,6 +24,18 @@ They also laid out some mainstream approaches to investigate flood regime change
 ![image](https://user-images.githubusercontent.com/31950869/213025531-03d32143-9266-4cbd-ae0e-f58d15a5be20.png)
 ![image](https://user-images.githubusercontent.com/31950869/213031403-3e78bacd-90f0-490b-85b9-f4a33c80af94.png)
 
+__[The Pakistan Flood of August 2022: Causes and Implications Earths Future](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EF003230)__
+
+* The August 2022 Pakistan flood was caused by multiday extreme precipitation on wet antecedent soil moisture conditions
+* The extreme precipitation in August was caused by two atmospheric rivers that passed over southern Pakistan.
+* The southern provinces of Pakistan received more than 350% of average precipitation in July and August based on the 2001–2021 mean.
+* The flood event is ranked second in human mortality and displaced about 33 million people in Pakistan.
+* The frequency of extreme weather events has considerably increased across the globe under the warming climate.
+* The impact of extreme events is unarguably the highest in the developing countries of South Asia due to higher vulnerability and exposure.
+
+<p align="center">
+  <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/58d286cc-7c34-43ea-b2f5-fc2ea0ff95a8/eft21254-fig-0003-m.jpg">
+</p>
 
 # Terrain
 

@@ -231,15 +231,7 @@ They use network analysis to cluster stream gauges based on a similarity metric,
 <img width="1448" alt="image" src="https://user-images.githubusercontent.com/31950869/216780617-fe1f91a1-2dab-4a4a-81dd-2fe84cd7618e.png">
 
 
-# Flood flashiness
 
-__[Mapping Flash Flood Severity in the United States](https://journals.ametsoc.org/view/journals/hydr/18/2/jhm-d-16-0082_1.xml)__
-
-The authors introduced the flashiness index using US-wide gauges. They analyzed the factors (e.g., seasonality, flow accumulation, etc.) associated with flashiness.
-
-__[On the Impact of Rainfall Spatial Variability, Geomorphology, and Climatology on Flash Floods - WRR](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR029124)__
-
-The author compared modelled flashiness indices to simulated flashiness indices and performed metrics analyzing the first-order dependence with rainfall variablity climatology and basin property.
 
 # Spatial dependence of flood
 

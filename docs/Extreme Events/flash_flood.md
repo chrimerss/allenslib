@@ -21,6 +21,28 @@ First study to derive the flashiness index over the continetnal US by utlizing m
   <img src="https://journals.ametsoc.org/view/journals/hydr/18/2/images/full-jhm-d-16-0082_1-f7.jpg">
 </p>
 
+
+__[On the Impact of Rainfall Spatial Variability, Geomorphology, and Climatology on Flash Floods - WRR](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR029124)__
+
+The author compared modelled flashiness indices to simulated flashiness indices and performed metrics analyzing the first-order dependence with rainfall variablity climatology and basin property.
+
+__[The Flashiest Watersheds in the Contiguous United States](https://journals.ametsoc.org/view/journals/hydr/16/6/jhm-d-14-0217_1.xml#bib20)__
+
+This article is titled “The Flashiest Watersheds in the Contiguous United States” and was written by Brianne K. Smith and James A. Smith. It was published in the Journal of Hydrometeorology. Key points:
+
+1. The authors identify the flashiest watersheds in the contiguous United States based on frequency of discharge peaks exceeding 1 m3 s−1 km−2.
+2. They used the entire digitized record of USGS instantaneous discharge data for all stream gauging stations with over 10 years of data.
+3. The flashiest basins in the contiguous United States are located in urban areas along a swath of states from the south-central United States to the mid-Atlantic and in mountainous areas of the West Coast, especially the Pacific Northwest.
+4. The authors focus on small watersheds to identify the flashiest cities and states across the country and find Tulsa, Oklahoma; Baltimore, Maryland; and St. Louis, Missouri, to be the flashiest cities in the contiguous United States.
+5. Thunderstorms are major agents for peak-over-threshold flood events east of the Rocky Mountains, and tropical cyclones play a secondary role, especially in Southeast. West Coast flood events are associated with winter storms.
+
+<p align="center">
+  <src img="https://journals.ametsoc.org/view/journals/hydr/16/6/images/full-jhm-d-14-0217_1-f2.jpg">
+</p>
+
+
+
+
 __Ombadi, M., et al. (2018). "Developing Intensity-Duration-Frequency (IDF) Curves from Satellite-based Precipitation: Methodology and Evaluation" Water Resources Research__
 
 In this paper, the author tried to develop IDF curve through 3 steps: 1. bias adjustment, 2. Point-to-Area transformation, 3. develop IDF curve with IR satellite data PERSIANN-CDR. The results are compared with NOAA Atlas 14.

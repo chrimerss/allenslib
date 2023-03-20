@@ -37,10 +37,8 @@ This article is titled “The Flashiest Watersheds in the Contiguous United Stat
 5. Thunderstorms are major agents for peak-over-threshold flood events east of the Rocky Mountains, and tropical cyclones play a secondary role, especially in Southeast. West Coast flood events are associated with winter storms.
 
 <p align="center">
-  <src img="https://journals.ametsoc.org/view/journals/hydr/16/6/images/full-jhm-d-14-0217_1-f2.jpg">
+  <img src="https://journals.ametsoc.org/view/journals/hydr/16/6/images/full-jhm-d-14-0217_1-f2.jpg">
 </p>
-
-
 
 
 __Ombadi, M., et al. (2018). "Developing Intensity-Duration-Frequency (IDF) Curves from Satellite-based Precipitation: Methodology and Evaluation" Water Resources Research__
@@ -52,29 +50,41 @@ The adjustment of bias is related to altitude because the author found the bias 
 __Maddox, R. A. Chappell, C. F. and Hoxit, L. R. (1979). "Synoptic and Meso-$\alpha$ Scale Aspects of Flash Flood Events." Foucs on Forecasting.__
 
 Author analyzed synoptic and mesoscale flash flood occuring in the US from 1973 to 77. He found that places frequently having flash flooding share the same features:
-  1. Heavy rains were produced by convective storms. (from W to E, convective storms are more dominant)
-  2. Surface dewpoint temperatures were very high.
-  3. Large moisture contents were present through a deep trpospheric layer.
-  4. Vertical wind shear was weak to moderate through the cloud depth.
+1. Heavy rains were produced by convective storms. (from W to E, convective storms are more dominant)
+2. Surface dewpoint temperatures were very high.
+3. Large moisture contents were present through a deep trpospheric layer.
+4. Vertical wind shear was weak to moderate through the cloud depth.
 
 __Dowswell III, C. A., H.E. Brooks, R.A. Maddox (1996). "Flash Flood Forecasting: An Ingredients-Based Methodology." Weather and Forecast(11): 560-581.__
 
 Key ingredients that affect flash floods:
-  1. The heaviest precipitation occurs where the rainfall rate is highest for longest time.
-  2. precipitation efficiency is important: the ratio of the mass of water falling as precipitation to the influx of water vapor loss into the cloud.
-  3. Heavy rain rates are most often occur with deep convection - the atmosphere must be conditionally unstable and significant lift must occur to lift the airmass through the level of free convection (LFC).
-  4. The heavy precipitation must remain quasi-stationary.
+1. The heaviest precipitation occurs where the rainfall rate is highest for longest time.
+2. precipitation efficiency is important: the ratio of the mass of water falling as precipitation to the influx of water vapor loss into the cloud.
+3. Heavy rain rates are most often occur with deep convection - the atmosphere must be conditionally unstable and significant lift must occur to lift the airmass through the level of free convection (LFC).
+4. The heavy precipitation must remain quasi-stationary.
 
 __[Leveraging machine learning for predicting flash flood damage in the Southeast US](https://iopscience.iop.org/article/10.1088/1748-9326/ab6edd/meta)__
 
 Environmental Research Letters
 
+
 The author attempted to train an ensemble ML models to predict the flash flood damages among which they also used ANN to fill the gaps of median household values for the U.S. citizens. They eventually achieved reasonably good result for their models. But I had some insights of it:
-
 1. For the binary classification, the author presented a ROC curve to demonstrate the accuracy but as they didn't mention the distribution of the data sample, meaning that it could be biased because of the sample distribution;
-
 2. For the regression model, I'm wondering if train the network based upon the result of classfication would be better because it is a way to reduce trainable data and also people are not aware of which no damage caused in the event;
+
+  
+
 
 __[Flash Flood Risk Assessment in the Context of Economic Change Scenarios](https://journals.ametsoc.org/view/journals/wcas/15/1/WCAS-D-21-0141.1.xml)__
 
+
 The authors used a flood inundation model to retrospectively analyze one flash flood event and associate it with economic losses. They used GDP by different CMIP models to project future economic losses by a similar event.
+
+
+__[The Paroxysmal Precipitation of the Desert: Flash Floods in the Southwestern United States WRR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025480)__
+
+* The article discusses a deadly flash flood event that occurred on September 14th, 2015 in Hildale, Utah. This event resulted in 20 fatalities and is considered the most deadly natural disaster in Utah’s history.
+* The flood was caused by a hailstorm that intensified as it interacted with complex terrain and moved rapidly from southwest to northeast.
+* The storm exhibited striking temporal variability and produced extreme precipitation over Maxwell Canyon tributary of Short Creek and a small portion of the East Fork Virgin River basin.
+* Polarimetric radar observations were used to analyze the rainfall characteristics of the storm. Periods of extreme rainfall rates were characterized by KDP signatures of extreme rainfall in polarimetric radar measurements.
+* The climatology of monsoon thunderstorms that produce flash floods exhibits striking spatial heterogeneities in storm occurrence and motion.

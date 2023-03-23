@@ -5,6 +5,19 @@ parent: Extreme Events
 nav_order: 1
 ---
 
+# Flash Flood forecast
+
+## Flash Flood guidance
+
+__[The Flash Flood Guidance System Implementation Worldwide: A Successful Multidecadal Research-to-Operations Effort](https://journals.ametsoc.org/view/journals/bams/103/3/BAMS-D-20-0241.1.xml)__
+
+* The Flash Flood Guidance System (FFGS) provides real-time assessment and guidance products to more than 60 countries, serving nearly 3 billion people.
+* The FFGS combines meteorology and hydrology data and concepts to support product utility for flash flood disaster mitigation on very large scales with high spatial and temporal resolution.
+* The FFGS integrates remotely sensed data of land surface precipitation and of land surface properties from geostationary and polar-orbiting satellite platforms, reflectivity data from a variety of weather radar systems, and asynchronous precipitation data from ground-based automated precipitation gauges in order to produce assessments and short-term forecasts that support forecasters and disaster managers in real time.
+* For each region, it also integrates mesoscale meteorological model forecasts with land surface model response to produce longer-term guidance products.
+* The FFGS contains components and interfaces that allow real-time forecaster adjustments to products based on local last-minute field information and relevant forecaster experience.
+* The article exemplifies the process of realization and evolution of the Flash Flood Guidance System (FFGS) from research in interdisciplinary fields to operations in diverse environments, and discusses lessons learned.
+
 # Flash Flood Index
 
 __Zeng, Z., et al. (2016). "A cascading flash flood guidance system: development and application in Yunnan Province, China." Natural Hazards 84(3): 2071-2093.__

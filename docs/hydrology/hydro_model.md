@@ -317,6 +317,7 @@ The authors use ANN and RF to emulate the behavior of a 2d hydrodynamic model Fa
 
 __[Rapid Spatio-Temporal Flood Modelling via Hydraulics-Based Graph Neural Networks](https://doi.org/10.5194/egusphere-2023-284)__
 
+This article is first of its kind to predict flood inundation based on solving SWE with GNN that is analogy to FV scheme.
 * The article introduces SWE-GNN, a hydraulics-inspired surrogate model based on Graph Neural Networks (GNN) that can be used for rapid spatio-temporal flood modelling.
 * The model exploits the analogy between finite volume methods, used to solve the shallow water equations (SWE), and GNNs.
 * The inputs are determined by the topographical properties of the domain and the initial hydraulic conditions.

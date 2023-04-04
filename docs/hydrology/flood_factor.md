@@ -24,6 +24,17 @@ They also laid out some mainstream approaches to investigate flood regime change
 ![image](https://user-images.githubusercontent.com/31950869/213025531-03d32143-9266-4cbd-ae0e-f58d15a5be20.png)
 ![image](https://user-images.githubusercontent.com/31950869/213031403-3e78bacd-90f0-490b-85b9-f4a33c80af94.png)
 
+
+__[Extreme flooding controlled by stream network organization and flow regime Nat Geoscience](https://www.nature.com/articles/s41561-023-01155-w#Sec5)__
+
+The authors determined how static catchment attributes determine flood divides which is a threshold to discriminate normal flooding or major flooding.
+
+* The spatial organization of stream networks and the river flow regime control the appearance of flood divides and extreme floods.
+* The propensity to generate extreme floods is well predicted by intrinsic properties of river basins.
+* It can be assessed prior to the occurrence of catastrophes through measurable metrics of these properties derived from commonly available discharge data, namely the hydrograph recession exponent and the coefficient of variation of daily flows.
+* Flood divides are effective attributes to distinguish common from increasingly extreme floods that may occur in river basins.
+* The existence and magnitude of the flood divide represent pivotal features to characterize the propensity of rivers to extreme hydrological events and raise awareness of the intrinsic peril of floods in these contexts.
+
 __[The Pakistan Flood of August 2022: Causes and Implications Earths Future](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EF003230)__
 
 * The August 2022 Pakistan flood was caused by multiday extreme precipitation on wet antecedent soil moisture conditions

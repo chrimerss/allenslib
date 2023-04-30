@@ -192,4 +192,11 @@ __[Hydroclimatic trends during 1950–2018 over global land](https://link.spring
 
 the authors updated hydroclimatologic variables: precipitation, streamflow, evaporation from the period 1950 to 2018. He specifically analyzed the historical trends over global land surface.
 
+## Dryness-wetness transition (seesaw)
+
+__[The Role of Anthropogenic Forcing in Western United States Hydroclimate Extremes](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL100659)__
+
+They defined a index called hydroclimatic intensity HYINT which is a product of mean annual precipitation intensity and mean annual number of consecutive dry days during each dry spell.
+
+The Fraction of Attributable Risk (FAR) framework is used for attributing the extreme HYINT event.
 

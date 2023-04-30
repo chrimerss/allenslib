@@ -71,6 +71,14 @@ SAR extent is relatively insensitive to changes in parameters, and potentially t
 
 To conclude, stage data help to reduce uncertainty over effective parameter specification; air photo data has similar properties as it provides aneffective surrogate measure of water surface elevation; discharge data is less effective because of the essentially mass conservative nature of the model and the flow dynamics of this particular event.
 
+__[A Framework for Mechanistic Flood Inundation Forecasting at the Metropolitan Scale](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021WR031279)__
+
+Authors simulated Hurricane Harvey in the Harris county at 3 meter resolution for a forecast model. They used, hydrometrics, auto claims and property claims to validate the model.
+
+<p align="center">
+  <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/c1e936ad-f9d7-4942-9299-7620c044a0c3/wrcr26234-fig-0005-m.jpg">
+</p>
+
 ## Flood extent map
 
 ### Crowdsourcing data

@@ -20,6 +20,18 @@ __[The Flash Flood Guidance System Implementation Worldwide: A Successful Multid
 
 # Flash Flood Index
 
+__[The development of a flash flood severity index](https://www.sciencedirect.com/science/article/pii/S002216941630186X)__
+
+A meta analysis of a workshop regarding how to determine flash flood severity index. They tentatively a quanlitative method to describe it. 
+
+|Category|Impact|
+|--------|------|
+|1-Minor flood|River/creek overflowing; cropland/yard/basement flooding|
+|2-Moderate flood|	Street/road flooding; road closures|
+|3=Serious flood|Vehicles, homes and/or buildings inundated with water; road/bridge damage|
+|4-Severe flood|Vehicles and/or mobile homes swept away|
+|5-Catastropic flood|Buildings/Large infrastructures submerged; permanent homes swept away|
+
 __Zeng, Z., et al. (2016). "A cascading flash flood guidance system: development and application in Yunnan Province, China." Natural Hazards 84(3): 2071-2093.__
 
 In this paper, the author proposed a framework which integrates data from precipitation, DEM, GPD etc. With these information, they take advantage of information entropy approach to assign different weights to each category. After that, they came up with an index map covering Yunnan province in China to assess the susceptibility of flash flood.

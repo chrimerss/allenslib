@@ -32,9 +32,21 @@ A meta analysis of a workshop regarding how to determine flash flood severity in
 |4-Severe flood|Vehicles and/or mobile homes swept away|
 |5-Catastropic flood|Buildings/Large infrastructures submerged; permanent homes swept away|
 
+__[Assessment of Vulnerability to Extreme Flash Floods in Design Storms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3155336/)__
+
+In this article, the authors quantified the flash flood index by taking three terms into account: Rising Curve Gradient, Peak Discharge Magnitude, and Flood Response time. They also mapped Flashiness Index - Intensity - Duration - Frequency curves based on flood hydrograph but the shape is not similar to rainfall IDF curve.
+
+$$RF=\frac{RK+RM+RT}{3}*100%$$
+
+<p align="center">
+  <img src="https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=660144&s=26&r=1&c=5">
+</p>
+
 __Zeng, Z., et al. (2016). "A cascading flash flood guidance system: development and application in Yunnan Province, China." Natural Hazards 84(3): 2071-2093.__
 
 In this paper, the author proposed a framework which integrates data from precipitation, DEM, GPD etc. With these information, they take advantage of information entropy approach to assign different weights to each category. After that, they came up with an index map covering Yunnan province in China to assess the susceptibility of flash flood.
+
+
 
 <img src="../../src/flashflood_Framework.png"> 
 

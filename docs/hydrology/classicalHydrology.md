@@ -135,6 +135,10 @@ __[Developments in hydrometric network design: A review (Rev. Geophys.)](https:/
 
 The number of hydrometric networks or gauges have been under a decline in a lot of countries in recent years.
 
+__[Global Evaluation of Runoff Simulation From Climate, Hydrological and Land Surface Models](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021WR031817)__
+
+Our results show that (a) no model performs consistently better in estimating runoff from all aspects, and all models tend to perform better in more humid regions and non-cold areas; (b) the interannual runoff variability is well represented in ISIMIP2a and GLDAS models, and no model performs satisfactorily in capturing the annual runoff trend; (c) the runoff intra-annual cycle is reasonably captured by all models yet an overestimation of intra-annual variability and an early bias in peak flow timing are commonly found; and (d) model uncertainty leads to a larger uncertainty in runoff estimates than that induced by forcing uncertainty in ISIMIP2a, and model uncertainty in GLDAS is larger than that in ISIMIP2a.
+
 
 # Hydrologic Regionalization
 

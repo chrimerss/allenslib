@@ -97,6 +97,14 @@ The dataset used in the global land surface precipitation is GPCC Version 5.
 
 They set criteria to check stationarity: 1) the mean of annual precipitation is constant and 2) the autocorrelation only depends on the relative position in the time series.
 
+__[Positive correlation between wet-day frequency and intensity linked to universal precipitation drivers Nat Geosci.](https://www.nature.com/articles/s41561-023-01177-4?utm_source=ngeo_etoc&utm_medium=email&utm_campaign=toc_41561_16_5&utm_content=20230512)__
+
+This is a work to show a phrase that "when it rains more often, it rains harder". They used satellite precipitaiton products as well as reanalysis products ERA5. They provided some speculations about this statement by using CAPE to explain that regions with higher updraft tend to rain more often and harder.
+
+<p align="center">
+  <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41561-023-01177-4/MediaObjects/41561_2023_1177_Fig1_HTML.png?as=webp">
+</p>
+
 # How to define extreme rainfall events?
 
 __Stevenson, S.N. and R.S. Schumacher, 2014: A 10-Year Survey of Extreme Rainfall Events in the Central and Eastern United States Using Gridded Multisensor Precipitation Analyses. Mon. Wea. Rev., 142, 3147–3162, https://doi.org/10.1175/MWR-D-13-00345.1__

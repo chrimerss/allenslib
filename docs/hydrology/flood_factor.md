@@ -321,6 +321,12 @@ This paper answers the call "If temperature increases, why not floods?". In lite
 
 A companion comment paper is also published in NCC __[Floods differ in a warmer future](https://www.nature.com/articles/s41558-022-01541-z)__
 
+__[Multi-model ensemble projections of European river floods and high flows at 1.5, 2, and 3 degrees global warming ERL](https://iopscience.iop.org/article/10.1088/1748-9326/aa9e35)__
+
+This paper projects future EU floods under three warming levels based on five CMIP5 models and three hydrologic models. They quantified the contribution of uncertainties due to GCM and HM. It was found that for flooding, significant of uncertainties lie in HMs, suprisingly. Mostly high flows are reducing as the warming level increases in most EU.
+
+
+
 ## Regional
 
 __[An extremeness threshold determines the regional response of floods to changes in rainfall extremes](https://www.nature.com/articles/s43247-021-00248-x)__

@@ -7,6 +7,14 @@ nav_order: 1
 
 # Flash Flood forecast
 
+__[A review of advances in flash flood forecasting](https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.8040)__
+
+<p align="center>
+<img src="https://onlinelibrary.wiley.com/cms/asset/cdb674c2-9b70-4266-a698-ef801f99f8f7/mfig005.jpg">
+</p>
+
+
+
 ## Flash Flood guidance
 
 __[The Flash Flood Guidance System Implementation Worldwide: A Successful Multidecadal Research-to-Operations Effort](https://journals.ametsoc.org/view/journals/bams/103/3/BAMS-D-20-0241.1.xml)__

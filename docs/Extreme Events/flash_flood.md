@@ -9,7 +9,7 @@ nav_order: 1
 
 __[A review of advances in flash flood forecasting](https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.8040)__
 
-<p align="center>
+<p align="center">
 <img src="https://onlinelibrary.wiley.com/cms/asset/cdb674c2-9b70-4266-a698-ef801f99f8f7/mfig005.jpg">
 </p>
 

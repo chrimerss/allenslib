@@ -133,3 +133,12 @@ __[The Paroxysmal Precipitation of the Desert: Flash Floods in the Southwestern 
 * The storm exhibited striking temporal variability and produced extreme precipitation over Maxwell Canyon tributary of Short Creek and a small portion of the East Fork Virgin River basin.
 * Polarimetric radar observations were used to analyze the rainfall characteristics of the storm. Periods of extreme rainfall rates were characterized by KDP signatures of extreme rainfall in polarimetric radar measurements.
 * The climatology of monsoon thunderstorms that produce flash floods exhibits striking spatial heterogeneities in storm occurrence and motion.
+
+
+# Flash Flood Warning and Communication
+
+__[Rebecca Morss at NCAR](https://scholar.google.com.sg/citations?user=v1D1YdsAAAAJ&hl=en&oi=ao)__ who wrote a lot of papers about extreme weather risk communications through surveys and mental models, below listed are two:
+
+1. __[How do people perceive, understand, and anticipate responding to flash flood risks and warnings? Results from a public survey in Boulder, Colorado, USA](https://www.sciencedirect.com/science/article/pii/S0022169415009348)__
+2. __[“Know What to Do If You Encounter a Flash Flood”: Mental Models Analysis for Improving Flash Flood Risk Communication and Public Decision Making](https://onlinelibrary.wiley.com/doi/full/10.1111/risa.12480)__
+3. __[Flood Risk, Uncertainty, and Scientific Information for Decision Making: Lessons from an Interdisciplinary Project](https://journals.ametsoc.org/view/journals/bams/86/11/bams-86-11-1593.xml)__

@@ -19,6 +19,10 @@ By JJ and Humberto who compared four threshold-based system for flash flood fore
 
 It was found that the relative ETS values increased with the sophistication of the flash flooding products.
 
+<p align="center">
+<img src="https://journals.ametsoc.org/view/journals/hydr/22/3/full-JHM-D-20-0215.1-f6.jpg">
+</p>
+
 ## Flash Flood guidance
 
 __[The Flash Flood Guidance System Implementation Worldwide: A Successful Multidecadal Research-to-Operations Effort](https://journals.ametsoc.org/view/journals/bams/103/3/BAMS-D-20-0241.1.xml)__

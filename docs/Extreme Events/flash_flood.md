@@ -13,7 +13,11 @@ __[A review of advances in flash flood forecasting](https://onlinelibrary.wiley.
 <img src="https://onlinelibrary.wiley.com/cms/asset/cdb674c2-9b70-4266-a698-ef801f99f8f7/mfig005.jpg">
 </p>
 
+__[Comments on “Flash Flood Verification: Pondering Precipitation Proxies”](https://journals.ametsoc.org/view/journals/hydr/22/3/JHM-D-20-0215.1.xml)__
 
+By JJ and Humberto who compared four threshold-based system for flash flood forecast accuracy: 1) MRMS dual-pol, radar-only QPEs; 2) ARIs of rainfall; 3) ratios of QPE to FFG; and 4) unit streamflow from the Sacramento Soil Moisture Accounting (SAC-SMA) mode.
+
+It was found that the relative ETS values increased with the sophistication of the flash flooding products.
 
 ## Flash Flood guidance
 

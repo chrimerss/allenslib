@@ -26,6 +26,15 @@ __[A Comprehensive Assessment of Floodwater Depth Estimation Models in Semiarid 
 The authors compared three types of inundation models based on DEM: HAND, TVD, and FwDET. It shows HAND and TVD overestimate floodwater depth while FwDET underestimate, as compared to hydrodynamic model outputs.
 
 
+__[Recent Advances and New Frontiers in Riverine and Coastal Flood Modeling Rev. Geophysics](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022RG000788)__
+
+It discusses in detail the flood driving factors and recent advances in hydrologic / hydrodynamic model development.
+
+<p align="center">
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/ae957884-23f6-4882-b62e-74ca026e5d3e/rog20329-fig-0001-m.jpg">
+</p>
+
+
 ![Conceptual](https://agupubs.onlinelibrary.wiley.com/cms/asset/2e74592b-7bf5-43ae-9e48-436ab1308f7b/wrcr26287-fig-0002-m.jpg)
 
 

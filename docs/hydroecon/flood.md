@@ -9,7 +9,7 @@ Some renowned researchers in this field:
 
 __[Dabo Guan](https://scholar.google.com.sg/citations?user=tvJSBWUAAAAJ&hl=en&oi=ao)__
 
-__[David Mendoza Tinoco](https://scholar.google.com/citations?user=g49DLJkAAAAJ&hl=es)__
+__[David Mendoza Tinoco](https://scholar.google.com/citations?user=g49DLJkAAAAJ&hl=es)__ who invented this concept
 
 
 # Indirect flood damage assessment

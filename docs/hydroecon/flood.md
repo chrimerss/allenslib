@@ -29,5 +29,5 @@ __Indirect impacts are calculated by using a recursive dynamic multiregional sup
 For the direct damages, they used the depth-damage curve.
 
 <p align="center">
-<src img="https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1748-9326/14/8/084042/revision2/erlab3306f1_hr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1691095473&Signature=RVbgWxE9yEv%2BZEWRa3qtl7ZIIl4%3D">
+<img src="https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1748-9326/14/8/084042/revision2/erlab3306f1_hr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1691095473&Signature=RVbgWxE9yEv%2BZEWRa3qtl7ZIIl4%3D">
 </p>

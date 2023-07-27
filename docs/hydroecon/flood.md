@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Flood Footprint Analysis
-parent: hydroecon
+parent: Hydroeconomics
 nav_order: 1
 ---

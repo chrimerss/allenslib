@@ -5,6 +5,13 @@ parent: Urban
 nav_order: 3
 ---
 
+__[A review of recent advances in urban flood research](https://www.sciencedirect.com/science/article/pii/S2468312423000093)__
+
+They reviewed ~200 articles that address specifically urban flooding from its mechanisms and flood models.
+
+<p align="center">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S2468312423000093-gr1_lrg.jpg">
+</p>
 
 # Urban surface water flood modeling
 

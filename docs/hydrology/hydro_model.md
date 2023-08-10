@@ -28,7 +28,7 @@ The authors compared three types of inundation models based on DEM: HAND, TVD, a
 
 __[Recent Advances and New Frontiers in Riverine and Coastal Flood Modeling Rev. Geophysics](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022RG000788)__
 
-It discusses in detail the flood driving factors and recent advances in hydrologic / hydrodynamic model development.
+A review paper, It discusses in detail the flood driving factors and recent advances in hydrologic / hydrodynamic model development.
 
 <p align="center">
 <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/ae957884-23f6-4882-b62e-74ca026e5d3e/rog20329-fig-0001-m.jpg">

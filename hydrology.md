@@ -37,6 +37,18 @@ Soils evaporate only about 6% water of total water; however, plant transpiration
   <img src="https://www.science.org/cms/10.1126/science.aaa5931/asset/4fdc6fdb-58ee-4924-8232-16e445d37659/assets/graphic/349_175_f3.jpeg">
 </p>
 
+## Hydrologic uncertainty
+
+__[A philosophical basis for hydrological uncertainty](https://www.tandfonline.com/doi/full/10.1080/02626667.2016.1183009?src=recsys)__
+
+By Grey Nearing, Hoshin Gupta, Martyn Clark et al.
+
+Indeed, concepts such as hazard and uncertainty as well as safety, reliability and credibility are not defined until a given scientific method is chosen … (Schlesinger 1975).
+
+__uncertainty is the difference between the (unknown) actual truth-value of some Aristotelian proposition and our state of belief about that truth-value.__
+
+They break down the uncertainty into 1. the finite experiment problem, 2. the finite hypotheses problem, and 3. the duhem-quine problem (that is essentially there is a collection of hypotheses and you cannot single them out).
+
 [__Global Drought and Flood: Observation, Modeling, and Prediction (AGU book)__](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1002/9781119427339)
 
 1. [Progress, Challenges, and Opportunities in Remote Sensing of Drought](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch1)
@@ -67,6 +79,8 @@ Cases of bias:
 2. boundary feedbacks for RCM, which is strongly sensitive to model physics.
 3. climate variability (model simulation cannot represent the full length of climate)
 4. uncertainty using RCM to drive hydrologic model
+
+
 
 __[The terrestrial water cycle in a warming world. Nat. Clim. Chang.](https://doi.org/10.1038/s41558-022-01412-7)__
 

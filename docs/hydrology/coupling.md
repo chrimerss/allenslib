@@ -96,6 +96,14 @@ __[Influence of ASCAT soil moisture on prediction of track and intensity of land
 
 The authors assimilated ASCAT satellite soil moisture onto the coupled land-atmosphere model. They show the improvement of storm prediction by using observation in lieu of reanalysis data sets.
 
+__[Soil heat extremes can outpace air temperature extremes Nat Clim Chan](https://www.nature.com/articles/s41558-023-01812-3)__
+
+In this article, the authors explained the soil moisture/temperature and air temperature feedback. But more importantly, they revealed that warm soil surface will contribute to heat extremes in the form of sensible heat, and such increasing trend in soil heat extremes is observed from in-situ measurements and satellite measures, and forecasted to increase in the future as well.
+
+<p align="center">
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-023-01812-3/MediaObjects/41558_2023_1812_Fig2_HTML.png?as=webp">
+</p>
+
 
 ### Negative feedback
 

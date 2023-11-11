@@ -90,6 +90,16 @@ __[A Physically Based Runoff Routing Model for Land Surface and Earth System Mod
 
 # Improvement to hydrologic processes
 
+## Coupling Atmospheric processes
+
+__[The directional unit hydrograph model: Connecting streamflow response to storm dynamics](https://www.sciencedirect.com/science/article/pii/S0022169423013641#:~:text=The%20Directional%20Unit%20Hydrograph%20quantifies,resonate%20to%20maximize%20peak%20flows.)__
+
+This is an interesting piece because traditionally, we think hydrologic process is governed by land surface properties, geomorphology, physiography, etc. This study proposes to represent storm motion into instantaneous unit hydrograph computation.
+
+<p align="center">
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0022169423013641-gr1_lrg.jpg">
+</p>
+
 ## Surface-groundwater exchange
 
 __[Representation of bi-directional fluxes between groundwater and surface water in a bucket type hydrologic model - WRR](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR028835)__

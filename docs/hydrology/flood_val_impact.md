@@ -169,3 +169,7 @@ In this paper, the authors reviewed a set of literatures that concern the flood 
 __[Flood resilience: a systematic review, Journal of Environmental Planning and Management](https://www.tandfonline.com/doi/full/10.1080/09640568.2019.1641474)__
 
 Kerri McClymont, David Morrison, Lindsay Beevers & Esther Carmen (2020) Flood resilience: a systematic review, Journal of Environmental Planning and Management, 63:7, 1151-1176, DOI: 10.1080/09640568.2019.1641474
+
+__[Water-related disasters and their health impacts: A global review](https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S2590061720300600)__
+
+This paper introduces flood impacts on human health including waterborne diseases (GI) disasese, vector-borne diseases, and mental health, etc.

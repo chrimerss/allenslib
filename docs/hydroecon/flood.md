@@ -18,6 +18,10 @@ Direct flood cost is tangible cost, such as building submerged, fatalities, or c
 
 Indirect cost, on the other hand, is invisible, such as wages, impairment of supply chain network, etc.
 
+__[Flood Footprint Assessment: A Multiregional Case of 2009 Central European Floods](https://web.archive.org/web/20211206191008id_/https://onlinelibrary.wiley.com/doi/pdf/10.1111/risa.13497#:~:text=The%20flood%20footprint%20is%20an%20impact%20accounting,assess%20the%20physical%20damage%20(direct)%20and%20production)__
+
+A literature review of flood footprint analysis including economic models used for disaster damage assessment.
+
 __[The macroeconomic impacts of future river flooding in Europe ERL](https://iopscience.iop.org/article/10.1088/1748-9326/ab3306)__
 
 The authors claim that the indirect cost during flooding could be as twice as direct cost.

@@ -13,6 +13,10 @@ The author collected questionnaire surveys and constructed a relationship betwee
 
 __[Economic motivation for raising coastal flood defenses in Europe Nat. Communication](https://www.nature.com/articles/s41467-020-15665-3)__
 
+__[Modelling the behaviour of corporations during the flood damage recovery process using multi-agent deep reinforcement learning](https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12845)__
+
+They used flood inundation modeling results overlaid with corporate behaviors during flooding and optimized their strategy using multi-agent modeling.
+
 Some renowned researchers in this field:
 
 __[Dabo Guan](https://scholar.google.com.sg/citations?user=tvJSBWUAAAAJ&hl=en&oi=ao)__

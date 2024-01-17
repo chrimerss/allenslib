@@ -11,6 +11,8 @@ __[Establishment of flood damage function models: A case study in the Bago River
 
 The author collected questionnaire surveys and constructed a relationship between flood damage and water height.
 
+__[Economic motivation for raising coastal flood defenses in Europe Nat. Communication](https://www.nature.com/articles/s41467-020-15665-3)__
+
 Some renowned researchers in this field:
 
 __[Dabo Guan](https://scholar.google.com.sg/citations?user=tvJSBWUAAAAJ&hl=en&oi=ao)__

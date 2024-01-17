@@ -5,6 +5,12 @@ parent: Hydroeconomics
 nav_order: 1
 ---
 
+# Flood damage curve
+
+__[Establishment of flood damage function models: A case study in the Bago River Basin, Myanmar](https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S2212420918301122?via%3Dihub)__
+
+The author collected questionnaire surveys and constructed a relationship between flood damage and water height.
+
 Some renowned researchers in this field:
 
 __[Dabo Guan](https://scholar.google.com.sg/citations?user=tvJSBWUAAAAJ&hl=en&oi=ao)__

@@ -230,8 +230,17 @@ They use network analysis to cluster stream gauges based on a similarity metric,
 
 <img width="1448" alt="image" src="https://user-images.githubusercontent.com/31950869/216780617-fe1f91a1-2dab-4a4a-81dd-2fe84cd7618e.png">
 
+__[Agricultural expansion raises groundwater and increases flooding in the South American plains Science](https://www.science.org/doi/10.1126/science.add5462)__
 
+This article briefly brought up the concern that transforming natural vegetation to rainfed croplands make South America's sedimentary plains more flood prone, because of increase in local groundwater table. And this increase in waterlogging is not explained by precipitation variability. 
 
+<p align="center">
+<img src="https://www.science.org/cms/10.1126/science.add5462/asset/15f2956b-dcc6-4465-a744-b3ce22850178/assets/images/large/science.add5462-f1.jpg">
+</p>
+
+<p align="center">
+<img src="https://www.science.org/cms/10.1126/science.add5462/asset/59c06a17-091e-4edd-98b9-737af25a3675/assets/images/large/science.add5462-f4.jpg">
+</p>
 
 # Spatial dependence of flood
 

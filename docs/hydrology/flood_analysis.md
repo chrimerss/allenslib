@@ -205,11 +205,11 @@ Three major flood driving mechanisms are identified:
 
 They also quantified flood seasonality with circular method.
 <p align="center">
-<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/df4b1aea-cb26-4d68-a916-4f6879ede2ca/wrcr23990-fig-0001-m.png">
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/4fe10a99-b96d-458d-831d-135e504c424e/wrcr23990-fig-0001-m.jpg">
 </p>
 
 <p align="center">
-<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/adaf1d3a-6ef0-4864-a35b-110f9ea18df8/wrcr23990-fig-0002-m.png">
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/4fe10a99-b96d-458d-831d-135e504c424e/wrcr23990-fig-0002-m.png">
 </p>
 
 A striking feature is that in Euro, flood dependence on extreme precipitation is weak while it is more or less based off snowmelt and soil moisture excess (most important).

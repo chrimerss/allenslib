@@ -215,7 +215,7 @@ They also quantified flood seasonality with circular method.
 A striking feature is that in Euro, flood dependence on extreme precipitation is weak while it is more or less based off snowmelt and soil moisture excess (most important).
 
 <p align="center">
-<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/c0cda346-2de5-48e3-97dc-020d74763235/wrcr23990-fig-0003-m.png">
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/4fe10a99-b96d-458d-831d-135e504c424e/wrcr23990-fig-0003-m.png">
 </p>
 
 The disconnect between precipitation extremes and flooding helps to contextualize flood trends. For example, observations indicate that annual maximum daily precipitation is increasing (Westra et al., 2013), but such a persistent increase is not found in observed annual maximum floods in Europe (Hall et al., 2014). Similarly, model simulations of European river floods at 1.5, 2, and 3 °C global warming indicate a very weak correlation between changes in precipitation extremes and changes in flood magnitudes (Thober et al., 2018). These observations are not very surprising when we consider that most annual peak floods are in fact not caused by annual peak precipitation. Our results point to the processes (snowmelt and soil moisture excess) that likely better explain flood trends in Europe (Blöschl et al., 2017).

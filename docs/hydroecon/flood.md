@@ -4,6 +4,13 @@ title: Flood Footprint Analysis
 parent: Hydroeconomics
 nav_order: 1
 ---
+# Flood and economics
+
+__[The wider the gap between rich and poor the higher the flood mortality Nat. Sustainability](https://www.nature.com/articles/s41893-023-01107-7)__
+
+"When there is rain or snow, you can make more money"
+
+The authors looked into economic inequalities like the Gini index associated with flood mortalities.
 
 # Flood damage curve
 

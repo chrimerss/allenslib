@@ -9,6 +9,8 @@ __[Hydrogeological Research: Beginning of the End or End of the Beginning?](http
 
 __[Citation data analysis on hydrogeology](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.20526?casa_token=CxtxtsGvKxgAAAAA%3A6-7GZMJZEn7vuJoTzfKOpGekjkwy-v6_YYIAyGtZLR-SKMKM--p9lO6BBwIP3HuoY_UJn3I_ejBffFI)__
 
+the citation of a paper is classified into four stages - embryonic, growing, maturity, and aging, like system products.
+
 <p align="center">
 <img src="https://onlinelibrary.wiley.com/cms/asset/2bca519d-9743-409a-981d-69ae5f8d3e8e/mfig001.jpg">
 </p>

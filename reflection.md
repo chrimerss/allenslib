@@ -26,6 +26,10 @@ The essence of research lies in the people who carry it out. Breakthroughs in re
 |1990–2010 Geosciences Era|	Climate change, ecosystem health|	Remote sensing, internet|	Interdisciplinarity allows more accurate representation of complex processes|	Controls on spatial patterns of soil moisture	|Coupled process models, model chains, climate scenarios, data assimilation|	Quasi-stationary coupling misses long term dynamics|
 |2010–2030 Coevolution Era|Sustainable development given dominant human footprint|	Big data, faster computers, finer resolution remote sensing|	Including feedbacks explicitly promises predictability over decades/centuries|	Root adaptation to climate, levee effect of people moving into floodplains|	Models representing catchments as complex systems (linking time scales)|	Parameters of complex systems cannot be measured, spatial feedbacks missed|
 
+<p align="center">
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/00aac15a-8d41-4369-8495-77d0497cc449/wrcr22902-fig-0001-m.jpg">
+</p>
+
 
 __[“Panta Rhei—Everything Flows”: Change in hydrology and society—The IAHS Scientific Decade 2013–2022](https://www.tandfonline.com/doi/full/10.1080/02626667.2013.809088)__
 

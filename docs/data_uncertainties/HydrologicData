@@ -1,0 +1,15 @@
+---
+layout: default
+title: Hydrologic data
+parent: Data Uncertainties
+nav_order: 4
+---
+
+
+# Worth of data
+
+__[When enough is enough: The worth of monitoring data in aquifer remediation design](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/94WR01972?saml_referrer)__
+
+This is a paper from Steve that he worked to find out where and when to deploy data collection so that both the sampling uncertainty and economic cost are reduced.
+
+Even this was applied in groundwater contamination data, it can be applied to other hydrologic data design such as streamflow, rainfall, and many others.

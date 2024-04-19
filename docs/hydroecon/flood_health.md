@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flood impact on human health
-parent: Hydroeconomics
+parent: HydroSocioeconomics
 nav_order: 2
 ---
 

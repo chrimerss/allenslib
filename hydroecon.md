@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hydroeconomics
+title: HydroSocioeconomics
 permalink: /hydroecon/
 has_children: true
 nav_order: 10

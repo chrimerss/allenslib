@@ -208,6 +208,12 @@ The authors used the event storm reports to link flood events with MCS clusters 
   <img src="https://journals.ametsoc.org/view/journals/hydr/23/11/full-JHM-D-22-0038.1-f7.jpg">
 </p>
 
+__[Atmospheric rivers induced heavy precipitation and flooding in the western U.S. simulated by the WRF regional climate model GRL](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GL036445)__
+
+This was written by Ruby Leung in 2006. This study investigates how atmospheric rivers compounded with different antecedent land surface conditions can exacerbate flood conditions on the West Coast. It uses a 20-year WRF simulation in tandem with event-based analysis.
+
+"For precipitation to generate floods, our results underscore the important role of antecedent soil moisture, as well as precipitation phase (or snow level), which depends on temperature, and possibly melting of existing snowpack due to rain-on-snow. For a climate simulation to realistically characterize extreme precipitation and flood in the western U.S., the model must be able to simulate AR and its atmospheric structures, as well as the land surface conditions. "
+
 # Climate Change
 
 __[Continental‑scale convection‑permitting modeling of the current and future climate of North America](https://link.springer.com/article/10.1007/s00382-016-3327-9)__

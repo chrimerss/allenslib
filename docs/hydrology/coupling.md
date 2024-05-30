@@ -150,3 +150,17 @@ Idealized soil-moisture-induced flows (blue arrows) under light synoptic winds (
 __[Drought self-propagation in drylands due to land–atmosphere feedbacks](https://www.nature.com/articles/s41561-022-00912-7)__
 
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41561-022-00912-7/MediaObjects/41561_2022_912_Fig4_HTML.png?as=webp">
+
+## Water vapor residence/depletion time
+
+__[A revised picture of the atmospheric moisture residence time](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015gl067449)__
+
+In this paper, the authors compared two different approaches to look at global water vapor residence time - a Lagrangian approach and an Eulerian approach. They found sizeable differences between the two approaches to depict global water vapor residence time.
+
+The schematic shows how a Lagrangian approach work:
+
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/42838dc7-8932-4d3e-8221-cddbde364e22/grl53937-fig-0001-m.jpg">
+
+The global distribution of water vapor residence time:
+
+<img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/602b7fc7-6a97-4d89-a45f-b09ee228467c/grl53937-fig-0002-m.jpg">

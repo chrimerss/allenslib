@@ -111,3 +111,9 @@ What are the scales and spatiotemporal distributions of pressures on water servi
 <p align="center">
   <img src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/thsj20/0/thsj20.just-accepted/02626667.2023.2170754/20230209/images/large/thsj_a_2170754_f0003_c.jpeg">
 </p>
+
+__[Barriers to progress in distributed hydrological modelling](https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.10434)__
+
+Authors mention the main barriers to hydrological modeling, which is that no one seems to care about whether the model is capable of representing a wide-range of hydrological processes, and instead, they often assume that models can be justified through calibration.
+
+Another barrier is data which hinders model validation.

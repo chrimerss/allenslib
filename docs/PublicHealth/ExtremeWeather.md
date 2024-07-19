@@ -37,3 +37,13 @@ Late (>10 d after event)
  Hepatitis A or E virus infection  
  Mental health disorders, including posttraumatic stress disorder and depression  
  Management of chronic disease  
+
+
+ __[Climate-sensitive disease outbreaks in the aftermath of extreme climatic events: A scoping review](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00144-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590332222001440%3Fshowall%3Dtrue)__
+
+ This article comprehensively discussed infectious diseases outbreak associated with climate extremes such as flooding. They articulated the conditions that are conducive for disease outbreak.
+
+
+ __[Association of natural flood disasters with infectious diseases in 168 countries and territories from 1990 to 2019: A worldwide observational study](https://www.sciencedirect.com/science/article/pii/S258979182300021X?via%3Dihub)__
+
+In the multivariable models, increased number of new cases of acute hepatitis A, acute hepatitis E, dengue, malaria, measles, meningitis, typhoid and paratyphoid, tuberculosis, and upper respiratory infections were significantly correlated with the longer duration of floods (all p < 0.05). Increased lasting days of flooding were associated with increased number of deaths from lower respiratory tract infections (0.173%), measles (0.126%), typhoid and paratyphoid (0.043%), tetanus (0.245%), and tuberculosis (0.154%, all p < 0.05).

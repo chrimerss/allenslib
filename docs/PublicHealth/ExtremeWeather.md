@@ -47,3 +47,9 @@ Late (>10 d after event)
  __[Association of natural flood disasters with infectious diseases in 168 countries and territories from 1990 to 2019: A worldwide observational study](https://www.sciencedirect.com/science/article/pii/S258979182300021X?via%3Dihub)__
 
 In the multivariable models, increased number of new cases of acute hepatitis A, acute hepatitis E, dengue, malaria, measles, meningitis, typhoid and paratyphoid, tuberculosis, and upper respiratory infections were significantly correlated with the longer duration of floods (all p < 0.05). Increased lasting days of flooding were associated with increased number of deaths from lower respiratory tract infections (0.173%), measles (0.126%), typhoid and paratyphoid (0.043%), tetanus (0.245%), and tuberculosis (0.154%, all p < 0.05).
+
+__[Emergency department visits associated with satellite observed flooding during and following Hurricane Harvey](https://www.nature.com/articles/s41370-021-00361-1)__
+
+This article, the authors used emergency visit data to explore the relation between floods and health records. Some boosted numbers of diseases / injuries are shown below.
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41370-021-00361-1/MediaObjects/41370_2021_361_Fig3_HTML.png?as=webp">

@@ -15,6 +15,10 @@ In this paper, the authors used CHIRPS as an environmental variable and Demograp
 
 # Flood and health risk
 
+__[The Human Impact of Floods: a Historical Review of Events 1980-2009 and Systematic Literature Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3644291/#:~:text=Findings.,the%20injured%20and%20affected%20populations)__
+
+This is a literature review of health impact of floods, particularly on injuries and deaths. 
+
 __[Health Risks of Flood Disasters](https://academic.oup.com/cid/article/67/9/1450/4945455?login=false)__
 
 This article discuessed potential health risks aftermath of a flood event. It mentioned the time lag between flood event and those diseases.

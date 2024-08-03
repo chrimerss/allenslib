@@ -6,6 +6,10 @@ nav_order: 1
 ---
 # Flood and economics
 
+__[Heidi Kreibich](https://scholar.google.com.sg/citations?hl=en&user=UH26sowAAAAJ)__ 
+
+Estimating flood damages
+
 __[The wider the gap between rich and poor the higher the flood mortality Nat. Sustainability](https://www.nature.com/articles/s41893-023-01107-7)__
 
 "When there is rain or snow, you can make more money"

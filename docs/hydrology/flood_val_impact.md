@@ -173,3 +173,11 @@ Kerri McClymont, David Morrison, Lindsay Beevers & Esther Carmen (2020) Flood re
 __[Water-related disasters and their health impacts: A global review](https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S2590061720300600)__
 
 This paper introduces flood impacts on human health including waterborne diseases (GI) disasese, vector-borne diseases, and mental health, etc.
+
+
+# Flood equity
+
+__[Eric Tate](https://scholar.google.com.sg/citations?user=PXKoFoIAAAAJ&hl=en&oi=ao)__ had a lot of work on community vulnerability to floods and flood-induced equity issues.
+
+
+

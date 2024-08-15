@@ -119,6 +119,18 @@ The Early-Career community proposed three themes to work on for the next decade:
 3. water services under pressure
 
 
+__[Water shortages worsened by reservoir effects Nat. Sustainability](https://www.nature.com/articles/s41893-018-0159-0)__
+
+Authors in this paper argued that water storage can be negatively affected by construction of dams and reservoirs, as opposed to its original purpose - storing water. In addition to other well-known downsides, such as damages to ecosystems, unequitable access to water upstream and downstream users, authors proposed a long-term dynamic effect by integrating socioeconomic development from the demand side to hydroclimatic condition from the supply side. They analyzed them in a economic framework:
+
+<p align="center">
+<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41893-018-0159-0/MediaObjects/41893_2018_159_Fig2_HTML.png?as=webp">
+</p>
+
+1. demand increases as supply at a faster rate. The consumption of water increases at a higher rate than supply from the time when the dam was built.
+2. reservoir effect: the construction of dam decreases the incentive for adaptation to water shortage and thus increases the risk of drought after the reservoir (vulnerability increased).
+3. Lastly, the author calls on an interdisciplinary approach to address the risk of building dams.
+
 
 # Local state flood policies and planning
 __[The State Flood Assessment](https://texasfloodassessment.org/doc/State-Flood-Assessment-report-86th-Legislation.pdf)__

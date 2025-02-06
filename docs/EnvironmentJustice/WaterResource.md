@@ -5,6 +5,20 @@ parent: Environmental Justice
 nav_order: 1
 ---
 
+# Profile of Populations Socially Vulnerable to Floods
+
+| Factor            | Most Vulnerable                                         | Vulnerability to Flood                                                                 | Citation(s)                                                                 | Potential Indicators                     |
+|------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------|
+| **Age**         | Children, elderly                                      | - Higher mortality  <br> - Higher morbidity  <br> - Higher mental trauma during and post-flood  <br> - Lower recovery rates | Laska and Morrow, 2006; Jonkman et al., 2009; Collins et al., 2013; Muñoz and Tate, 2016 | % Children <br> % Elderly               |
+| **Race, ethnicity** | Nonwhite, recent immigrants, undocumented immigrants, non-native English speakers | - Higher death and injury rates  <br> - Negative post-flood health outcomes  <br> - Less flood insurance  <br> - Lower trust in authority for post-flood assistance | Zahran et al., 2008; Adeola and Picou, 2012; Collins et al., 2013; Maldonado et al., 2016; Muñoz and Tate, 2016; Hamel et al., 2017; Li et al., 2010 | % Black <br> % Hispanic <br> % Asian <br> % Native American <br> % Nonwhite <br> % English proficient |
+| **Income**      | Poor                                                  | - Limited mitigation and recovery resources  <br> - Limited post-flood housing  <br> - Higher post-flood health impacts  <br> - Disproportionately reside in flood-prone areas <br> - Differential rates of flood exposure, evacuation, and return  <br> - Lower recovery rates | Green et al., 2007; Masozera et al., 2007 | Per capita income <br> % Poverty       |
+| **Functional needs** | Disabled, homeless                                  | - Increased flood mortality  <br> - Accessibility barriers to shelter, post-flood housing, transportation, and employment | Hemingway and Priestly, 2014; Stough et al., 2016 | % Disabled <br> % Social security recipients |
+| **Health**      | Chronically ill, uninsured                            | - Increased flood mortality  <br> - Heightened risk of waterborne diseases | Wade et al., 2004; Zahran et al., 2008; Lowe et al., 2013 | % Uninsured                             |
+| **Gender**      | Female, female-headed households                      | - Higher incidence of disaster-induced physical health problems  <br> - Additional family care responsibilities  <br> - Domestic violence | Enarson and Fordham, 2000; Adeola and Picou, 2012 | % Female <br> % Female-headed household |
+| **Housing tenure** | Renters                                             | - Limited flood mitigation funding  <br> - Less access to post-disaster housing programs  <br> - Lower post-flood return rate | Laska and Morrow, 2006; Finch et al., 2010; Kamel, 2012 | % Renters <br> Rental burden           |
+| **Transportation** | Household lacking vehicle access                     | - Evacuation barriers | Colten, 2006; Bullard et al., 2008; Van Zandt et al., 2012 | % Households without car ownership     |
+| **Education**   | Low educational attainment                            | - Lower flood awareness understanding of flood mitigation  <br> - Lower rates of flood insurance coverage and settlements | Fekete, 2009; Van Zandt et al., 2012; Rufat et al., 2015 | % High school degree                   |
+
 # Harzard, Exposure, and vulnerability
 [__Inequitable patterns of US flood risk in the Anthropocene NCC__](https://www.nature.com/articles/s41558-021-01265-6.)
 

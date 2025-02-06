@@ -7,6 +7,8 @@ nav_order: 1
 
 # Profile of Populations Socially Vulnerable to Floods
 
+[Reference](https://nap.nationalacademies.org/read/25381/chapter/6#55)
+
 | Factor            | Most Vulnerable                                         | Vulnerability to Flood                                                                 | Citation(s)                                                                 | Potential Indicators                     |
 |------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------|
 | **Age**         | Children, elderly                                      | - Higher mortality  <br> - Higher morbidity  <br> - Higher mental trauma during and post-flood  <br> - Lower recovery rates | Laska and Morrow, 2006; Jonkman et al., 2009; Collins et al., 2013; Muñoz and Tate, 2016 | % Children <br> % Elderly               |

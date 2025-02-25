@@ -334,6 +334,11 @@ This paper projects future EU floods under three warming levels based on five CM
 __[The role of climate and population change in global flood exposure and vulnerability NC](https://www.nature.com/articles/s41467-025-56654-8#Sec23)__
 
 The author used a global flood model to predict changes in 100-yr floods using different sources: pluvial, fluvial, and coastal floods. They overlay that with socioeconomics to show flood exposures to people and under different land cover such as urban and non-urban.
+<p>
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-56654-8/MediaObjects/41467_2025_56654_Fig2_HTML.png?as=webp">
+  
+</p>
+
 
 ## Regional
 

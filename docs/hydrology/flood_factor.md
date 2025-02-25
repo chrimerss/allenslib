@@ -331,7 +331,9 @@ __[Multi-model ensemble projections of European river floods and high flows at 1
 
 This paper projects future EU floods under three warming levels based on five CMIP5 models and three hydrologic models. They quantified the contribution of uncertainties due to GCM and HM. It was found that for flooding, significant of uncertainties lie in HMs, suprisingly. Mostly high flows are reducing as the warming level increases in most EU.
 
+__[The role of climate and population change in global flood exposure and vulnerability NC](https://www.nature.com/articles/s41467-025-56654-8#Sec23)__
 
+The author used a global flood model to predict changes in 100-yr floods using different sources: pluvial, fluvial, and coastal floods. They overlay that with socioeconomics to show flood exposures to people and under different land cover such as urban and non-urban.
 
 ## Regional
 

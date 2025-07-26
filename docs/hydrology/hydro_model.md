@@ -166,6 +166,36 @@ This study coupled VIC-RAPID from Lin et al. 2019, but assimilated USGS stream g
   <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/b360091c-4282-4aa1-8284-2d70640dfa0b/wrcr26432-fig-0007-m.jpg">
 </p>
 
+__[Guidelines on the Verification of Hydrological Forecasts (WMO](https://library.wmo.int/records/item/69478-guidelines-on-the-verification-of-hydrological-forecasts)__
+
+**Standards and Attributes of Verification**
+Instead of a single "standard," the document presents a framework of key attributes and metrics to assess forecast quality, acknowledging that the appropriate method depends on the type of forecast and the goal of the verification.
+
+Here are the primary standards and attributes discussed for different types of forecasts:
+
+**For Single-Valued (Deterministic) Forecasts:**
+Bias: Measures the tendency to over- or under-forecast. An ideal forecast has a bias of zero.
+
+Accuracy: Refers to the average closeness of the forecasts to the observations. Common metrics include the Mean Squared Error (MSE).
+
+Correlation: Measures the strength of the linear relationship between the forecasts and the observed values.
+
+Skill: Compares the forecast's accuracy to the accuracy of a reference forecast, such as climatology. A skillful forecast is more accurate than the reference.
+
+**For Probabilistic (Ensemble) Forecasts:**
+Reliability (or Calibration): This is a critical attribute. A reliable forecast means that the predicted probabilities correspond to the observed frequencies. For example, when the forecast predicts a 40% chance of an event, that event should actually occur 40% of the time. The Probability Integral Transform (PIT) diagram is a common tool for assessing reliability.
+
+Resolution: The ability of the forecast to issue different probabilities for events that turn out differently. It separates situations with different outcomes.
+
+Sharpness: The ability to issue forecasts with narrow probability distributions. While desirable, sharpness is only valuable if the forecast is also reliable.
+
+Accuracy: For probabilistic forecasts, overall accuracy is often measured by scores like the Brier Score or the Continuous Ranked Probability Score (CRPS).
+
+**For Categorical Forecasts:**
+Verification is often based on a contingency table, which classifies outcomes into categories like hits, misses, false alarms, and correct negatives.
+
+The document uses the historical example of Finley's tornado forecasts to illustrate how a simple metric like "percent correct" can be misleading. It highlights the importance of considering metrics that account for misses and false alarms to get a true picture of forecast performance.
+
 # Coupled hydrologic/hydraulic modeling for flood innudation
 
 __A high resolution coupled hydrologic–hydraulic model (HiResFlood-UCI) for flash flood modeling__

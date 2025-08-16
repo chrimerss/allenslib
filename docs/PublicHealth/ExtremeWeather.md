@@ -57,3 +57,13 @@ __[Emergency department visits associated with satellite observed flooding durin
 This article, the authors used emergency visit data to explore the relation between floods and health records. Some boosted numbers of diseases / injuries are shown below.
 
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41370-021-00361-1/MediaObjects/41370_2021_361_Fig3_HTML.png?as=webp">
+
+__[Large floods drive changes in cause-specific mortality in the United States](https://www.nature.com/articles/s41591-024-03358-z)__
+
+This study investigates flood caused cause-specific mortality and stratified by age, gender, etc. They divide flood into different types such as heavy rainfall, snowmelt, hurricane, etc and examine the flood severity change on mortalities.
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-024-03358-z/MediaObjects/41591_2024_3358_Fig3_HTML.png?as=webp">
+
+
+
+

@@ -58,12 +58,23 @@ This article, the authors used emergency visit data to explore the relation betw
 
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41370-021-00361-1/MediaObjects/41370_2021_361_Fig3_HTML.png?as=webp">
 
-__[Large floods drive changes in cause-specific mortality in the United States](https://www.nature.com/articles/s41591-024-03358-z)__
+__[Large floods drive changes in cause-specific mortality in the United States Nat. Med.](https://www.nature.com/articles/s41591-024-03358-z)__
 
 This study investigates flood caused cause-specific mortality and stratified by age, gender, etc. They divide flood into different types such as heavy rainfall, snowmelt, hurricane, etc and examine the flood severity change on mortalities.
 
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-024-03358-z/MediaObjects/41591_2024_3358_Fig3_HTML.png?as=webp">
 
+__[Association of flooding exposure with cause-specific mortality in North Carolina, United States Nat. Water](https://www.nature.com/articles/s44221-023-00167-5)__
+
+Flooding exposure was associated with mortality risks for cardiovascular disease, respiratory disease, and mental disorders.
 
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-024-03358-z/MediaObjects/41591_2024_3358_Fig4_HTML.png?as=webp">
+
+## Flood-GI diseases
+
+__[Flooding and Emergency Room Visits for Gastrointestinal Illness in Massachusetts: A Case-Crossover Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4201531/#s2)__
+
+It is a county-specific study looking at how flood cause GI-related diseases in Massachusetts.
+
+<img src="https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=31045&s=48&r=2&c=2">
 

@@ -65,5 +65,5 @@ This study investigates flood caused cause-specific mortality and stratified by 
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-024-03358-z/MediaObjects/41591_2024_3358_Fig3_HTML.png?as=webp">
 
 
-
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-024-03358-z/MediaObjects/41591_2024_3358_Fig4_HTML.png?as=webp">
 

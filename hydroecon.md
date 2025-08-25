@@ -24,5 +24,3 @@ The article presents a **coupled agent-based and hydraulic modeling framework** 
 
 **Significance:**  
 This framework allows assessment of both *spatial* and *temporal* flood-risk patterns by considering both human and physical system evolution, rather than treating vulnerability as static. It has important implications for flood-risk policy and management as it highlights the need to consider human behavioral feedbacks in risk assessment, not just physical flood models or static vulnerability indices.
-
-[1](https://www.tandfonline.com/doi/full/10.1080/02626667.2020.1750617#d1e181)

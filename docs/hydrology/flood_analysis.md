@@ -284,3 +284,24 @@ An increase/decrease in flood synchrony is shown:
 <p align="center">
 <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/7384a60c-615c-4437-a98b-ed7a7597481a/grl60423-fig-0002-m.png">
 </p>
+
+# Flood frequency analysis
+
+__[Flood frequency hydrology: 1. Temporal, spatial, and causal expansion of information](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2007WR006744)__
+
+Key Points:
+
+Expansion Beyond Estimation: The authors emphasize leveraging three additional types of information—temporal (historical and proxy data), spatial (regional and neighboring catchments), and causal (mechanistic process understanding)—to expand the informational base for flood estimates.
+
+Temporal Expansion: Uses long-term records, paleoflood evidence, or historical flood marks to put short local records into broader context. Adjustments (e.g., for skewness) improve estimates when rare events are present in brief records. However, care is needed as climatic or anthropogenic changes can make historic floods unrepresentative for the future.
+
+Spatial Expansion: Draws on data from neighboring or similar catchments through regional analysis, geostatistical methods, or hydrological reasoning. This helps in ungauged or data-poor locations, but regional differences or local measurement issues (e.g., gauge bias, catchment heterogeneity) may limit transferability.
+
+Causal Expansion: Incorporates hydrological process knowledge (rainfall types, soil and terrain features, snowmelt, human modifications) to inform the shape and extrapolation of flood frequency curves. Recognizes that flood-producing processes can vary with event size or location, making simple statistical extrapolation potentially misleading.
+
+Hydrological Reasoning vs. Statistics: While formal methods exist for each expansion type, the authors stress the need for hydrological reasoning to integrate various evidence types—quantitative and qualitative—and to interpret, diagnose, and correct formal estimates as needed.
+
+Terminology Shift: They propose “flood frequency hydrology” as a term focused on merging hydrological process understanding and statistics, as opposed to mere “flood frequency statistics.”
+
+Conclusion:
+The paper calls for a more holistic, process-based approach to flood estimation, combining all available information sources and hydrological judgment to improve reliability and accuracy, especially in light of the complexities and site-specific nature of flood behavior. This is illustrated via diverse Austrian case studies throughout the text.
